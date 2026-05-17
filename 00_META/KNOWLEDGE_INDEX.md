@@ -1,0 +1,51 @@
+# Theory Archive Knowledge Index
+
+Status: active index
+Date: 2026-05-17
+CSP event: `projects/syntax/events/2026-05-17-codex-knowledge-compilation-layer-v1.md`
+
+## Purpose
+
+This is the entry map for source-backed theory work in `Theory-archive`.
+It connects the existing idea-state/canon workflow to the Knowledge Compilation
+Layer without promoting drafts into canon.
+
+## Read First
+
+- `00_META/ACTIVE_IDEAS_INDEX.md` - active idea re-entry map.
+- `00_META/MEMORY_SYSTEM_ARCHITECTURE.md` - Git-based idea-state memory architecture.
+- `00_META/MIGRATION_STATUS_RULES.md` - migration/canon status rules.
+- `00_META/CANDIDATE_TO_CANON_CHECKLIST.md` - candidate-to-canon review.
+- `00_META/MAP_OF_THEORIES.md` - module map.
+- `00_META/SOURCE_REGISTRY.md` - source classes and source IDs.
+- `00_META/INGEST_LOG.md` - append-friendly ingest/update log.
+
+## Module Routes
+
+| Module | Owns |
+|---|---|
+| `01_R_THEORY/` | R Theory, recursive choice, R-levels, delta-T, symbolic rupture. |
+| `02_SYNTAX/` | SynTax as thinking/theory-management architecture and operators. |
+| `03_CULTURE_AS_INSTRUCTIONS/` | Culture as externalized instructions. |
+| `04_MEAT/` | MEAT / memetic entanglement. |
+| `05_PNA/` | PNA, consciousness window, perception assembly. |
+| `06_BOUNDARY_SATURATION/` | Boundary Saturation. |
+| `90_CROSS_LINKS/` | Cross-theory links. |
+| `99_ARCHIVE/` | Archived or inactive material. |
+
+## Compilation Rule
+
+For any durable theory import or wiki update:
+
+```text
+source -> source record -> theory draft/evidence/idea card -> this index if needed -> INGEST_LOG -> CSP event
+```
+
+Theory drafts, analogies, speculative models, cases, and evidence are not canon
+unless the target module explicitly marks them as canon or canon candidates and
+the relevant review process is recorded.
+
+## V1 Boundary
+
+This bootstrap does not rewrite existing modules. It only adds a common entry
+point for future source-backed updates and lint reports.
