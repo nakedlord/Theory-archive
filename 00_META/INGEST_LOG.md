@@ -1,7 +1,7 @@
 # Theory Archive Ingest Log
 
 Status: active log
-Date: 2026-05-18
+Date: 2026-05-19
 CSP event: `projects/syntax/events/2026-05-17-codex-knowledge-compilation-layer-v1.md`
 
 Append one row for each meaningful source import, theory update, evidence page,
@@ -13,6 +13,7 @@ idea card, or canon-candidate change.
 | 2026-05-17 | `theory-memory-system-architecture` | `00_META/MEMORY_SYSTEM_ARCHITECTURE.md` | active | codex | `projects/syntax/events/2026-05-17-codex-knowledge-compilation-layer-v1.md` | Existing Git-based idea-state architecture linked into the index. |
 | 2026-05-17 | `theory-migration-status-rules` | `00_META/MIGRATION_STATUS_RULES.md` | active | codex | `projects/syntax/events/2026-05-17-codex-knowledge-compilation-layer-v1.md` | Existing migration/canon status rules linked into the registry. |
 | 2026-05-18 | `source-2026-05-18-higher-order-instruction-networks` | `03_CULTURE_AS_INSTRUCTIONS/SOURCES/2026-05-18_higher_order_networks_source_note.md`; `03_CULTURE_AS_INSTRUCTIONS/HYPOTHESES/2026-05-18_hypergraph_formalization_probe.md`; `00_META/SOURCE_REGISTRY.md`; `00_META/INGEST_LOG.md` | hypothesis / needs_source | chatgpt | `projects/syntax/events/2026-05-18-chatgpt-hypergraph-instructional-culture-knowledge-update.md` | Added non-canon formalization probe for typed temporal hypergraph modeling of instructional culture and MEAT complexes; Naked Science source remains unverified lead. |
+| 2026-05-19 | `source-2026-05-18-higher-order-instruction-networks` | `03_CULTURE_AS_INSTRUCTIONS/SOURCES/2026-05-19_weighted_hypergraph_distance_verification.md`; `03_CULTURE_AS_INSTRUCTIONS/CASES/2026-05-19_hypergraph_carrier_bundle_test.md`; `00_META/SOURCE_REGISTRY.md`; `00_META/INGEST_LOG.md` | source_verified_for_representation_risk / methodological_case_test | chatgpt | `projects/syntax/events/2026-05-19-chatgpt-hypergraph-instructional-culture-source-case-test.md` | Verified underlying weighted hypergraph distance paper at representation-risk level and added pairwise-vs-hypergraph carrier bundle test; still non-canon and needs concrete historical/textual case. |
 
 ## Status Values
 
