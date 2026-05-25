@@ -1,7 +1,7 @@
 # Theory Archive Source Registry
 
 Status: active registry
-Date: 2026-05-19
+Date: 2026-05-23
 CSP event: `projects/syntax/events/2026-05-17-codex-knowledge-compilation-layer-v1.md`
 
 ## Purpose
@@ -45,6 +45,7 @@ source-YYYY-MM-DD-short-topic
 | `theory-memory-system-architecture` | `repo_artifact` | active | `00_META/MEMORY_SYSTEM_ARCHITECTURE.md` | Existing memory architecture map. |
 | `theory-migration-status-rules` | `repo_artifact` | active | `00_META/MIGRATION_STATUS_RULES.md` | Existing migration/canon status policy. |
 | `source-2026-05-18-higher-order-instruction-networks` | `external_reference` + `human_note` | source_verified_for_representation_risk / hypothesis | `03_CULTURE_AS_INSTRUCTIONS/SOURCES/2026-05-18_higher_order_networks_source_note.md`; `03_CULTURE_AS_INSTRUCTIONS/SOURCES/2026-05-19_weighted_hypergraph_distance_verification.md`; `03_CULTURE_AS_INSTRUCTIONS/HYPOTHESES/2026-05-18_hypergraph_formalization_probe.md`; `03_CULTURE_AS_INSTRUCTIONS/CASES/2026-05-19_hypergraph_carrier_bundle_test.md` | User reframed higher-order / hypergraph network math as a formalization probe for Culture as Externalized Instructions. Underlying verified source: `Distances in weighted higher-order networks`, Communications Physics, 2026-03-26. Supports representation-risk claim only, not cultural canon. |
+| `syntax-2026-05-23-ai-assisted-precognition` | `chat_export` + `human_note` | active_hypothesis / operator_candidate | `02_SYNTAX/SOURCES/2026-05-23_ai_assisted_precognition_source_note.md`; `02_SYNTAX/HYPOTHESES/2026-05-23_ai_assisted_precognition.md` | User formulated `опережающее мышление` / AI-assisted precognition after using AI to pre-process a transcript, extract transferable architecture, map it to their own systems, and write a CSP/Codex implementation plan. Non-canon; to be tested across multiple source types. |
 
 ## Rule
 
