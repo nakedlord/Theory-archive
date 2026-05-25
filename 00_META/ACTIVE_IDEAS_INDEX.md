@@ -1,7 +1,7 @@
 # Active Ideas Index
 
 Status: active index / needs review
-Date: 2026-05-11
+Date: 2026-05-23
 
 ## Purpose
 
@@ -19,6 +19,7 @@ The index is not a transcript. It is a re-entry map: it tells future agents whic
 | scaffolded-continuity-operator | Scaffolded Continuity Operator | operator_candidate | SynTax, R Theory | `02_SYNTAX/OPERATORS/scaffolded_continuity_operator.md` | high | Use it to resume from current idea state instead of restarting reasoning. |
 | analogical-operator-protocol | Analogical Operator Protocol | operator_candidate | SynTax, R Theory | `02_SYNTAX/PATCHES/2026-05-11_analogical_operator_protocol.md` | high | Use it to process new ideas: capture association, classify analogy level, extract operator, test abstraction. |
 | associative-frame-escape | Associative Frame Escape | active_hypothesis | R Theory, SynTax | `01_R_THEORY/PATCHES/2026-05-11_associative_frame_escape.md` | high | Check whether frame escape in future cases depends on non-local association entering the selection field before logic stabilizes it. |
+| ai-assisted-precognition | AI-Assisted Precognition / Опережающее мышление | active_hypothesis | SynTax, R Theory, Culture as Instructions | `02_SYNTAX/HYPOTHESES/2026-05-23_ai_assisted_precognition.md` | high | Run the Precognitive Source Probe on three source types: technical article, business/product case, and theory/philosophy text. |
 
 ## Use Rule
 
@@ -27,7 +28,7 @@ Before working on a new theory idea, a future agent should:
 1. Read this index.
 2. Check whether the new idea updates an existing active idea.
 3. Avoid creating a duplicate if the idea is a continuation.
-4. Add a revision note or weighted link to the existing card when appropriate.
+4. Add a revision note or weighted link to the existing idea card when appropriate.
 5. Create a new idea card only when the new idea has a distinct operator or problem field.
 6. Use `MEMORY_SYSTEM_ARCHITECTURE.md` when the question concerns Git memory, recall, context continuity, or multi-agent memory design.
 
