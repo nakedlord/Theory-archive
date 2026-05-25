@@ -1,7 +1,7 @@
 # R Theory Evidence Index
 
 Статус: active evidence index
-Дата: 2026-04-25
+Дата: 2026-05-25
 
 ## Назначение
 
@@ -166,7 +166,49 @@ high relevance / plausible but contested
 
 ---
 
-## 6. Evidence claims by confidence
+## 6. `2026-05-25_pmv_action_symbols_evidence_note.md`
+
+### Статус
+
+```text
+source_verified / non_canon_evidence
+```
+
+### Claim
+
+Популяционная активность в ventral premotor cortex (PMv) у макак может кодировать action-symbols: инвариантные, категориальные и рекомбинируемые моторные примитивы.
+
+### Что поддерживает
+
+- action-first путь к абстракции;
+- различение операции, action-symbol и позднейшего символического носителя;
+- чтение ранних артефактов как следов стабилизированных операций, а не только как объектов/форм;
+- R2-compatible композицию действий до полноценного R3-анализа причин.
+
+### Что не поддерживает напрямую
+
+- PMv как общий центр абстрактного мышления;
+- происхождение языка;
+- наличие R3 у макак;
+- интерпретацию конкретных археологических индустрий без отдельного case test.
+
+### Использование
+
+Использовать как source-backed evidence для гипотезы:
+
+```text
+operation -> action-symbol -> external trace -> symbolic carrier
+```
+
+Не использовать как canon patch без отдельной археологической и теоретической проверки.
+
+---
+
+## 7. Evidence claims by confidence
+
+### Source verified, theory interpretation needs test
+
+- PMv action-symbols as evidence for action-first abstraction and artifact-as-operation interpretation.
 
 ### Strong candidate, needs sources
 
@@ -191,7 +233,7 @@ high relevance / plausible but contested
 
 ---
 
-## 7. Evidence not yet separated into files
+## 8. Evidence not yet separated into files
 
 From the migrated Drive overview, possible future evidence files:
 
@@ -205,7 +247,7 @@ Do not create unless needed for migration closure.
 
 ---
 
-## 8. Evidence usage rules
+## 9. Evidence usage rules
 
 1. Do not cite evidence files as final proof.
 2. Always preserve confidence status.
@@ -216,15 +258,16 @@ Do not create unless needed for migration closure.
 
 ---
 
-## 9. Next steps
+## 10. Next steps
 
 1. Create `EVIDENCE/SOURCE_STATUS.md`.
 2. Create source cards for each evidence file.
 3. Add citations where possible.
 4. Update `SOURCE_VERIFICATION_PLAN.md`.
+5. Compare PMv action-symbol criteria with Lomekwi / Oldowan / Acheulean operation-stabilization markers.
 
 ## Current evidence block status
 
 ```text
-indexed / not source-verified / useful but not canon
+indexed / partially source-verified / useful but not canon
 ```
