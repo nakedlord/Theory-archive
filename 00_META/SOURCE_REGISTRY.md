@@ -1,7 +1,7 @@
 # Theory Archive Source Registry
 
 Status: active registry
-Date: 2026-05-25
+Date: 2026-05-26
 CSP event: `projects/syntax/events/2026-05-17-codex-knowledge-compilation-layer-v1.md`
 
 ## Purpose
@@ -48,6 +48,7 @@ source-YYYY-MM-DD-short-topic
 | `syntax-2026-05-23-ai-assisted-precognition` | `chat_export` + `human_note` | active_hypothesis / operator_candidate | `02_SYNTAX/SOURCES/2026-05-23_ai_assisted_precognition_source_note.md`; `02_SYNTAX/HYPOTHESES/2026-05-23_ai_assisted_precognition.md` | User formulated `опережающее мышление` / AI-assisted precognition after using AI to pre-process a transcript, extract transferable architecture, map it to their own systems, and write a CSP/Codex implementation plan. Non-canon; to be tested across multiple source types. |
 | `source-2026-05-25-pmv-action-symbols` | `external_reference` | source_verified / evidence_note | `01_R_THEORY/SOURCES/2026-05-25_pmv_action_symbols_nature_source.md`; `01_R_THEORY/EVIDENCE/2026-05-25_pmv_action_symbols_evidence_note.md` | Nature 2026 PMv action-symbols paper used as non-canon evidence for action-first abstraction and artifact-as-operation interpretation. Supports a narrow action-symbol claim only; does not prove full R3, language origin, or PMv as a general abstract-thought center. |
 | `culture-2026-05-25-myth-dynamic-instruction-network` | `chat_export` + `human_note` | active_hypothesis / non-canon | `03_CULTURE_AS_INSTRUCTIONS/SOURCES/2026-05-25_myth_dynamic_instruction_network_source_note.md`; `03_CULTURE_AS_INSTRUCTIONS/HYPOTHESES/2026-05-25_myth_as_dynamic_instruction_network.md` | User clarified mythologization as a dynamic external instruction network with temporary activation centers, agency compression, R1 mass-transmission compression, and R2/R3 infrastructure requirements. Non-canon; needs concrete textual/historical case test. |
+| `culture-2026-05-26-mark-ending-hypergraph-test` | `external_reference` + `repo_artifact` | partial_source_verification / concrete_textual_stress_test / non-canon | `03_CULTURE_AS_INSTRUCTIONS/SOURCES/2026-05-26_mark_ending_textual_source_note.md`; `03_CULTURE_AS_INSTRUCTIONS/CASES/2026-05-26_mark_ending_hypergraph_test.md` | Concrete stress-test for hypergraph modeling on Mark 16:8 and the longer ending tradition. Uses only cautious textual premises; does not make historical, theological, or canon claims. |
 
 ## Rule
 
