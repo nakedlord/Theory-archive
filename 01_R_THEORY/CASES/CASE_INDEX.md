@@ -1,7 +1,7 @@
 # R Theory Case Index
 
 Статус: active case index
-Дата: 2026-04-25
+Дата: 2026-05-26
 
 ## Назначение
 
@@ -206,7 +206,56 @@ working map / supports archaeology block
 
 ---
 
-## 7. Case coverage summary
+## 7. `2026-05-26_action_symbol_archaeology_check.md`
+
+### Статус
+
+```text
+non_canon_case_check / supports action-first abstraction evidence
+```
+
+### Проверяемый источник / evidence
+
+- `SOURCES/2026-05-25_pmv_action_symbols_nature_source.md`
+- `EVIDENCE/2026-05-25_pmv_action_symbols_evidence_note.md`
+
+### Суть
+
+Кейс проверяет PMv/action-symbol criteria на археологической последовательности:
+
+```text
+Lomekwi -> Oldowan -> Acheulean -> ochre/burial
+```
+
+Рабочий вывод:
+
+```text
+operation -> stabilized operation -> portable action category -> recombinable action grammar -> external trace -> symbolic carrier
+```
+
+### Что усиливает
+
+- гипотезу action-first abstraction;
+- чтение артефакта как следа операции, а не только объекта;
+- Oldowan как возможный нижний порог action-symbol layer;
+- Acheulean как сильный кандидат на action grammar / R2+.
+
+### Что не доказывает
+
+- full R3;
+- происхождение языка;
+- развитое символическое значение;
+- прямой доступ к mental state по одному типу артефакта.
+
+### Нужно проверить
+
+- source cards по Lomekwi / Oldowan / Acheulean / ochre-burial;
+- различие morphology / operational sequence / teaching-transmission / significance;
+- возможность canon promotion только после отдельного review.
+
+---
+
+## 8. Case coverage summary
 
 ### Покрытые темы
 
@@ -214,12 +263,14 @@ working map / supports archaeology block
 - огонь;
 - погребение;
 - табу / удача;
-- общая археологическая карта.
+- общая археологическая карта;
+- action-symbol archaeology check.
 
-### Проверяемые патчи
+### Проверяемые патчи / evidence
 
 - symbol_to_concept;
-- shadows_of_R3.
+- shadows_of_R3;
+- PMv action-symbols / action-first abstraction.
 
 ### Слабые места
 
@@ -232,7 +283,7 @@ working map / supports archaeology block
 
 ---
 
-## 8. Next case tasks
+## 9. Next case tasks
 
 Возможные будущие кейсы внутри R Theory:
 
@@ -244,10 +295,16 @@ CASES/discipline_affect_case.md
 CASES/decoherence_choice_example.md
 ```
 
-Не создавать их как развитие до завершения migration closure, если нет необходимости.
+Новый обязательный source-verification task после PMv/action-symbol check:
+
+```text
+SOURCES/lomekwi_oldowan_acheulean_action_sequence_source_cards.md
+```
+
+Не создавать canon update до source verification и review.
 
 ## Current cases block status
 
 ```text
-indexed / draft cases / source verification required
+indexed / draft and non-canon case checks / source verification required
 ```
