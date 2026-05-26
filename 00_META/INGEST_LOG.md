@@ -1,7 +1,7 @@
 # Theory Archive Ingest Log
 
 Status: active log
-Date: 2026-05-25
+Date: 2026-05-26
 CSP event: `projects/syntax/events/2026-05-17-codex-knowledge-compilation-layer-v1.md`
 
 Append one row for each meaningful source import, theory update, evidence page,
@@ -17,6 +17,7 @@ idea card, or canon-candidate change.
 | 2026-05-23 | `syntax-2026-05-23-ai-assisted-precognition` | `02_SYNTAX/SOURCES/2026-05-23_ai_assisted_precognition_source_note.md`; `02_SYNTAX/HYPOTHESES/2026-05-23_ai_assisted_precognition.md`; `00_META/SOURCE_REGISTRY.md`; `00_META/ACTIVE_IDEAS_INDEX.md`; `00_META/INGEST_LOG.md` | active_hypothesis / operator_candidate | chatgpt | `projects/syntax/events/2026-05-23-chatgpt-ai-assisted-precognition-theory-update.md` | Added non-canon idea card for `AI-assisted precognition` / `опережающее мышление`: AI as a scout before deep attention, extracting source value, transferable operators, and implementation paths before full source consumption. |
 | 2026-05-25 | `source-2026-05-25-pmv-action-symbols` | `01_R_THEORY/SOURCES/2026-05-25_pmv_action_symbols_nature_source.md`; `01_R_THEORY/EVIDENCE/2026-05-25_pmv_action_symbols_evidence_note.md`; `01_R_THEORY/EVIDENCE/EVIDENCE_INDEX.md`; `00_META/SOURCE_REGISTRY.md`; `00_META/INGEST_LOG.md` | source_verified / non_canon_evidence | chatgpt | `projects/syntax/events/2026-05-25-chatgpt-pmv-action-symbols-rtheory-evidence.md` | Added Nature 2026 PMv action-symbols source and R Theory evidence note. Supports action-first abstraction and artifact-as-operation interpretation; does not promote canon or claim full R3/language origin. |
 | 2026-05-25 | `culture-2026-05-25-myth-dynamic-instruction-network` | `03_CULTURE_AS_INSTRUCTIONS/SOURCES/2026-05-25_myth_dynamic_instruction_network_source_note.md`; `03_CULTURE_AS_INSTRUCTIONS/HYPOTHESES/2026-05-25_myth_as_dynamic_instruction_network.md`; `00_META/SOURCE_REGISTRY.md`; `00_META/ACTIVE_IDEAS_INDEX.md`; `00_META/INGEST_LOG.md` | active_hypothesis / non-canon | chatgpt | `projects/syntax/events/2026-05-25-chatgpt-myth-dynamic-instruction-network.md` | Added user-grounded non-canon hypothesis: myth as dynamic instruction network with temporary activation centers, agency compression, R1 mass-transmission compression, R2/R3 storage infrastructure, and inconvenient-detail weight redistribution. |
+| 2026-05-26 | `source-2026-05-18-higher-order-instruction-networks` | `03_CULTURE_AS_INSTRUCTIONS/CASES/2026-05-26_hypergraph_inconvenient_detail_test.md`; `00_META/INGEST_LOG.md` | methodological_case_test / non-canon | chatgpt | `projects/syntax/events/2026-05-26-chatgpt-hypergraph-inconvenient-detail-test.md` | Tested inconvenient-detail dynamics: hypergraph representation adds distinguishing power when the same detail has different fates across different carrier bundles; still needs concrete historical/textual case. |
 
 ## Status Values
 
