@@ -1,7 +1,7 @@
 # Theory Archive Ingest Log
 
 Status: active log
-Date: 2026-05-26
+Date: 2026-05-27
 CSP event: `projects/syntax/events/2026-05-17-codex-knowledge-compilation-layer-v1.md`
 
 Append one row for each meaningful source import, theory update, evidence page,
@@ -21,6 +21,7 @@ idea card, or canon-candidate change.
 | 2026-05-26 | `source-2026-05-18-higher-order-instruction-networks` | `03_CULTURE_AS_INSTRUCTIONS/CASES/2026-05-26_hypergraph_contradiction_layers_test.md`; `00_META/INGEST_LOG.md` | methodological_case_test / non-canon | chatgpt | `projects/syntax/events/2026-05-26-chatgpt-hypergraph-contradiction-layers-test.md` | Tested contradiction-layer dynamics: hypergraph representation adds distinguishing power only for multi-layer contradictions where the contradiction is an overlap/collision between layer-bundles; concrete textual case still required. |
 | 2026-05-26 | `source-2026-05-25-pmv-action-symbols` | `01_R_THEORY/CASES/2026-05-26_action_symbol_archaeology_check.md`; `01_R_THEORY/CASES/CASE_INDEX.md`; `00_META/INGEST_LOG.md` | non_canon_case_check / archaeology_probe | chatgpt | `projects/syntax/events/2026-05-26-chatgpt-action-symbol-archaeology-check.md` | Tested PMv/action-symbol criteria against Lomekwi, Oldowan, Acheulean, and ochre/burial layers. Result: Lomekwi as proto-operation, Oldowan as action-symbol threshold candidate, Acheulean as action grammar/R2+ candidate, ochre/burial as symbolic carrier layer. |
 | 2026-05-26 | `culture-2026-05-26-mark-ending-hypergraph-test` | `03_CULTURE_AS_INSTRUCTIONS/SOURCES/2026-05-26_mark_ending_textual_source_note.md`; `03_CULTURE_AS_INSTRUCTIONS/CASES/2026-05-26_mark_ending_hypergraph_test.md`; `00_META/SOURCE_REGISTRY.md`; `00_META/INGEST_LOG.md` | concrete_textual_stress_test / partial_source_verification / non-canon | chatgpt | `projects/syntax/events/2026-05-26-chatgpt-mark-ending-hypergraph-test.md` | Tested Mark 16:8 / longer ending tradition: hypergraph model adds value by separating textual-critical, narrative, theological, institutional, and modern-critical transmission bundles; simple layer table remains sufficient if only listing layers. |
+| 2026-05-27 | `rtheory-2026-05-27-lomekwi-proto-operation`; `rtheory-2026-05-27-oldowan-action-symbol-threshold`; `rtheory-2026-05-27-acheulean-action-grammar`; `rtheory-2026-05-27-symbolic-carrier-ochre-burial` | `01_R_THEORY/SOURCES/2026-05-27_lomekwi_proto_operation_source_card.md`; `01_R_THEORY/SOURCES/2026-05-27_oldowan_action_symbol_threshold_source_card.md`; `01_R_THEORY/SOURCES/2026-05-27_acheulean_action_grammar_source_card.md`; `01_R_THEORY/SOURCES/2026-05-27_symbolic_carrier_ochre_burial_source_card.md`; `00_META/SOURCE_REGISTRY.md`; `00_META/INGEST_LOG.md` | source_verification_cards / non-canon | chatgpt | `projects/syntax/events/2026-05-27-chatgpt-action-symbol-archaeology-source-verification.md` | Added source-verification cards for the action-symbol archaeology chain: Lomekwi proto-operation, Oldowan action-symbol threshold, Acheulean action grammar/R2+, and ochre/burial symbolic carrier layer. |
 
 ## Status Values
 
