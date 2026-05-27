@@ -1,7 +1,7 @@
 # Active Ideas Index
 
 Status: active index / needs review
-Date: 2026-05-25
+Date: 2026-05-27
 
 ## Purpose
 
@@ -21,6 +21,7 @@ The index is not a transcript. It is a re-entry map: it tells future agents whic
 | associative-frame-escape | Associative Frame Escape | active_hypothesis | R Theory, SynTax | `01_R_THEORY/PATCHES/2026-05-11_associative_frame_escape.md` | high | Check whether frame escape in future cases depends on non-local association entering the selection field before logic stabilizes it. |
 | ai-assisted-precognition | AI-Assisted Precognition / Опережающее мышление | active_hypothesis | SynTax, R Theory, Culture as Instructions | `02_SYNTAX/HYPOTHESES/2026-05-23_ai_assisted_precognition.md` | high | Run the Precognitive Source Probe on three source types: technical article, business/product case, and theory/philosophy text. |
 | myth-dynamic-instruction-network | Myth as Dynamic Instruction Network | active_hypothesis | Culture as Instructions, R Theory, MEAT | `03_CULTURE_AS_INSTRUCTIONS/HYPOTHESES/2026-05-25_myth_as_dynamic_instruction_network.md` | high | Run a concrete case test: compare static core/periphery vs temporary activation-center model on a mythologized historical figure, preferably the existing New Testament / Passion narrative case cluster. |
+| soteriological-ritual-accumulation | Soteriological Ritual Accumulation | active_hypothesis / non-canon | Soteriological Ritual Accumulation, Culture as Instructions, R Theory | `07_SOTERIOLOGICAL_RITUAL_ACCUMULATION/HYPOTHESES/2026-05-26_soteriological_ritual_accumulation.md` | high | Run a source-backed comparison: Russian Orthodox icon/saint practice vs Catholic saint practice vs Protestant ritual pruning; test against generic conservatism, institutional inertia, and magical thinking. |
 
 ## Use Rule
 
