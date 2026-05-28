@@ -2,6 +2,7 @@
 
 Status: active index / needs review
 Date: 2026-05-27
+CSP event: `projects/syntax/events/2026-05-28-codex-theory-archive-syntax-export-batch-2.md`
 
 ## Purpose
 
@@ -18,6 +19,8 @@ The index is not a transcript. It is a re-entry map: it tells future agents whic
 | weighted-association-scaffolded-continuity | Weighted Association + Scaffolded Continuity | active_hypothesis | R Theory, SynTax | `01_R_THEORY/HYPOTHESES/2026-05-11_weighted_association_scaffolded_continuity.md` | high | Test on the user's next new idea by identifying weighted associations, scaffolds, extracted operator, and what changed from prior state. |
 | scaffolded-continuity-operator | Scaffolded Continuity Operator | operator_candidate | SynTax, R Theory | `02_SYNTAX/OPERATORS/scaffolded_continuity_operator.md` | high | Use it to resume from current idea state instead of restarting reasoning. |
 | analogical-operator-protocol | Analogical Operator Protocol | operator_candidate | SynTax, R Theory | `02_SYNTAX/PATCHES/2026-05-11_analogical_operator_protocol.md` | high | Use it to process new ideas: capture association, classify analogy level, extract operator, test abstraction. |
+| domain-tone-router | Domain Tone Router | operator_candidate / needs_test | SynTax | `02_SYNTAX/OPERATORS/domain_tone_router.md` | high | Test on mixed domain prompts and verify that tone/structure shifts without exposing routing machinery or losing substance. |
+| cognitive-ascent-architecture | Cognitive Ascent Architecture | operator_candidate / needs_test | SynTax, R Theory | `02_SYNTAX/OPERATORS/cognitive_ascent_architecture.md` | high | Compare baseline answer vs CAA answer on the next new theory idea: infer vector, extend one stable level, mark what is new, and check drift. |
 | associative-frame-escape | Associative Frame Escape | active_hypothesis | R Theory, SynTax | `01_R_THEORY/PATCHES/2026-05-11_associative_frame_escape.md` | high | Check whether frame escape in future cases depends on non-local association entering the selection field before logic stabilizes it. |
 | ai-assisted-precognition | AI-Assisted Precognition / Опережающее мышление | active_hypothesis | SynTax, R Theory, Culture as Instructions | `02_SYNTAX/HYPOTHESES/2026-05-23_ai_assisted_precognition.md` | high | Run the Precognitive Source Probe on three source types: technical article, business/product case, and theory/philosophy text. |
 | myth-dynamic-instruction-network | Myth as Dynamic Instruction Network | active_hypothesis | Culture as Instructions, R Theory, MEAT | `03_CULTURE_AS_INSTRUCTIONS/HYPOTHESES/2026-05-25_myth_as_dynamic_instruction_network.md` | high | Run a concrete case test: compare static core/periphery vs temporary activation-center model on a mythologized historical figure, preferably the existing New Testament / Passion narrative case cluster. |

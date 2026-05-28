@@ -2,7 +2,9 @@
 id: rtheory-2026-05-26-action-symbol-archaeology-check
 type: case_check
 status: non_canon_case_check
-source_id: source-2026-05-25-pmv-action-symbols
+source_id: rtheory-2026-05-26-action-symbol-archaeology-check
+source_anchor: source-2026-05-25-pmv-action-symbols
+csp_event: projects/syntax/events/2026-05-28-codex-theory-archive-syntax-export-batch-2.md
 module: 01_R_THEORY
 date: 2026-05-26
 ---
