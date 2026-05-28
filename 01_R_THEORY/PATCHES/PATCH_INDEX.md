@@ -235,3 +235,41 @@ keep as migration draft / needs verification
 ```text
 indexed / not closed / source verification required
 ```
+
+---
+
+## 7. `2026-05-28_r3_modes_instruction_runtime_candidate_patch.md`
+
+CSP event: `projects/syntax/events/2026-05-28-codex-theory-archive-rtheory-export-batch-4.md`
+
+### Status
+
+```text
+candidate_patch / source-backed by chat export / not canon
+```
+
+### Source IDs
+
+- `rtheory-2026-05-28-recursive-choice-symbolic-rupture-export`
+- `rtheory-2026-05-28-r3-1-3-export`
+- `rtheory-2026-05-28-rtheory-structuration-export`
+
+### Summary
+
+The patch preserves the R3.1/R3.2/R3.3 operating-mode split, the motivational
+field correction, instruction runtime, Q-R3 and recursive-choice/decoherence
+source anchors, and the boundary that R4 is not accepted as a default next
+operator.
+
+### Related files
+
+- `../SOURCES/2026-05-28_recursive_choice_symbolic_rupture_chat_export_source_note.md`
+- `../SOURCES/2026-05-28_r3_1_3_chat_export_source_note.md`
+- `../SOURCES/2026-05-28_rtheory_structuration_chat_export_source_note.md`
+- `../../90_CROSS_LINKS/2026-05-28_rtheory_instruction_runtime_cross_links.md`
+
+### Current decision
+
+```text
+keep as candidate patch; do not update CANON.md before review
+```

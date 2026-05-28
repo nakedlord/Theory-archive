@@ -315,3 +315,37 @@ R Theory перенесена широко, но ещё не закрыта.
 ```text
 partial / broad migration done / indexing and verification required
 ```
+
+---
+
+## 11. Chat Export Source Batch 2026-05-28
+
+CSP event: `projects/syntax/events/2026-05-28-codex-theory-archive-rtheory-export-batch-4.md`
+
+### Added source coverage
+
+The OpenAI export batch adds direct private-chat provenance for:
+
+- `Recursive Choice & Symbolic Rupture Theory`;
+- R3.1/R3.2/R3.3 operating modes;
+- R as learning displacement from real error into internal simulation and
+  rule rewrite;
+- Delta-T and recursive choice/decoherence as formal choice architecture;
+- Q-R3 as a question-driven auxiliary R3 module;
+- instruction runtime, instruction competition, ritual, superstition, and
+  R3-to-R1 compilation;
+- R4 boundary: not accepted as a default next R operator.
+
+### New artifacts
+
+- `SOURCES/2026-05-28_recursive_choice_symbolic_rupture_chat_export_source_note.md`
+- `SOURCES/2026-05-28_r3_1_3_chat_export_source_note.md`
+- `SOURCES/2026-05-28_rtheory_structuration_chat_export_source_note.md`
+- `PATCHES/2026-05-28_r3_modes_instruction_runtime_candidate_patch.md`
+- `../90_CROSS_LINKS/2026-05-28_rtheory_instruction_runtime_cross_links.md`
+
+### Current status
+
+```text
+source provenance improved / canon unchanged / review required
+```

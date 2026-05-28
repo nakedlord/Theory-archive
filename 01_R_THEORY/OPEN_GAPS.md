@@ -377,3 +377,53 @@ MIGRATION_CLOSURE.md
 ```text
 R Theory migration: broad transfer done, structural closure not done
 ```
+
+---
+
+## 11. Chat Export Batch 2026-05-28 Gaps
+
+CSP event: `projects/syntax/events/2026-05-28-codex-theory-archive-rtheory-export-batch-4.md`
+
+### 11.1 R3 modes now have source anchors
+
+Status:
+
+```text
+source_found / candidate_patch / needs_review
+```
+
+Source notes:
+
+- `SOURCES/2026-05-28_recursive_choice_symbolic_rupture_chat_export_source_note.md`
+- `SOURCES/2026-05-28_r3_1_3_chat_export_source_note.md`
+
+Needed:
+
+- decide whether R3.1/R3.2/R3.3 become canon, version material, or remain a
+  candidate patch;
+- compare against `VERSIONS/v3.1_full.md` and `VERSIONS/v3.2.md`;
+- decide whether the motivational field belongs in R Theory, PNA, or a
+  cross-link.
+
+### 11.2 Q-R3 and decoherence source gaps are narrowed, not closed
+
+Status:
+
+```text
+source_anchor_found / still needs review
+```
+
+The export batch anchors `PATCHES/q_r3_system.md` and
+`PATCHES/recursive_choice_decoherence.md`, but does not complete canon review.
+
+### 11.3 Instruction runtime needs routing decision
+
+Status:
+
+```text
+candidate / cross-route
+```
+
+Instruction runtime touches R Theory, Culture as Externalized Instructions,
+SynTax operator architecture, and applied GYMKiDs/Fly Zone methodology. Future
+work must choose the owning module before expanding it.

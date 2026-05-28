@@ -180,3 +180,24 @@ Q-R3 не должен бесконечно разгонять вопросы.
 Он не создаёт новый канон R-теории, а фиксирует отдельный модуль question-driven R3.
 
 Нужно сверить с исходным Q-R3 v1.0 при возможности.
+
+---
+
+## Source Anchor Update 2026-05-28
+
+CSP event: `projects/syntax/events/2026-05-28-codex-theory-archive-rtheory-export-batch-4.md`
+
+Status:
+
+```text
+source_anchor_found / still needs review / not canon
+```
+
+The ChatGPT export batch added source notes that anchor this migration draft:
+
+- `01_R_THEORY/SOURCES/2026-05-28_recursive_choice_symbolic_rupture_chat_export_source_note.md`
+- `01_R_THEORY/SOURCES/2026-05-28_r3_1_3_chat_export_source_note.md`
+
+The export supports Q-R3 as an auxiliary question engine that preserves problem
+tension and delays premature closure. It does not by itself decide whether Q-R3
+belongs inside R Theory canon, SynTax operator architecture, or a cross-link.

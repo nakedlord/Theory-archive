@@ -240,3 +240,31 @@ source verification open
 canon expansion paused
 new theory development paused
 ```
+
+---
+
+## 13. R Theory Export Batch 2026-05-28
+
+Status:
+
+```text
+source_found / candidate_patch / needs_review / not canon
+```
+
+The R Theory export batch added source notes for three private ChatGPT
+conversations and a non-canon candidate patch for R3 modes and instruction
+runtime.
+
+Changed status:
+
+- R3.1/R3.2/R3.3 now have source anchors.
+- Q-R3 and recursive-choice/decoherence now have source anchors, but still need
+  review.
+- Instruction runtime is a cross-route candidate touching R Theory, Culture,
+  SynTax, PNA, and GYMKiDs methodology.
+
+Next review:
+
+```text
+R Theory canon/version review before any CANON.md update
+```
