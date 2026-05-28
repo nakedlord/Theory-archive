@@ -1,8 +1,8 @@
 # Theory Archive Ingest Log
 
 Status: active log
-Date: 2026-05-27
-CSP event: `projects/syntax/events/2026-05-17-codex-knowledge-compilation-layer-v1.md`
+Date: 2026-05-28
+CSP event: `projects/syntax/events/2026-05-28-chatgpt-kant-nvc-predication-hygiene.md`
 
 Append one row for each meaningful source import, theory update, evidence page,
 idea card, or canon-candidate change.
@@ -37,6 +37,7 @@ idea card, or canon-candidate change.
 | 2026-05-28 | `rtheory-2026-05-28-r3-modes-instruction-runtime-review` | `01_R_THEORY/PATCHES/2026-05-28_r3_modes_instruction_runtime_review.md`; `01_R_THEORY/PATCHES/PATCH_INDEX.md`; `01_R_THEORY/CANON_REVIEW.md`; `01_R_THEORY/COVERAGE.md`; `01_R_THEORY/OPEN_GAPS.md`; `00_META/ACTIVE_IDEAS_INDEX.md`; `00_META/SOURCE_REGISTRY.md`; `00_META/INGEST_LOG.md`; `00_META/OPEN_GAPS.md` | review_completed / canon_review_candidate_split / not_canon | codex | `projects/syntax/events/2026-05-28-codex-theory-archive-r3-modes-review.md` | Reviewed the R3 modes / instruction runtime patch. R3 modes can move to canon-review candidate status; instruction runtime, Q-R3, PNA motivational field, and GYMKiDs applied methodology require route-specific splits. Canon unchanged. |
 | 2026-05-28 | `rtheory-2026-05-28-r3-modes-canon-compression-packet` | `01_R_THEORY/PATCHES/2026-05-28_r3_modes_canon_compression_packet.md`; `01_R_THEORY/PATCHES/PATCH_INDEX.md`; `01_R_THEORY/CANON_REVIEW.md`; `01_R_THEORY/COVERAGE.md`; `01_R_THEORY/OPEN_GAPS.md`; `00_META/ACTIVE_IDEAS_INDEX.md`; `00_META/SOURCE_REGISTRY.md`; `00_META/INGEST_LOG.md`; `00_META/OPEN_GAPS.md` | canon_compression_packet / ready_for_human_acceptance / not_canon | codex | `projects/syntax/events/2026-05-28-codex-theory-archive-r3-closure.md` | Closed the internal R3 review pass by isolating exact compact canon wording for R levels as displaced learning and R3-A/B/C modes. Canon unchanged; next action is human accept/reject. |
 | 2026-05-28 | `rtheory-2026-05-28-r3-canon-acceptance` | `01_R_THEORY/CANON.md`; `01_R_THEORY/VERSIONS/v3.3.md`; `01_R_THEORY/VERSIONS/README.md`; `01_R_THEORY/STATUS.md`; `01_R_THEORY/PATCHES/2026-05-28_r3_modes_canon_compression_packet.md`; `01_R_THEORY/PATCHES/PATCH_INDEX.md`; `01_R_THEORY/CANON_REVIEW.md`; `01_R_THEORY/COVERAGE.md`; `01_R_THEORY/OPEN_GAPS.md`; `00_META/ACTIVE_IDEAS_INDEX.md`; `00_META/SOURCE_REGISTRY.md`; `00_META/INGEST_LOG.md`; `00_META/OPEN_GAPS.md` | accepted_into_canon / active_canon_v3.3 | codex | `projects/syntax/events/2026-05-28-codex-theory-archive-r3-canon-acceptance.md` | Accepted compact R3 canon wording after human confirmation. R-levels as displaced learning and R3-A/B/C operating modes are active canon; instruction runtime and cross-route material remain outside R core canon. |
+| 2026-05-28 | `theory-2026-05-28-kant-nvc-predication-hygiene` | `08_KANT_NVC_PREDICATION_HYGIENE/CANON.md`; `08_KANT_NVC_PREDICATION_HYGIENE/STATUS.md`; `08_KANT_NVC_PREDICATION_HYGIENE/OPEN_GAPS.md`; `08_KANT_NVC_PREDICATION_HYGIENE/SOURCES/2026-05-28_kant_nvc_predication_hygiene_source_note.md`; `08_KANT_NVC_PREDICATION_HYGIENE/HYPOTHESES/2026-05-28_kant_nvc_predication_hygiene.md`; `00_META/ACTIVE_IDEAS_INDEX.md`; `00_META/KNOWLEDGE_INDEX.md`; `00_META/MAP_OF_THEORIES.md`; `00_META/SOURCE_REGISTRY.md`; `00_META/INGEST_LOG.md` | active_hypothesis / non-canon | chatgpt | `projects/syntax/events/2026-05-28-chatgpt-kant-nvc-predication-hygiene.md` | Created a new non-canon theory module for the user's hypothesis that NVC can be interpreted as practical predication hygiene: separating object/event properties from subjective relation, interpretation, feeling, need, and request. |
 
 ## Status Values
 
