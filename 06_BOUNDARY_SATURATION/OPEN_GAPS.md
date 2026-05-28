@@ -258,3 +258,19 @@ CANON_REVIEW.md
 ```text
 broad migration done / speculative model hygiene good / physical verification open
 ```
+
+---
+
+## 2026-05-28 Source Provenance Update
+
+Status: structural source gap partially addressed / external verification still open
+CSP event: `projects/syntax/events/2026-05-28-codex-theory-archive-m5-export-source-provenance.md`
+
+Added:
+
+- `SOURCES/2026-05-28_m5_chat_export_source_note.md`
+- `SOURCE_VERIFICATION_PLAN.md`
+
+This resolves the missing-file part of the source verification gap. It does not
+resolve the physics verification gap. The M5 chat export is now registered as
+provenance for old intuitions and migration history, not as external evidence.

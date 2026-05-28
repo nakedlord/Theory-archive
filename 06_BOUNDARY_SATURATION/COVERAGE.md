@@ -225,3 +225,19 @@ speculative analogy / needs formalization
 ```text
 broadly migrated / speculative / structurally not closed / physics verification required
 ```
+
+---
+
+## 2026-05-28 Source Provenance Update
+
+CSP event: `projects/syntax/events/2026-05-28-codex-theory-archive-m5-export-source-provenance.md`
+
+Added source provenance for the M5 Theory chat export and a dedicated
+verification plan:
+
+- `SOURCES/2026-05-28_m5_chat_export_source_note.md`
+- `SOURCE_VERIFICATION_PLAN.md`
+
+Coverage improves for provenance and future verification workflow. Canon status
+does not change: Boundary Saturation remains speculative, and external physics
+source verification is still required before any physical claim is upgraded.
