@@ -2,7 +2,7 @@
 
 Status: active index / needs review
 Date: 2026-05-28
-CSP event: `projects/syntax/events/2026-05-28-codex-theory-archive-instruction-runtime-route-split.md`
+CSP event: `projects/syntax/events/2026-05-28-chatgpt-reproductive-strategy-hypothesis.md`
 
 ## Purpose
 
@@ -28,6 +28,7 @@ The index is not a transcript. It is a re-entry map: it tells future agents whic
 | r3-modes-instruction-runtime | R3 Modes and Instruction Runtime | r3_core_accepted_into_canon / route_split_started / gymkids_import_pending | R Theory, Culture as Instructions, SynTax, PNA, GYMKiDs route | `01_R_THEORY/CANON.md`; `01_R_THEORY/VERSIONS/v3.3.md`; `01_R_THEORY/PATCHES/2026-05-28_instruction_runtime_route_split.md` | high | Treat compact R3-A/B/C as canon; test Culture/SynTax/PNA route artifacts and start a separate GYMKiDs KB import only if applied trainer methodology is the next lane. |
 | soteriological-ritual-accumulation | Soteriological Ritual Accumulation | active_hypothesis / non-canon | Soteriological Ritual Accumulation, Culture as Instructions, R Theory | `07_SOTERIOLOGICAL_RITUAL_ACCUMULATION/HYPOTHESES/2026-05-26_soteriological_ritual_accumulation.md` | high | Run a source-backed comparison: Russian Orthodox icon/saint practice vs Catholic saint practice vs Protestant ritual pruning; test against generic conservatism, institutional inertia, and magical thinking. |
 | kant-nvc-predication-hygiene | Kant / NVC Predication Hygiene | active_hypothesis / non-canon | Kant/NVC Predication Hygiene, SynTax, R Theory | `08_KANT_NVC_PREDICATION_HYGIENE/HYPOTHESES/2026-05-28_kant_nvc_predication_hygiene.md` | high | Verify Kant and NVC textual anchors, then test three conflict-language cases against generic politeness. |
+| postpartum-mating-strategy-bet-hedging | Postpartum Mating Strategy / Offspring Bet-Hedging | active_hypothesis / needs_source | Reproductive Strategy | `09_REPRODUCTIVE_STRATEGY/HYPOTHESES/2026-05-28_postpartum_mating_strategy_bet_hedging.md` | medium | Build an evidence map across animal strategy, cross-cultural human evidence, and modern behavioral evidence; distinguish genetic diversification, mate switching, resource acquisition, paternity confusion, postpartum fertility timing, parental-care cue attractiveness, and observer/salience alternatives. |
 
 ## Use Rule
 
