@@ -20,7 +20,7 @@
 ### Статус
 
 ```text
-active canon: R Theory v3.2
+active canon: R Theory v3.3
 ```
 
 ### Файлы
@@ -28,6 +28,7 @@ active canon: R Theory v3.2
 - `CANON.md`
 - `STATUS.md`
 - `VERSIONS/v3.2.md`
+- `VERSIONS/v3.3.md`
 
 ### Ключевое содержание
 
@@ -386,10 +387,39 @@ Coverage change:
 
 ```text
 R3 internal review closed for export pass
-compact canon packet ready
-CANON.md unchanged
+compact canon packet accepted
+CANON.md updated in v3.3
 ```
 
-The remaining R3 work is not extraction. It is a human accept/reject decision
-for the compact canon wording, plus optional external cognitive source cards if
-the project wants stronger evidence before acceptance.
+The compact R3 wording has since been accepted into canon. Remaining R3-adjacent
+work is route-specific split of non-R3 material plus optional external cognitive
+source cards.
+
+---
+
+## 14. R3 Canon Acceptance 2026-05-28
+
+CSP event: `projects/syntax/events/2026-05-28-codex-theory-archive-r3-canon-acceptance.md`
+
+Coverage change:
+
+```text
+compact R3 modes accepted into active canon
+R Theory v3.3 active canon
+```
+
+New active canon coverage:
+
+- R-levels as displaced learning;
+- R3-A / online control;
+- R3-B / local error repair;
+- R3-C / offline retrospective rewrite.
+
+Still outside R core canon:
+
+- full instruction runtime;
+- motivational field;
+- Q-R3;
+- recursive-choice/decoherence analogy;
+- R4;
+- GYMKiDs/Fly Zone applied trainer methodology.

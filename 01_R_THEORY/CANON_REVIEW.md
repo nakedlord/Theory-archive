@@ -16,13 +16,14 @@
 Текущий активный канон:
 
 ```text
-R Theory v3.2
+R Theory v3.3
 ```
 
 Файлы:
 
 - `CANON.md`
 - `VERSIONS/v3.2.md`
+- `VERSIONS/v3.3.md`
 
 ---
 
@@ -310,8 +311,8 @@ needs verification
 ## 13. Current decision
 
 ```text
-CANON.md remains unchanged
-R Theory v3.2 remains active canon
+CANON.md now includes compact R3 modes
+R Theory v3.3 is active canon
 v3.1_full remains migration draft
 shadows_of_R3 remains candidate
 Q-R3 remains migration draft
@@ -332,8 +333,8 @@ Review artifact:
 Decision:
 
 ```text
-CANON.md remains unchanged
-R3 modes are elevated to canon-review candidate, not canon
+superseded by 2026-05-28 acceptance event
+R3 modes moved from canon-review candidate into compact canon
 instruction runtime requires route split before promotion
 ```
 
@@ -366,8 +367,8 @@ Decision:
 
 ```text
 R3 internal review closed
-ready_for_human_acceptance
-CANON.md remains unchanged
+accepted_into_canon by later human confirmation
+CANON.md updated in v3.3
 ```
 
 The exact proposed canon addition is now isolated in a small packet. The packet
@@ -381,9 +382,40 @@ accepts only:
 The packet explicitly keeps motivational field, instruction runtime, Q-R3,
 decoherence, R4, and applied GYMKiDs methodology outside R core canon.
 
-Next R3 action is binary:
+R3 acceptance decision is closed:
 
 ```text
-accept compact R3 section into CANON.md
-or keep it as candidate
+compact R3 section accepted into CANON.md
+non-R3 material remains route-specific
 ```
+
+---
+
+## 16. R3 canon acceptance 2026-05-28
+
+CSP event: `projects/syntax/events/2026-05-28-codex-theory-archive-r3-canon-acceptance.md`
+
+Decision:
+
+```text
+accepted_into_canon
+R Theory v3.3 active canon
+```
+
+Accepted into `CANON.md`:
+
+- R-levels as displaced learning;
+- R3-A / online control;
+- R3-B / local error repair;
+- R3-C / offline retrospective rewrite.
+
+Still outside R core canon:
+
+- motivational field;
+- instruction runtime;
+- Q-R3;
+- recursive-choice/decoherence analogy;
+- R4;
+- GYMKiDs/Fly Zone applied methodology.
+
+The previous binary decision is now closed by human acceptance.

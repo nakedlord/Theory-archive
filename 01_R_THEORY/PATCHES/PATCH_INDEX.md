@@ -297,10 +297,12 @@ R4 -> guardrail candidate, not new default operator
 
 CSP event: `projects/syntax/events/2026-05-28-codex-theory-archive-r3-closure.md`
 
+Acceptance event: `projects/syntax/events/2026-05-28-codex-theory-archive-r3-canon-acceptance.md`
+
 ### Status
 
 ```text
-canon_compression_packet / ready_for_human_acceptance / not canon
+accepted_into_canon / compact_r3_modes / active canon
 ```
 
 ### Summary
@@ -316,7 +318,7 @@ canon candidate from the larger instruction-runtime patch:
 ### Current decision
 
 ```text
-CANON.md unchanged
-ready for human accept/reject
+CANON.md updated
+compact R3 modes accepted into v3.3
 instruction runtime remains outside R core canon
 ```

@@ -1,6 +1,6 @@
 # Canon Compression Packet: R3 Modes
 
-Status: canon_compression_packet / ready_for_human_acceptance / not canon
+Status: accepted_into_canon / compact_r3_modes / active canon
 Date: 2026-05-28
 CSP event: `projects/syntax/events/2026-05-28-codex-theory-archive-r3-closure.md`
 
@@ -16,8 +16,9 @@ Source IDs:
 This packet closes the internal R3 review pass by separating the compact R3
 canon candidate from the larger instruction-runtime patch.
 
-It does not update `CANON.md`. It gives the exact small canon addition that can
-be accepted or rejected later by human review.
+The packet was accepted on 2026-05-28 and `CANON.md` now includes the compact
+R3 addition. The wider instruction-runtime material remains outside R core
+canon.
 
 ## Compression Target
 
@@ -113,30 +114,29 @@ for the compact R3 canon update.
 Current decision:
 
 ```text
-ready_for_human_acceptance
-not canon yet
-CANON.md unchanged
+accepted_into_canon
+compact R3 section added to CANON.md
+instruction runtime remains outside R core canon
 ```
 
-If accepted later:
+Acceptance event:
 
-1. Add the proposed compact section to `CANON.md`.
-2. Mark this packet as `accepted_into_canon`.
-3. Update `CANON_REVIEW.md`, `STATUS.md`, `PATCH_INDEX.md`, and ingest/source
-   maps.
+```text
+projects/syntax/events/2026-05-28-codex-theory-archive-r3-canon-acceptance.md
+```
 
 If not accepted:
 
 ```text
-keep as candidate / do not expand R3 canon
+superseded by acceptance
 ```
 
 ## Closure Result
 
-R3 is now internally closed for this export pass:
+R3 is now internally closed and accepted into active canon for this export pass:
 
 - R3 core candidate is separated from cross-route material.
 - R4 is not introduced.
 - Instruction runtime does not enter R3 canon.
-- The next R3 action is a binary human acceptance decision, not more extraction
+- The next work is route-specific split of non-R3 material, not more extraction
   from the same export batch.

@@ -433,7 +433,7 @@ work must choose the owning module before expanding it.
 Status:
 
 ```text
-review_completed / canon_review_candidate_split / still_not_canon
+review_completed / compact_r3_later_accepted / route_split_remaining
 ```
 
 Review file:
@@ -442,16 +442,16 @@ Review file:
 
 Closed or narrowed:
 
-- R3.1/R3.2/R3.3 are no longer unreviewed source leads; they are
-  canon-review candidates.
+- R3.1/R3.2/R3.3 are no longer unreviewed source leads; compact R3-A/B/C later
+  entered canon.
 - Q-R3 and recursive-choice/decoherence are source-anchored but still outside
   canon.
 - R4 has a guardrail candidate: do not treat it as a default next R operator.
 
 Still needed:
 
-- external cognitive/source checks for R3 modes;
-- human canon review before `CANON.md` changes;
+- optional external cognitive/source checks for R3 modes;
+- human canon review for compact R3 is complete;
 - separate route artifacts for instruction runtime, Q-R3, PNA motivational
   field, and GYMKiDs applied methodology.
 
@@ -460,7 +460,7 @@ Still needed:
 Status:
 
 ```text
-internal_review_closed / ready_for_human_acceptance / not_canon
+accepted_into_canon / compact_r3_modes
 ```
 
 Closure packet:
@@ -476,6 +476,30 @@ Closed:
 
 Still open:
 
-- human accept/reject decision for the compact R3 section;
 - optional external source cards for predictive control, error monitoring,
   cognitive control, retrospective reasoning, and mental simulation.
+- separate route artifacts for instruction runtime, Q-R3, PNA motivational
+  field, and GYMKiDs applied methodology.
+
+### 11.6 R3 compact canon accepted
+
+CSP event: `projects/syntax/events/2026-05-28-codex-theory-archive-r3-canon-acceptance.md`
+
+Status:
+
+```text
+closed_for_r3_core / accepted_into_canon
+```
+
+Closed:
+
+- compact R3 canon wording accepted;
+- `CANON.md` updated;
+- `VERSIONS/v3.3.md` created.
+
+Still open outside R core:
+
+- external cognitive source cards are useful but no longer block compact canon;
+- instruction runtime requires route-specific artifacts before promotion;
+- Q-R3, decoherence, motivational field, and GYMKiDs methodology remain
+  outside R core canon.

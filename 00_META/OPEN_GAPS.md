@@ -266,7 +266,7 @@ Changed status:
 Next review:
 
 ```text
-R Theory canon/version review before any CANON.md update
+completed for compact R3; remaining review is route-specific non-R3 material
 ```
 
 ### Review update
@@ -274,7 +274,7 @@ R Theory canon/version review before any CANON.md update
 Status:
 
 ```text
-review_completed / canon_review_candidate_split / not_canon
+review_completed / compact_r3_later_accepted / route_split_remaining
 ```
 
 Review artifact:
@@ -283,17 +283,17 @@ Review artifact:
 01_R_THEORY/PATCHES/2026-05-28_r3_modes_instruction_runtime_review.md
 ```
 
-The first review gate is complete. Compact R3 modes can move to a future
-canon-compression review, but instruction runtime must be split across R
-Theory, Culture as Instructions, SynTax, PNA, and GYMKiDs routes before any
-promotion.
+The first review gate is complete and compact R3 later moved through
+canon-compression into active canon. Instruction runtime must still be split
+across R Theory, Culture as Instructions, SynTax, PNA, and GYMKiDs routes before
+any promotion.
 
 ### R3 closure update
 
 Status:
 
 ```text
-r3_internal_review_closed / ready_for_human_acceptance / not_canon
+accepted_into_canon / compact_r3_modes
 ```
 
 Closure artifact:
@@ -302,6 +302,30 @@ Closure artifact:
 01_R_THEORY/PATCHES/2026-05-28_r3_modes_canon_compression_packet.md
 ```
 
-The R3 export-review pass is internally closed. The remaining R3 action is a
-human accept/reject decision for compact canon wording, not more extraction from
-the same export batch.
+The R3 export-review pass is internally closed and the compact canon wording is
+accepted. The remaining work is route-specific handling of instruction runtime,
+Q-R3, PNA motivational field, and GYMKiDs applied methodology, not more R3
+extraction from the same export batch.
+
+### R3 canon acceptance update
+
+CSP event: `projects/syntax/events/2026-05-28-codex-theory-archive-r3-canon-acceptance.md`
+
+Status:
+
+```text
+R Theory v3.3 active canon
+```
+
+Accepted:
+
+- R-levels as displaced learning;
+- R3-A / online control;
+- R3-B / local error repair;
+- R3-C / offline retrospective rewrite.
+
+Still open:
+
+- external source cards may strengthen the R3 model but are no longer a blocker
+  for compact canon;
+- instruction runtime and adjacent material need route-specific artifacts.
