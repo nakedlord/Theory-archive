@@ -2,7 +2,7 @@
 
 Status: active index / needs review
 Date: 2026-05-28
-CSP event: `projects/syntax/events/2026-05-28-chatgpt-kant-nvc-predication-hygiene.md`
+CSP event: `projects/syntax/events/2026-05-28-codex-theory-archive-instruction-runtime-route-split.md`
 
 ## Purpose
 
@@ -25,7 +25,7 @@ The index is not a transcript. It is a re-entry map: it tells future agents whic
 | ai-assisted-precognition | AI-Assisted Precognition / Опережающее мышление | active_hypothesis | SynTax, R Theory, Culture as Instructions | `02_SYNTAX/HYPOTHESES/2026-05-23_ai_assisted_precognition.md` | high | Run the Precognitive Source Probe on three source types: technical article, business/product case, and theory/philosophy text. |
 | myth-dynamic-instruction-network | Myth as Dynamic Instruction Network | active_hypothesis | Culture as Instructions, R Theory, MEAT | `03_CULTURE_AS_INSTRUCTIONS/HYPOTHESES/2026-05-25_myth_as_dynamic_instruction_network.md` | high | Run a concrete case test: compare static core/periphery vs temporary activation-center model on a mythologized historical figure, preferably the existing New Testament / Passion narrative case cluster. |
 | mccr-cultural-cognitive-revolutions | MCCR / Model of Cultural-Cognitive Revolutions | source_found / recovery_draft / needs_review | MEAT, PNA, R Theory, Culture as Instructions | `04_MEAT/VERSIONS/mccr_recovery_draft.md` | high | Run a dedicated MCCR review: classify as MEAT submodule, cross-theory bridge, separate module, or archive node; test on Upper Paleolithic, Neolithic, writing, and science before canon movement. |
-| r3-modes-instruction-runtime | R3 Modes and Instruction Runtime | r3_core_accepted_into_canon / route_split_remaining | R Theory, Culture as Instructions, SynTax, PNA, GYMKiDs route | `01_R_THEORY/CANON.md`; `01_R_THEORY/VERSIONS/v3.3.md`; `01_R_THEORY/PATCHES/2026-05-28_r3_modes_canon_compression_packet.md` | high | Treat compact R3-A/B/C as canon; split non-R3 material into Culture/SynTax/PNA/GYMKiDs route artifacts if needed. |
+| r3-modes-instruction-runtime | R3 Modes and Instruction Runtime | r3_core_accepted_into_canon / route_split_started / gymkids_import_pending | R Theory, Culture as Instructions, SynTax, PNA, GYMKiDs route | `01_R_THEORY/CANON.md`; `01_R_THEORY/VERSIONS/v3.3.md`; `01_R_THEORY/PATCHES/2026-05-28_instruction_runtime_route_split.md` | high | Treat compact R3-A/B/C as canon; test Culture/SynTax/PNA route artifacts and start a separate GYMKiDs KB import only if applied trainer methodology is the next lane. |
 | soteriological-ritual-accumulation | Soteriological Ritual Accumulation | active_hypothesis / non-canon | Soteriological Ritual Accumulation, Culture as Instructions, R Theory | `07_SOTERIOLOGICAL_RITUAL_ACCUMULATION/HYPOTHESES/2026-05-26_soteriological_ritual_accumulation.md` | high | Run a source-backed comparison: Russian Orthodox icon/saint practice vs Catholic saint practice vs Protestant ritual pruning; test against generic conservatism, institutional inertia, and magical thinking. |
 | kant-nvc-predication-hygiene | Kant / NVC Predication Hygiene | active_hypothesis / non-canon | Kant/NVC Predication Hygiene, SynTax, R Theory | `08_KANT_NVC_PREDICATION_HYGIENE/HYPOTHESES/2026-05-28_kant_nvc_predication_hygiene.md` | high | Verify Kant and NVC textual anchors, then test three conflict-language cases against generic politeness. |
 

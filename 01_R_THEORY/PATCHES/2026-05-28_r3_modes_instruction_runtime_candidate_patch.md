@@ -3,6 +3,7 @@
 Status: candidate patch / source-backed by private chat export / not canon
 Date: 2026-05-28
 CSP event: `projects/syntax/events/2026-05-28-codex-theory-archive-rtheory-export-batch-4.md`
+Route split event: `projects/syntax/events/2026-05-28-codex-theory-archive-instruction-runtime-route-split.md`
 Source IDs:
 
 - `rtheory-2026-05-28-recursive-choice-symbolic-rupture-export`
@@ -191,3 +192,15 @@ Before canon movement:
 4. Decide whether instruction runtime belongs in R Theory, Culture as
    Externalized Instructions, or both.
 5. Keep Q-R3 and decoherence as source-anchored drafts until dedicated review.
+
+## Route Split Update 2026-05-28
+
+The compact R3 modes were accepted into R Theory v3.3. The remaining residue is
+now split into route-specific non-canon artifacts:
+
+- `01_R_THEORY/PATCHES/2026-05-28_instruction_runtime_route_split.md`
+- `03_CULTURE_AS_INSTRUCTIONS/PATCHES/2026-05-28_instruction_packet_runtime_candidate.md`
+- `02_SYNTAX/OPERATORS/q_r3_tension_preservation_operator_candidate.md`
+- `05_PNA/HYPOTHESES/2026-05-28_motivational_field_r3_bridge.md`
+
+GYMKiDs / Fly Zone applied methodology remains a downstream KB route only.

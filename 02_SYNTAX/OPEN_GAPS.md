@@ -276,3 +276,26 @@ optional
 ```text
 broad migration done / structural closure pending
 ```
+
+---
+
+## 12. Q-R3 route from R Theory export
+
+CSP event: `projects/syntax/events/2026-05-28-codex-theory-archive-instruction-runtime-route-split.md`
+
+Status:
+
+```text
+operator_candidate_created / non_canon
+```
+
+Artifact:
+
+- `OPERATORS/q_r3_tension_preservation_operator_candidate.md`
+
+Open:
+
+- compare Q-R3 with existing operators before registry promotion;
+- test answer suppression and question generation on a concrete theory case;
+- decide whether Q-R3 remains a note, becomes a patch, or enters a later
+  operator registry.

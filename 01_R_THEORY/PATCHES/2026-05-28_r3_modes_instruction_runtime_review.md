@@ -1,8 +1,9 @@
 # Review: R3 Modes and Instruction Runtime
 
-Status: review_completed / canon_review_candidate_split / not canon
+Status: review_completed / compact_r3_accepted / route_split_started / not canon
 Date: 2026-05-28
 CSP event: `projects/syntax/events/2026-05-28-codex-theory-archive-r3-modes-review.md`
+Route split event: `projects/syntax/events/2026-05-28-codex-theory-archive-instruction-runtime-route-split.md`
 Reviewed artifact:
 `01_R_THEORY/PATCHES/2026-05-28_r3_modes_instruction_runtime_candidate_patch.md`
 
@@ -71,7 +72,7 @@ rule rewrite.
 Status:
 
 ```text
-candidate wording / not accepted / needs human canon review
+accepted into R Theory v3.3 by later human canon review
 ```
 
 ## Route Split
@@ -89,6 +90,15 @@ Future work should split the patch into smaller artifacts:
 5. GYMKiDs KB import only if the applied trainer/methodology content is routed
    into `nakedlord/GYMKIDS`.
 
+Route split started:
+
+```text
+01_R_THEORY/PATCHES/2026-05-28_instruction_runtime_route_split.md
+03_CULTURE_AS_INSTRUCTIONS/PATCHES/2026-05-28_instruction_packet_runtime_candidate.md
+02_SYNTAX/OPERATORS/q_r3_tension_preservation_operator_candidate.md
+05_PNA/HYPOTHESES/2026-05-28_motivational_field_r3_bridge.md
+```
+
 ## Gap Changes
 
 Reduced:
@@ -100,17 +110,17 @@ Reduced:
 Still open:
 
 - external cognitive/neuroscience source verification for R3 modes;
-- human canon review before any `CANON.md` change;
-- route-specific artifacts for instruction runtime, Q-R3, and applied
-  methodology;
+- human canon review for compact R3 is complete;
+- route-specific artifacts now exist for instruction runtime, Q-R3, and
+  motivational field;
+- applied GYMKiDs methodology still needs a separate KB import if pursued;
 - PNA operationalization before motivational field becomes more than a bridge.
 
 ## Current Decision
 
 ```text
-CANON.md remains unchanged
-R3 modes move to canon-review candidate status
-instruction runtime must be split before promotion
+compact R3 modes accepted into R Theory v3.3
+instruction runtime route split started
 Q-R3 remains auxiliary / cross-linked
 decoherence remains formal analogy only
 R4 remains rejected as default next operator

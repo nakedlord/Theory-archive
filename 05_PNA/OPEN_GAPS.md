@@ -222,3 +222,26 @@ migration draft / needs sources
 ```text
 broad migration done / structural closure pending / source verification required / no canon update
 ```
+
+---
+
+## 11. Motivational field bridge
+
+CSP event: `projects/syntax/events/2026-05-28-codex-theory-archive-instruction-runtime-route-split.md`
+
+Status:
+
+```text
+bridge_hypothesis_created / needs_source_verification / non_canon
+```
+
+Artifact:
+
+- `HYPOTHESES/2026-05-28_motivational_field_r3_bridge.md`
+
+Open:
+
+- source-check attention, salience, interoception, arousal, working memory, and
+  error monitoring;
+- verify whether motivational field helps explain R3-A/B/C switching;
+- keep PNA distinct from Delta-T and R Theory canon.

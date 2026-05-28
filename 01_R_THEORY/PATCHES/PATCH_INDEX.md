@@ -322,3 +322,33 @@ CANON.md updated
 compact R3 modes accepted into v3.3
 instruction runtime remains outside R core canon
 ```
+
+---
+
+## 9. `2026-05-28_instruction_runtime_route_split.md`
+
+CSP event: `projects/syntax/events/2026-05-28-codex-theory-archive-instruction-runtime-route-split.md`
+
+### Status
+
+```text
+route_split_started / non-canon artifacts / no R-core promotion
+```
+
+### Summary
+
+This route split assigns the non-R3 residue from the instruction-runtime patch
+to owning modules:
+
+- Culture as Instructions: instruction packet/runtime and ritual diagnostics;
+- SynTax: Q-R3 tension preservation operator candidate;
+- PNA: motivational field bridge hypothesis;
+- GYMKiDs: downstream KB import candidate only.
+
+### Current decision
+
+```text
+do not expand R core canon
+use module-local candidate artifacts
+GYMKiDs KB import remains separate
+```

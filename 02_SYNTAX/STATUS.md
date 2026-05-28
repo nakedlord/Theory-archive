@@ -38,3 +38,15 @@ SynTax отвечает за управление всей системой те
 ## Следующий шаг
 
 Создать `00_META/CANDIDATE_TO_CANON_CHECKLIST.md`, чтобы переход идеи в канон был единым для всех теорий.
+
+## Route update 2026-05-28
+
+CSP event: `projects/syntax/events/2026-05-28-codex-theory-archive-instruction-runtime-route-split.md`
+
+New non-canon operator candidate:
+
+- `OPERATORS/q_r3_tension_preservation_operator_candidate.md`
+
+This artifact receives Q-R3 tension preservation, question generation, and
+answer suppression material from the R Theory export split. It does not promote
+Q-R3 into SynTax canon or the operator registry.

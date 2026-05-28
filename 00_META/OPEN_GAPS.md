@@ -274,7 +274,7 @@ completed for compact R3; remaining review is route-specific non-R3 material
 Status:
 
 ```text
-review_completed / compact_r3_later_accepted / route_split_remaining
+review_completed / compact_r3_later_accepted / route_split_started
 ```
 
 Review artifact:
@@ -328,4 +328,30 @@ Still open:
 
 - external source cards may strengthen the R3 model but are no longer a blocker
   for compact canon;
-- instruction runtime and adjacent material need route-specific artifacts.
+- instruction runtime and adjacent material now have route-specific artifacts;
+- GYMKiDs / Fly Zone applied methodology still needs a separate KB import if
+  pursued.
+
+### Instruction runtime route split update
+
+CSP event: `projects/syntax/events/2026-05-28-codex-theory-archive-instruction-runtime-route-split.md`
+
+Status:
+
+```text
+route_split_started / non_canon_artifacts
+```
+
+Created:
+
+- `01_R_THEORY/PATCHES/2026-05-28_instruction_runtime_route_split.md`
+- `03_CULTURE_AS_INSTRUCTIONS/PATCHES/2026-05-28_instruction_packet_runtime_candidate.md`
+- `02_SYNTAX/OPERATORS/q_r3_tension_preservation_operator_candidate.md`
+- `05_PNA/HYPOTHESES/2026-05-28_motivational_field_r3_bridge.md`
+
+Still open:
+
+- concrete Culture case tests;
+- SynTax operator tests;
+- PNA source verification;
+- optional GYMKiDs KB import through `projects/gymkids-kb-fill`.

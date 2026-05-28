@@ -28,3 +28,14 @@
 ## Следующий шаг
 
 Проверить MEAT-метрики на кейсе мифологизированной личности.
+
+## Route update 2026-05-28
+
+CSP event: `projects/syntax/events/2026-05-28-codex-theory-archive-instruction-runtime-route-split.md`
+
+New non-canon candidate:
+
+- `PATCHES/2026-05-28_instruction_packet_runtime_candidate.md`
+
+This artifact receives instruction packet/runtime and ritual diagnostic
+material from the R Theory export split. It does not update Culture canon.

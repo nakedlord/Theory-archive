@@ -265,3 +265,25 @@ conceptual but not formalized
 ```text
 broad migration done / structural closure pending / textual verification required
 ```
+
+---
+
+## 9. Instruction packet runtime route
+
+CSP event: `projects/syntax/events/2026-05-28-codex-theory-archive-instruction-runtime-route-split.md`
+
+Status:
+
+```text
+candidate_patch_created / non_canon
+```
+
+Artifact:
+
+- `PATCHES/2026-05-28_instruction_packet_runtime_candidate.md`
+
+Open:
+
+- test instruction packet/runtime on a concrete Culture case;
+- compare against meme/symbol/concept/ritual distinction maps;
+- add external sources before canon review.

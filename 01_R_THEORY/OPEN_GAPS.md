@@ -433,7 +433,7 @@ work must choose the owning module before expanding it.
 Status:
 
 ```text
-review_completed / compact_r3_later_accepted / route_split_remaining
+review_completed / compact_r3_later_accepted / route_split_started
 ```
 
 Review file:
@@ -500,6 +500,32 @@ Closed:
 Still open outside R core:
 
 - external cognitive source cards are useful but no longer block compact canon;
-- instruction runtime requires route-specific artifacts before promotion;
-- Q-R3, decoherence, motivational field, and GYMKiDs methodology remain
-  outside R core canon.
+- instruction runtime now has route-specific artifacts, but they are non-canon;
+- Q-R3 and motivational field have route artifacts but need tests/sources;
+- decoherence remains a formal analogy only;
+- GYMKiDs methodology remains a downstream KB import, not done in this pass.
+
+### 11.7 Instruction runtime route split
+
+CSP event: `projects/syntax/events/2026-05-28-codex-theory-archive-instruction-runtime-route-split.md`
+
+Status:
+
+```text
+route_split_started / R_core_closed / non_canon_artifacts
+```
+
+Created:
+
+- `PATCHES/2026-05-28_instruction_runtime_route_split.md`
+- `../03_CULTURE_AS_INSTRUCTIONS/PATCHES/2026-05-28_instruction_packet_runtime_candidate.md`
+- `../02_SYNTAX/OPERATORS/q_r3_tension_preservation_operator_candidate.md`
+- `../05_PNA/HYPOTHESES/2026-05-28_motivational_field_r3_bridge.md`
+
+Still open:
+
+- Culture candidate needs concrete cases and external sources;
+- Q-R3 needs operator tests against existing SynTax operators;
+- motivational field needs PNA source verification;
+- GYMKiDs / Fly Zone applied trainer methodology needs a separate KB import if
+  pursued.

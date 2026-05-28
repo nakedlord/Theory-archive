@@ -1,8 +1,9 @@
 # Cross-Link: R Theory, Instruction Runtime, and Applied Knowledge
 
-Status: cross-link note / candidate / not canon
+Status: cross-link note / route_split_started / not canon
 Date: 2026-05-28
 CSP event: `projects/syntax/events/2026-05-28-codex-theory-archive-rtheory-export-batch-4.md`
+Route split event: `projects/syntax/events/2026-05-28-codex-theory-archive-instruction-runtime-route-split.md`
 Source IDs:
 
 - `rtheory-2026-05-28-recursive-choice-symbolic-rupture-export`
@@ -56,6 +57,23 @@ The structuration source contains applied leads:
 
 These are likely useful for the GYMKiDs knowledge base, but they belong in
 `nakedlord/GYMKIDS` if imported as business/trainer methodology.
+
+## Route Split Update 2026-05-28
+
+The instruction-runtime residue is now split into non-canon module-local
+artifacts:
+
+- R Theory route decision:
+  `01_R_THEORY/PATCHES/2026-05-28_instruction_runtime_route_split.md`
+- Culture candidate:
+  `03_CULTURE_AS_INSTRUCTIONS/PATCHES/2026-05-28_instruction_packet_runtime_candidate.md`
+- SynTax operator candidate:
+  `02_SYNTAX/OPERATORS/q_r3_tension_preservation_operator_candidate.md`
+- PNA bridge hypothesis:
+  `05_PNA/HYPOTHESES/2026-05-28_motivational_field_r3_bridge.md`
+
+GYMKiDs / Fly Zone applied methodology remains a downstream KB route only. No
+GYMKiDs repository import was performed in this pass.
 
 ## Use Rule
 
