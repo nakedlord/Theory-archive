@@ -1,8 +1,8 @@
 # Active Ideas Index
 
 Status: active index / needs review
-Date: 2026-05-27
-CSP event: `projects/syntax/events/2026-05-28-codex-theory-archive-syntax-export-batch-2.md`
+Date: 2026-05-28
+CSP event: `projects/syntax/events/2026-05-28-chatgpt-kant-nvc-predication-hygiene.md`
 
 ## Purpose
 
@@ -27,6 +27,7 @@ The index is not a transcript. It is a re-entry map: it tells future agents whic
 | mccr-cultural-cognitive-revolutions | MCCR / Model of Cultural-Cognitive Revolutions | source_found / recovery_draft / needs_review | MEAT, PNA, R Theory, Culture as Instructions | `04_MEAT/VERSIONS/mccr_recovery_draft.md` | high | Run a dedicated MCCR review: classify as MEAT submodule, cross-theory bridge, separate module, or archive node; test on Upper Paleolithic, Neolithic, writing, and science before canon movement. |
 | r3-modes-instruction-runtime | R3 Modes and Instruction Runtime | r3_internal_review_closed / ready_for_human_acceptance / not_canon | R Theory, Culture as Instructions, SynTax, PNA, GYMKiDs route | `01_R_THEORY/PATCHES/2026-05-28_r3_modes_canon_compression_packet.md` | high | Human accept/reject for compact R3 canon wording; after that, split non-R3 material into Culture/SynTax/PNA/GYMKiDs route artifacts if needed. |
 | soteriological-ritual-accumulation | Soteriological Ritual Accumulation | active_hypothesis / non-canon | Soteriological Ritual Accumulation, Culture as Instructions, R Theory | `07_SOTERIOLOGICAL_RITUAL_ACCUMULATION/HYPOTHESES/2026-05-26_soteriological_ritual_accumulation.md` | high | Run a source-backed comparison: Russian Orthodox icon/saint practice vs Catholic saint practice vs Protestant ritual pruning; test against generic conservatism, institutional inertia, and magical thinking. |
+| kant-nvc-predication-hygiene | Kant / NVC Predication Hygiene | active_hypothesis / non-canon | Kant/NVC Predication Hygiene, SynTax, R Theory | `08_KANT_NVC_PREDICATION_HYGIENE/HYPOTHESES/2026-05-28_kant_nvc_predication_hygiene.md` | high | Verify Kant and NVC textual anchors, then test three conflict-language cases against generic politeness. |
 
 ## Use Rule
 
