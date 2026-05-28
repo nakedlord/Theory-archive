@@ -351,3 +351,39 @@ online control / local error repair / offline retrospective rule rewrite
 Do not move the full instruction-runtime packet into R Theory canon. Split it
 between R Theory, Culture as Instructions, SynTax operators, PNA source checks,
 and GYMKiDs applied methodology where appropriate.
+
+---
+
+## 15. R3 closure packet 2026-05-28
+
+CSP event: `projects/syntax/events/2026-05-28-codex-theory-archive-r3-closure.md`
+
+Review artifact:
+
+- `PATCHES/2026-05-28_r3_modes_canon_compression_packet.md`
+
+Decision:
+
+```text
+R3 internal review closed
+ready_for_human_acceptance
+CANON.md remains unchanged
+```
+
+The exact proposed canon addition is now isolated in a small packet. The packet
+accepts only:
+
+- R levels as displaced learning;
+- R3-A / online control;
+- R3-B / local error repair;
+- R3-C / offline retrospective rule rewrite.
+
+The packet explicitly keeps motivational field, instruction runtime, Q-R3,
+decoherence, R4, and applied GYMKiDs methodology outside R core canon.
+
+Next R3 action is binary:
+
+```text
+accept compact R3 section into CANON.md
+or keep it as candidate
+```

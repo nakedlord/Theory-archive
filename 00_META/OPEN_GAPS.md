@@ -287,3 +287,21 @@ The first review gate is complete. Compact R3 modes can move to a future
 canon-compression review, but instruction runtime must be split across R
 Theory, Culture as Instructions, SynTax, PNA, and GYMKiDs routes before any
 promotion.
+
+### R3 closure update
+
+Status:
+
+```text
+r3_internal_review_closed / ready_for_human_acceptance / not_canon
+```
+
+Closure artifact:
+
+```text
+01_R_THEORY/PATCHES/2026-05-28_r3_modes_canon_compression_packet.md
+```
+
+The R3 export-review pass is internally closed. The remaining R3 action is a
+human accept/reject decision for compact canon wording, not more extraction from
+the same export batch.

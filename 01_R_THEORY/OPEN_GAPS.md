@@ -454,3 +454,28 @@ Still needed:
 - human canon review before `CANON.md` changes;
 - separate route artifacts for instruction runtime, Q-R3, PNA motivational
   field, and GYMKiDs applied methodology.
+
+### 11.5 R3 internal closure
+
+Status:
+
+```text
+internal_review_closed / ready_for_human_acceptance / not_canon
+```
+
+Closure packet:
+
+- `PATCHES/2026-05-28_r3_modes_canon_compression_packet.md`
+
+Closed:
+
+- R3 core candidate is separated from instruction runtime.
+- R3 modes have exact compact canon wording.
+- R4 is excluded from the default R ladder.
+- Q-R3 and decoherence remain outside R core canon.
+
+Still open:
+
+- human accept/reject decision for the compact R3 section;
+- optional external source cards for predictive control, error monitoring,
+  cognitive control, retrospective reasoning, and mental simulation.

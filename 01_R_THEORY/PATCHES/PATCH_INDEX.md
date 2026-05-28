@@ -290,3 +290,33 @@ Q-R3 -> auxiliary SynTax/R Theory cross-link
 decoherence -> formal analogy only
 R4 -> guardrail candidate, not new default operator
 ```
+
+---
+
+## 8. `2026-05-28_r3_modes_canon_compression_packet.md`
+
+CSP event: `projects/syntax/events/2026-05-28-codex-theory-archive-r3-closure.md`
+
+### Status
+
+```text
+canon_compression_packet / ready_for_human_acceptance / not canon
+```
+
+### Summary
+
+This packet closes the internal R3 review pass. It extracts only the compact R3
+canon candidate from the larger instruction-runtime patch:
+
+- R levels as displaced learning;
+- R3-A online control;
+- R3-B local error repair;
+- R3-C offline retrospective rule rewrite.
+
+### Current decision
+
+```text
+CANON.md unchanged
+ready for human accept/reject
+instruction runtime remains outside R core canon
+```

@@ -371,3 +371,25 @@ instruction runtime split required
 The review elevates R3.1/R3.2/R3.3 to canon-review candidate status, while
 keeping Q-R3, decoherence, motivational field, and instruction runtime outside
 R core canon until route-specific reviews are complete.
+
+---
+
+## 13. R3 Closure Packet 2026-05-28
+
+CSP event: `projects/syntax/events/2026-05-28-codex-theory-archive-r3-closure.md`
+
+Artifact:
+
+- `PATCHES/2026-05-28_r3_modes_canon_compression_packet.md`
+
+Coverage change:
+
+```text
+R3 internal review closed for export pass
+compact canon packet ready
+CANON.md unchanged
+```
+
+The remaining R3 work is not extraction. It is a human accept/reject decision
+for the compact canon wording, plus optional external cognitive source cards if
+the project wants stronger evidence before acceptance.
