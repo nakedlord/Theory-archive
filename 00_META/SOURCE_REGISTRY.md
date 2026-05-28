@@ -2,7 +2,7 @@
 
 Status: active registry
 Date: 2026-05-28
-CSP event: `projects/syntax/events/2026-05-28-chatgpt-kant-nvc-predication-hygiene.md`
+CSP event: `projects/syntax/events/2026-05-28-chatgpt-reproductive-strategy-hypothesis.md`
 
 ## Purpose
 
@@ -79,6 +79,7 @@ source-YYYY-MM-DD-short-topic
 | `culture-2026-05-28-instruction-packet-runtime-candidate` | `repo_artifact` | candidate_patch / non_canon | `03_CULTURE_AS_INSTRUCTIONS/PATCHES/2026-05-28_instruction_packet_runtime_candidate.md` | Culture route artifact for instruction packets, activation fields, and ritual/superstition/bad-instruction distinctions. Needs concrete cases and external sources before canon review. |
 | `syntax-2026-05-28-q-r3-tension-preservation-operator` | `repo_artifact` | operator_candidate / non_canon | `02_SYNTAX/OPERATORS/q_r3_tension_preservation_operator_candidate.md` | SynTax route artifact for Q-R3 as tension preservation, question generation, and answer suppression. Needs operator tests before registry promotion. |
 | `pna-2026-05-28-motivational-field-r3-bridge` | `repo_artifact` | bridge_hypothesis / needs_source_verification / non_canon | `05_PNA/HYPOTHESES/2026-05-28_motivational_field_r3_bridge.md` | PNA bridge hypothesis for motivational field as organism-state constraint on R2/R3. Needs source verification and must not collapse PNA into Delta-T or R Theory canon. |
+| `reproductive-strategy-2026-05-28-postpartum-mating-strategy` | `chat_export` + `human_note` | active_hypothesis / needs_source / non-canon | `09_REPRODUCTIVE_STRATEGY/SOURCES/2026-05-28_postpartum_mating_strategy_source_note.md`; `09_REPRODUCTIVE_STRATEGY/HYPOTHESES/2026-05-28_postpartum_mating_strategy_bet_hedging.md` | User formulated a reproductive-strategy hypothesis: after producing a child with one male, mate scanning may remain active and retune toward offspring bet-hedging, mate switching, resource/protection evaluation, or future reproductive diversification. Non-canon; needs source-backed evidence map and alternative-model testing. |
 
 ## Rule
 
