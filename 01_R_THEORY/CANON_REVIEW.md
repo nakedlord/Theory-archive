@@ -318,3 +318,36 @@ Q-R3 remains migration draft
 recursive_choice_decoherence remains migration draft
 archaeology remains migration draft / source verification required
 ```
+
+---
+
+## 14. Review update 2026-05-28: R3 modes and instruction runtime
+
+CSP event: `projects/syntax/events/2026-05-28-codex-theory-archive-r3-modes-review.md`
+
+Review artifact:
+
+- `PATCHES/2026-05-28_r3_modes_instruction_runtime_review.md`
+
+Decision:
+
+```text
+CANON.md remains unchanged
+R3 modes are elevated to canon-review candidate, not canon
+instruction runtime requires route split before promotion
+```
+
+The strongest future canon-compression candidate is the reading of R levels as
+learning displacement: R0 reacts, R1 pays through action/result feedback, R2
+moves error into internal trajectory simulation, and R3 rewrites the rule that
+generated behavior.
+
+R3.1/R3.2/R3.3 can be reviewed as a compact operating-mode distinction:
+
+```text
+online control / local error repair / offline retrospective rule rewrite
+```
+
+Do not move the full instruction-runtime packet into R Theory canon. Split it
+between R Theory, Culture as Instructions, SynTax operators, PNA source checks,
+and GYMKiDs applied methodology where appropriate.

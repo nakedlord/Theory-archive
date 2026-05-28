@@ -268,3 +268,22 @@ Next review:
 ```text
 R Theory canon/version review before any CANON.md update
 ```
+
+### Review update
+
+Status:
+
+```text
+review_completed / canon_review_candidate_split / not_canon
+```
+
+Review artifact:
+
+```text
+01_R_THEORY/PATCHES/2026-05-28_r3_modes_instruction_runtime_review.md
+```
+
+The first review gate is complete. Compact R3 modes can move to a future
+canon-compression review, but instruction runtime must be split across R
+Theory, Culture as Instructions, SynTax, PNA, and GYMKiDs routes before any
+promotion.

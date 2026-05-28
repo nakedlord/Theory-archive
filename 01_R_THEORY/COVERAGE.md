@@ -349,3 +349,25 @@ The OpenAI export batch adds direct private-chat provenance for:
 ```text
 source provenance improved / canon unchanged / review required
 ```
+
+---
+
+## 12. R3 Modes Review 2026-05-28
+
+CSP event: `projects/syntax/events/2026-05-28-codex-theory-archive-r3-modes-review.md`
+
+Review artifact:
+
+- `PATCHES/2026-05-28_r3_modes_instruction_runtime_review.md`
+
+Coverage change:
+
+```text
+R3 modes now have source provenance plus first routing review
+canon unchanged
+instruction runtime split required
+```
+
+The review elevates R3.1/R3.2/R3.3 to canon-review candidate status, while
+keeping Q-R3, decoherence, motivational field, and instruction runtime outside
+R core canon until route-specific reviews are complete.

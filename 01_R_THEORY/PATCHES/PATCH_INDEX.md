@@ -273,3 +273,20 @@ operator.
 ```text
 keep as candidate patch; do not update CANON.md before review
 ```
+
+### Review update 2026-05-28
+
+Review file:
+
+- `2026-05-28_r3_modes_instruction_runtime_review.md`
+
+Review decision:
+
+```text
+split before canon movement
+R3 modes -> canon-review candidate / not canon
+instruction runtime -> cross-route split required
+Q-R3 -> auxiliary SynTax/R Theory cross-link
+decoherence -> formal analogy only
+R4 -> guardrail candidate, not new default operator
+```

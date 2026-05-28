@@ -427,3 +427,30 @@ candidate / cross-route
 Instruction runtime touches R Theory, Culture as Externalized Instructions,
 SynTax operator architecture, and applied GYMKiDs/Fly Zone methodology. Future
 work must choose the owning module before expanding it.
+
+### 11.4 Review gate result
+
+Status:
+
+```text
+review_completed / canon_review_candidate_split / still_not_canon
+```
+
+Review file:
+
+- `PATCHES/2026-05-28_r3_modes_instruction_runtime_review.md`
+
+Closed or narrowed:
+
+- R3.1/R3.2/R3.3 are no longer unreviewed source leads; they are
+  canon-review candidates.
+- Q-R3 and recursive-choice/decoherence are source-anchored but still outside
+  canon.
+- R4 has a guardrail candidate: do not treat it as a default next R operator.
+
+Still needed:
+
+- external cognitive/source checks for R3 modes;
+- human canon review before `CANON.md` changes;
+- separate route artifacts for instruction runtime, Q-R3, PNA motivational
+  field, and GYMKiDs applied methodology.
