@@ -1,8 +1,8 @@
 # Theory Archive Knowledge Index
 
 Status: active index
-Date: 2026-05-17
-CSP event: `projects/syntax/events/2026-05-17-codex-knowledge-compilation-layer-v1.md`
+Date: 2026-05-28
+CSP event: `projects/syntax/events/2026-05-28-chatgpt-kant-nvc-predication-hygiene.md`
 
 ## Purpose
 
@@ -30,6 +30,8 @@ Layer without promoting drafts into canon.
 | `04_MEAT/` | MEAT / memetic entanglement. |
 | `05_PNA/` | PNA, consciousness window, perception assembly. |
 | `06_BOUNDARY_SATURATION/` | Boundary Saturation. |
+| `07_SOTERIOLOGICAL_RITUAL_ACCUMULATION/` | Soteriological Ritual Accumulation, salvation-oriented ritual accumulation under opaque causality. |
+| `08_KANT_NVC_PREDICATION_HYGIENE/` | Kant / NVC predication hygiene: separation of object/event properties from subjective relation, interpretation, feeling, need, and request. |
 | `90_CROSS_LINKS/` | Cross-theory links. |
 | `99_ARCHIVE/` | Archived or inactive material. |
 
