@@ -3,8 +3,8 @@
 ```yaml
 module: 07_REPRODUCTIVE_STRATEGY
 status: active_hypothesis_module
-created: 2026-05-26
-updated: 2026-05-26
+created: 2026-05-28
+updated: 2026-05-28
 canon_status: no_canon_yet
 ```
 
@@ -16,7 +16,7 @@ It is not currently part of R Theory canon. It may cross-link to R Theory when a
 
 ## Current Active Hypotheses
 
-- `HYPOTHESES/2026-05-26_postpartum_mating_strategy_bet_hedging.md` — non-canon hypothesis about postpartum mate scanning, offspring bet-hedging, and post-child reproductive strategy retuning.
+- `HYPOTHESES/2026-05-28_postpartum_mating_strategy_bet_hedging.md` — non-canon hypothesis about postpartum mate scanning, offspring bet-hedging, and post-child reproductive strategy retuning.
 
 ## Status Rule
 
