@@ -1,5 +1,27 @@
 # MEAT Open Gaps
 
+## 2026-05-28 Update
+
+CSP event: `projects/syntax/events/2026-05-28-codex-theory-archive-meat-pna-mccr-export-batch-3.md`
+Source reference: `meat-2026-05-28-meat-pna-mccr-export`
+
+MCCR source discovery is now complete. The gap is no longer `find the source`;
+the remaining gap is review and classification.
+
+Current MCCR status:
+
+```text
+source_found / recovery_draft / needs_review / not canon
+```
+
+Remaining questions:
+
+- Should MCCR stay inside MEAT as a submodule?
+- Should it become a cross-theory bridge between MEAT, PNA, R Theory, and
+  artifact history?
+- Does it need a separate module?
+- Should it remain an archive node after source recovery?
+
 Статус: active gap list
 Дата: 2026-04-25
 

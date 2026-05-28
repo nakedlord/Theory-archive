@@ -1,5 +1,24 @@
 # MEAT Coverage
 
+## 2026-05-28 Coverage Update
+
+CSP event: `projects/syntax/events/2026-05-28-codex-theory-archive-meat-pna-mccr-export-batch-3.md`
+Source reference: `meat-2026-05-28-meat-pna-mccr-export`
+
+The missing `MEAT / PNA / MCCR` source chat has been found and summarized in
+`SOURCES/2026-05-28_meat_pna_mccr_chat_export_source_note.md`.
+
+Coverage change:
+
+- MCCR is no longer `source missing`.
+- MCCR is now `source_found / recovery_draft / needs_review`.
+- `VERSIONS/mccr_recovery_draft.md` contains the recovered expansion
+  and working structure.
+- `MCCR_RECOVERY_PLAN.md` now records the source-found status and remaining
+  review decision.
+- Canon remains unchanged.
+- The next coverage gap is classification and review, not source discovery.
+
 Статус: migration coverage map
 Дата: 2026-04-25
 

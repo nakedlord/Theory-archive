@@ -1,5 +1,7 @@
 # Repository Open Gaps
 
+CSP event: `projects/syntax/events/2026-05-28-codex-theory-archive-meat-pna-mccr-export-batch-3.md`
+
 Статус: repository-level open gaps
 Дата: 2026-04-25
 
@@ -111,7 +113,7 @@ open
 
 Главные пробелы:
 
-- MCCR needs source;
+- MCCR source found; needs review/classification;
 - concrete meme synthesis cases needed;
 - ritual and archetype cases are typological;
 - metrics remain qualitative;
@@ -173,10 +175,18 @@ Needs source only if reactivated.
 Статус:
 
 ```text
-recovery draft / needs source
+source_found / recovery_draft / needs_review / not canon
 ```
 
-Cannot be used for conclusions.
+Source note:
+
+```text
+04_MEAT/SOURCES/2026-05-28_meat_pna_mccr_chat_export_source_note.md
+```
+
+MCCR still cannot be used as canon. The source-discovery gap is closed, but a
+dedicated review must classify whether MCCR belongs inside MEAT, across
+MEAT/PNA/R Theory, in a separate module, or in archive.
 
 ---
 
@@ -202,7 +212,7 @@ skip by default for theory archive
 2. R Theory source verification pass.
 3. Culture textual verification plan.
 4. PNA source cards.
-5. MEAT MCCR source recovery or formal archival decision.
+5. MEAT MCCR review/classification after source recovery.
 6. Boundary Saturation physics source verification.
 7. SynTax original chat verification.
 
@@ -217,7 +227,7 @@ skip by default for theory archive
 - не использовать migration drafts as canon;
 - не использовать PNA as proof of R Theory;
 - не использовать Boundary Saturation as established physics;
-- не использовать MCCR;
+- не использовать MCCR as canon before review;
 - не смешивать MEAT and EAT.
 
 ---

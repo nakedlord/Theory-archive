@@ -1,5 +1,29 @@
 # MCCR Recovery Plan
 
+## 2026-05-28 Update: Source Found
+
+Status: source_found / recovery_draft / needs_review
+CSP event: `projects/syntax/events/2026-05-28-codex-theory-archive-meat-pna-mccr-export-batch-3.md`
+Source reference: `meat-2026-05-28-meat-pna-mccr-export`
+
+The source chat `MEAT, PNA , MCCR`
+(`693da148-4988-832a-9664-505a12d87b61`) has been recovered from the
+ChatGPT export.
+
+The recovery draft now records:
+
+- `MCCR = Model of Cultural-Cognitive Revolutions`;
+- MCCR as macro-dynamics of long plateaus, rare phase transitions, and
+  cascading cultural-cognitive reorganization;
+- MEAT as the micro-dynamic model of memetic entanglement;
+- PNA as a possible cognitive integration condition, not cultural content;
+- R/M/A/S/L as the coordinate surface for comparison;
+- EAT separation as a hard boundary.
+
+This update closes the `source missing` part of the plan, but not the review.
+MCCR remains not canon until a dedicated classification decides whether it is a
+MEAT submodule, cross-theory bridge, separate module, or archive node.
+
 Статус: active recovery plan
 Дата: 2026-04-25
 
