@@ -2,7 +2,7 @@
 
 Status: active index
 Date: 2026-05-28
-CSP event: `projects/syntax/events/2026-05-28-chatgpt-kant-nvc-predication-hygiene.md`
+CSP event: `projects/syntax/events/2026-05-28-chatgpt-reproductive-strategy-hypothesis.md`
 
 ## Purpose
 
@@ -32,6 +32,7 @@ Layer without promoting drafts into canon.
 | `06_BOUNDARY_SATURATION/` | Boundary Saturation. |
 | `07_SOTERIOLOGICAL_RITUAL_ACCUMULATION/` | Soteriological Ritual Accumulation, salvation-oriented ritual accumulation under opaque causality. |
 | `08_KANT_NVC_PREDICATION_HYGIENE/` | Kant / NVC predication hygiene: separation of object/event properties from subjective relation, interpretation, feeling, need, and request. |
+| `09_REPRODUCTIVE_STRATEGY/` | Reproductive Strategy: mate scanning, offspring bet-hedging, mate switching, paternity uncertainty, resource/protection evaluation, and reproductive risk diversification. |
 | `90_CROSS_LINKS/` | Cross-theory links. |
 | `99_ARCHIVE/` | Archived or inactive material. |
 
