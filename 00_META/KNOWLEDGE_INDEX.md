@@ -25,7 +25,7 @@ Layer without promoting drafts into canon.
 | Module | Owns |
 |---|---|
 | `01_R_THEORY/` | R Theory, recursive choice, R-levels, delta-T, symbolic rupture. |
-| `02_SYNTAX/` | SynTax as thinking/theory-management architecture and operators. |
+| `02_SYNTAX/` | SynTax as thinking/theory-management architecture and operators, including the CSP Governance Adapter pilot. |
 | `03_CULTURE_AS_INSTRUCTIONS/` | Culture as externalized instructions. |
 | `04_MEAT/` | MEAT / memetic entanglement. |
 | `05_PNA/` | PNA, consciousness window, perception assembly. |
