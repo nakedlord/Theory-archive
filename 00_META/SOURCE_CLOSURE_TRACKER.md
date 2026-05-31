@@ -84,40 +84,40 @@ closure.
 
 | Note File | Title | Primary Route | Status | Next Action |
 |---|---|---|---|---|
-| `00-canon-6943f980-3f.md` | 00_CANON | `02_SYNTAX/` | `partially_recorded` | Compare against current SynTax canon and mark residue as source-only or source record. |
-| `01-errorlog-6943f9da-6d.md` | 01_ERRORLOG | `02_SYNTAX/` | `candidate_import` | Reconcile early error classes with current SynTax error/pattern files. |
-| `02-cases-6943fa34-d4.md` | 02_CASES | `02_SYNTAX/` | `candidate_import` | Reconcile source cases with current SynTax cases and operator tests. |
-| `ai-инструменты-для-личного-знания-и-syntax-os-69f16123-7f.md` | AI tools for personal knowledge and SynTax OS | `02_SYNTAX/` + `agent-playbook` | `candidate_import` | Decide theory operator vs agent-ops split; avoid duplicating existing AI-assisted precognition notes. |
-| `ec-os-v-2-0-693d68bc-91.md` | EC-OS v.2.0 | `02_SYNTAX/` | `candidate_import` | Check whether EC-OS is already covered by Boltalka/SynTax source notes; import only delta. |
+| `00-canon-6943f980-3f.md` | 00_CANON | `02_SYNTAX/` | `source_recorded` | Covered by SynTax module files and `02_SYNTAX/SOURCES/2026-05-31_syntax_memory_dialogue_source_closure.md`; no canon promotion. |
+| `01-errorlog-6943f9da-6d.md` | 01_ERRORLOG | `02_SYNTAX/` | `source_recorded` | Early error-hygiene provenance recorded in the 2026-05-31 SynTax closure note. |
+| `02-cases-6943fa34-d4.md` | 02_CASES | `02_SYNTAX/` | `source_recorded` | Early case-format provenance recorded in the 2026-05-31 SynTax closure note. |
+| `ai-инструменты-для-личного-знания-и-syntax-os-69f16123-7f.md` | AI tools for personal knowledge and SynTax OS | `02_SYNTAX/` + `agent-playbook` | `partially_recorded` | PKM critique and agent/tooling split recorded in the 2026-05-31 SynTax closure note; route product/process residue outside Theory Archive. |
+| `ec-os-v-2-0-693d68bc-91.md` | EC-OS v.2.0 | `02_SYNTAX/` | `partially_recorded` | EC-OS preserved as predecessor/provenance in the 2026-05-31 SynTax closure note; not promoted to standalone canon. |
 | `how-are-you-67437789-55.md` | How are you | none / personal | `needs_triage` | Review for durable idea delta; otherwise mark skipped. |
 | `m5-theory-6910571f-8d.md` | M5 Theory | `06_BOUNDARY_SATURATION/` | `source_recorded` | Use existing M5 source note and verification plan; no further import unless new residue is found. |
 | `meat-pna-mccr-693da148-49.md` | MEAT, PNA, MCCR | `04_MEAT/` + `05_PNA/` | `source_recorded` | Next work is MCCR review/classification, not source discovery. |
 | `r-theory-3-1-canon-69e4b2dc-86.md` | R-theory 3.1 Canon | `01_R_THEORY/` | `partially_recorded` | Compare against v3.3 canon and mark old wording source-only unless a missing delta remains. |
 | `r-теория-и-структурация-69c581fa-03.md` | R-theory and structuration | `01_R_THEORY/` + `90_CROSS_LINKS/` | `source_recorded` | Use existing R Theory structuration source note and instruction-runtime split. |
 | `r3-1-3-694a3e41-03.md` | R3.1-3 | `01_R_THEORY/` | `source_recorded` | R3 compact canon is accepted; remaining residue is route-specific, not more R3 extraction. |
-| `syntax-cognitive-model-69359fed-3f.md` | Syntax cognitive model | `02_SYNTAX/` | `candidate_import` | Reconcile with Cognitive Ascent Architecture and active operator index. |
-| `syntax-os-693479d0-f1.md` | Syntax OS | `02_SYNTAX/` | `source_recorded` | Existing Syntax OS source note covers main route; check only for residue. |
-| `syntax-sync-лог-6943fa8f-b6.md` | SynTax sync log | `02_SYNTAX/` | `candidate_import` | Treat as provenance/log; extract only durable state/routing deltas. |
+| `syntax-cognitive-model-69359fed-3f.md` | Syntax cognitive model | `02_SYNTAX/` | `partially_recorded` | Statistical/cognitive framing recorded as provenance in the 2026-05-31 SynTax closure note; no new operator yet. |
+| `syntax-os-693479d0-f1.md` | Syntax OS | `02_SYNTAX/` | `source_recorded` | Existing Syntax OS source note covers main route; residue checked in the 2026-05-31 closure pass. |
+| `syntax-sync-лог-6943fa8f-b6.md` | SynTax sync log | `02_SYNTAX/` | `source_recorded` | Append-only sync provenance recorded in the 2026-05-31 SynTax closure note. |
 | `агентность-иисуса-христа-69d5429f-ad.md` | Agency of Jesus Christ | `03_CULTURE_AS_INSTRUCTIONS/` + `07_SOTERIOLOGICAL_RITUAL_ACCUMULATION/` | `candidate_import` | Review as culture/religion case source; separate theological claim from instruction-network model. |
-| `активировать-syntax-69eaf9d5-49.md` | Activate SynTax | `02_SYNTAX/` | `candidate_import` | Compare with activation prompt archive and portable SynTax materials. |
-| `активировка-синтакс-режима-69e12d63-f9.md` | SynTax mode activation | `02_SYNTAX/` | `candidate_import` | Same gate as activation prompts; route agent-ops residue outside Theory Archive if needed. |
+| `активировать-syntax-69eaf9d5-49.md` | Activate SynTax | `03_CULTURE_AS_INSTRUCTIONS/` + `07_SOTERIOLOGICAL_RITUAL_ACCUMULATION/` | `candidate_import` | Title is misleading for SynTax closure; process with the culture/religion cluster because the digest is about Jesus agency and New Testament analysis. |
+| `активировка-синтакс-режима-69e12d63-f9.md` | SynTax mode activation | `02_SYNTAX/` + `agent-playbook` | `partially_recorded` | SynTax activation and agent-harness split recorded in the 2026-05-31 closure note; do not reconstruct hidden prompts. |
 | `анализ-творчества-691ff022-99.md` | Creativity analysis | `02_SYNTAX/` + possible culture/case | `needs_triage` | Decide whether it contains an operator/case or only casual analysis. |
 | `архетип-и-достижения-пользователя-69417ea3-81.md` | User archetype and achievements | `02_SYNTAX/` / personal profile | `needs_triage` | Use only if it updates identity/continuity operators; otherwise source-only. |
-| `архитектура-syntax-69ad0e69-8d.md` | SynTax architecture | `02_SYNTAX/` | `candidate_import` | Reconcile with current SynTax architecture/version files. |
-| `аудит-памяти-chatgpt-69fecf0b-f9.md` | ChatGPT memory audit | `02_SYNTAX/` + `agent-playbook` | `candidate_import` | Split memory theory from agent-ops/process notes. |
-| `болталка-2-0-692604cd-83.md` | Boltalka 2.0 | `02_SYNTAX/` | `candidate_import` | Predecessor to Boltalka 3.x; extract only deltas not already covered. |
+| `архитектура-syntax-69ad0e69-8d.md` | SynTax architecture | `02_SYNTAX/` | `partially_recorded` | Validation Layer is covered; Execution Trace residue remains review-only in the 2026-05-31 SynTax closure note. |
+| `аудит-памяти-chatgpt-69fecf0b-f9.md` | ChatGPT memory audit | `agent-playbook` + CSP provenance | `routed_elsewhere` | Mainly GitHub/CSP tool-call and memory-audit process provenance; no theory import in this pass. |
+| `болталка-2-0-692604cd-83.md` | Boltalka 2.0 | `02_SYNTAX/` | `source_only` | Broad early self-analysis/provenance; no clean missing SynTax delta from the digest after closure review. |
 | `болталка-3-0-идеи-6933051b-95.md` | Boltalka 3.0 ideas | `02_SYNTAX/` | `source_recorded` | Existing source note covers main route; check only for residue. |
 | `болталка-3-1-693484aa-b5.md` | Boltalka 3.1 | `02_SYNTAX/` | `source_recorded` | Existing source note covers main route; process cross-route queue if needed. |
 | `болталка-6943fe5d-54.md` | Boltalka | `02_SYNTAX/` | `needs_triage` | Review for distinct idea/operator delta. |
 | `болталка-и-поиск-инфы-6891c1ad-50.md` | Boltalka and information search | `02_SYNTAX/` + source workflow | `needs_triage` | Decide whether it belongs to SynTax, agent-playbook, or source-only. |
-| `взаимодействие-памяти-и-гаджетов-69eef777-3d.md` | Memory and gadgets interaction | `02_SYNTAX/` + memory architecture | `candidate_import` | Compare with Memory System Architecture and idea-state lifecycle. |
+| `взаимодействие-памяти-и-гаджетов-69eef777-3d.md` | Memory and gadgets interaction | `02_SYNTAX/` + memory architecture | `source_only` | Digest appears noisy/misrouted; keep as provenance unless a raw-transcript pass finds a durable memory-architecture delta. |
 | `википедия-68aa1003-0b.md` | Wikipedia | source/reference | `needs_triage` | Mark source-only unless it contributed a concrete theory case or external-reference route. |
 | `выбор-подержанного-авто-680cc303-72.md` | Used car choice | outside Theory Archive | `source_only` | No theory import unless a surprising operator is found. |
 | `гиперболизация-человеческих-инстинктов-687ca471-69.md` | Hyperbolization of human instincts | `09_REPRODUCTIVE_STRATEGY/` + culture | `candidate_import` | Check against reproductive-strategy module and avoid folk-biological overclaims. |
 | `госпожа-бовари-epub-67627fe9-28.md` | Madame Bovary epub | reading/source | `needs_triage` | Use only as literature/culture case if a theory claim was made. |
 | `жизнь-как-набор-инструкций-694943ff-4b.md` | Life as a set of instructions | `03_CULTURE_AS_INSTRUCTIONS/` + `01_R_THEORY/` | `candidate_import` | Likely high-value culture/R Theory bridge; process early. |
 | `занудная-болталка-6943dd99-de.md` | Tedious Boltalka | `02_SYNTAX/` | `needs_triage` | Review for distinct source value; likely source-only if repetitive. |
-| `использование-github-в-памяти-69fcd5ad-ba.md` | Using GitHub in memory | `02_SYNTAX/` + `agent-playbook` | `candidate_import` | Split theory memory architecture from operational agent workflow. |
+| `использование-github-в-памяти-69fcd5ad-ba.md` | Using GitHub in memory | `agent-playbook` + CSP provenance | `routed_elsewhere` | Mainly operational GitHub/CSP memory workflow; no raw tool-call import into Theory Archive. |
 | `история-артефактов-до-верхнего-палеолита-693c17f5-60.md` | Artifact history before Upper Paleolithic | `01_R_THEORY/` | `candidate_import` | Compare with existing archaeology source cards and avoid duplicate unsupported claims. |
 | `как-измерить-период-полураспада-идей-69ed62d8-45.md` | How to measure idea half-life | `03_CULTURE_AS_INSTRUCTIONS/` | `candidate_import` | Candidate for Cultural Instruction Decay empirical/measurement route. |
 | `кинонавигатор-68f50d7e-0d.md` | Movie navigator | outside Theory Archive / product idea | `source_only` | Route outside only if revived as product; otherwise skip. |
@@ -139,14 +139,14 @@ closure.
 | `разговор-о-мыслях-688afac4-81.md` | Conversation about thoughts | `02_SYNTAX/` + `05_PNA/` | `candidate_import` | Process with ontology/thought cluster. |
 | `роза-мира-андреева-69f58504-37.md` | Andreev's Rose of the World | `03_CULTURE_AS_INSTRUCTIONS/` + `07_SOTERIOLOGICAL_RITUAL_ACCUMULATION/` | `candidate_import` | Review as religious/culture source case; separate literary/theological claims. |
 | `создание-изображения-системы-694258ce-c5.md` | System image generation | visual/source-only | `source_only` | Do not import generated image attempts as theory evidence; keep only if diagram architecture mattered. |
-| `создание-репозитория-теорий-69ecf671-a4.md` | Theory repository creation | `00_META/` | `candidate_import` | Reconcile with repository migration history and KCL/meta files. |
+| `создание-репозитория-теорий-69ecf671-a4.md` | Theory repository creation | `00_META/` | `source_recorded` | Repository migration provenance recorded in the 2026-05-31 SynTax closure note; existing meta/migration files remain authoritative. |
 | `создание-чата-для-транскрипции-68aed8cb-fd.md` | Creating a chat for transcription | `agent-playbook` / workflow | `routed_elsewhere` | Route only if reusable agent workflow exists. |
 | `структурирование-памяти-ии-6939385d-95.md` | Structuring AI memory | `02_SYNTAX/` | `source_recorded` | Existing AI memory structure source note covers main route; check residue later. |
 | `теория-без-воды-69e13654-f3.md` | Theory without fluff | multi-theory summary | `candidate_import` | Use as compact synthesis/provenance only; avoid canon overwrite. |
 | `теория-рекурсивного-выбора-и-символического-разрыва-69233882-c0.md` | Recursive Choice and Symbolic Rupture Theory | `01_R_THEORY/` | `source_recorded` | Existing source note covers main route. |
 | `тест-новой-модели-69a9d35b-2c.md` | New model test | `02_SYNTAX/` / model testing | `needs_triage` | Review for operator/test result; otherwise source-only. |
 | `удиви-меня-6962b2f5-5e.md` | Surprise me | unknown | `needs_triage` | Review for durable theory delta; otherwise skipped. |
-| `цели-в-архитектуре-диалогов-69ac79a9-bf.md` | Goals in dialogue architecture | `02_SYNTAX/` + `agent-playbook` | `candidate_import` | Split SynTax dialogue architecture from agent workflow if needed. |
+| `цели-в-архитектуре-диалогов-69ac79a9-bf.md` | Goals in dialogue architecture | `02_SYNTAX/` + `03_CULTURE_AS_INSTRUCTIONS/` | `partially_recorded` | Goal Module provenance recorded; ritual/religion residue routed to the culture/religion cluster. |
 | `что-почитать-6936c01c-d0.md` | What to read? | reading/source | `needs_triage` | Extract external-source queue only if tied to active theory gaps. |
 | `что-такое-openclaw-69fc16c7-8f.md` | What is OpenClaw | agent/product route | `routed_elsewhere` | Route outside Theory Archive unless it became SynTax operator evidence. |
 | `что-такое-кяриз-693bc422-9a.md` | What is kyariz | factual/reference | `source_only` | No theory import by default. |
@@ -173,8 +173,12 @@ Process in clusters rather than one chat at a time:
 
 ## Current Next Action
 
-Start with cluster 1, because it defines the memory/source-closure machinery
-that will keep later theory imports from turning into another pile.
+Cluster 1 has a digest-level closure note:
+
+- `02_SYNTAX/SOURCES/2026-05-31_syntax_memory_dialogue_source_closure.md`
+
+Continue with cluster 2 (`R Theory / thought / archaeology`) unless a fresh
+Drive inventory becomes available first.
 
 Before changing canon or module pages, check each row against:
 
@@ -183,4 +187,3 @@ Before changing canon or module pages, check each row against:
 - `ACTIVE_IDEAS_INDEX.md`;
 - module `OPEN_GAPS.md`;
 - module `MIGRATION_CLOSURE.md`.
-
