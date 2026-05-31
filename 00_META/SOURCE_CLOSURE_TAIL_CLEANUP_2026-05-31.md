@@ -32,7 +32,7 @@ not import raw transcripts.
 | `ответ-на-вопросик-6943a96f-ef.md` | `6943a96f-efe8-832e-b555-95bcfbf6351f` | Source-only; savant/prime-number skepticism lead, no current module route. |
 | `приветик-игорь-69a8786d-7b.md` | `69a8786d-7b0c-8387-bc8b-d549c00038d0` | Source-only; language/world and model-environment analogy lead, no current import. |
 | `тест-новой-модели-69a9d35b-2c.md` | `69a9d35b-2c40-8392-9f59-049cf30663a1` | Source-only / agent-ops residue; model test prompt, no theory artifact. |
-| `удиви-меня-6962b2f5-5e.md` | `6962b2f5-5eac-8333-85c2-6ff5e0976ba9` | Partially recorded as weak R Theory/SynTax source lead around play as safe learning and boredom/friction; no import. |
+| `удиви-меня-6962b2f5-5e.md` | `6962b2f5-5eac-8333-85c2-6ff5e0976ba9` | Superseded by raw second pass: source-recorded for the R2 future-choice vs R3 irreversibility boundary distinction. |
 | `что-я-умею-67dbe92c-63.md` | `67dbe92c-6328-8013-9040-201b83908a2c` | Source-only; Plato/philosophy reading lead, no current artifact. |
 
 ## Cluster 4 / 5 Closure
@@ -59,3 +59,13 @@ This tail pass also closes the practical residue of:
 The OpenAI export note ledger has digest-level closure: every known row now has
 a controlled status. Google Drive/source-family closure remains separate and
 blocked on a fresh inventory or repeatable connector pass.
+
+## Raw Second-Pass Update 2026-05-31
+
+The later raw-corpus audit supersedes this tail-cleanup verdict for
+`удиви-меня-6962b2f5-5e.md` only:
+
+- `01_R_THEORY/SOURCES/2026-05-31_r2_future_choice_r3_irreversibility_source_note.md`
+
+The update preserves a boundary distinction as a source note. It does not change
+R Theory canon.

@@ -4,6 +4,7 @@ Status: active control surface / needs consolidation
 Date: 2026-05-31
 CSP project: `syntax`
 CSP thread: `openai-export-routing`
+Latest CSP event: `projects/syntax/events/2026-05-31-codex-openai-export-second-pass-theory-audit.md`
 
 ## Purpose
 
@@ -55,7 +56,8 @@ For closure, there should be no `needs_triage` rows left.
 
 | Family | Location / Source | Count / Scope | Current Status | Next Action |
 |---|---|---:|---|---|
-| OpenAI export notes 2026-05-11 | `imports/openai-export/2026-05-11/notes/` | 68 note files | digest-level closure complete / no `needs_triage` rows | Use raw transcripts only for explicit source verification or targeted artifact work. |
+| OpenAI export notes 2026-05-11 | `imports/openai-export/2026-05-11/notes/` | 68 note files | digest-level closure complete / no `needs_triage` rows / superseded by raw second-pass audit for theory residue | Use raw transcripts only for explicit source verification or targeted artifact work; start from `00_META/OPENAI_EXPORT_SECOND_PASS_THEORY_AUDIT_2026-05-31.md`. |
+| OpenAI export raw corpus second-pass audit | `C:/Users/imnak/Downloads/OpenAI-export.zip` + 260-conversation manifest | 260 conversations | raw second-pass theory audit complete / 3 durable artifacts added / not canon | Future passes should be targeted: source verification, Drive inventory, or module-specific residue checks. |
 | Existing source registry | `00_META/SOURCE_REGISTRY.md` | active registry | active | Reconcile rows below against registry before new imports. |
 | Existing ingest log | `00_META/INGEST_LOG.md` | active log | active | Append only when source closure creates or changes durable artifacts. |
 | Theory Drive / source audit | `00_META/COVERAGE_AUDIT_2026-04-25.md` and Drive references | partial, old audit | blocked / inventory missing | Create a Drive source ledger when a fresh inventory or connector pass is available. |
@@ -119,7 +121,7 @@ closure.
 | `занудная-болталка-6943dd99-de.md` | Tedious Boltalka | free chat / utility | `source_only` | Free chat and API-key utility content; no theory artifact. |
 | `использование-github-в-памяти-69fcd5ad-ba.md` | Using GitHub in memory | `agent-playbook` + CSP provenance | `routed_elsewhere` | Mainly operational GitHub/CSP memory workflow; no raw tool-call import into Theory Archive. |
 | `история-артефактов-до-верхнего-палеолита-693c17f5-60.md` | Artifact history before Upper Paleolithic | `01_R_THEORY/` | `partially_recorded` | Existing archaeology source cards/comparison table cover the safer route; keep only source leads or raw-transcript residue, no duplicate claims. |
-| `как-измерить-период-полураспада-идей-69ed62d8-45.md` | How to measure idea half-life | `03_CULTURE_AS_INSTRUCTIONS/` | `source_only` | Digest shows repo search/provenance, not a usable measurement artifact; revisit only with raw transcript or active measurement task. |
+| `как-измерить-период-полураспада-идей-69ed62d8-45.md` | How to measure idea half-life | `03_CULTURE_AS_INSTRUCTIONS/` | `source_recorded` | Raw second-pass reclassified this as CID provenance; see `03_CULTURE_AS_INSTRUCTIONS/SOURCES/2026-05-31_idea_half_life_chat_export_source_note.md`. |
 | `кинонавигатор-68f50d7e-0d.md` | Movie navigator | outside Theory Archive / product idea | `source_only` | Route outside only if revived as product; otherwise skip. |
 | `книга-койре-обзор-693b19c7-fd.md` | Koyre book review | culture / history of science source | `source_only` | External-reading lead; do not import Cusanus/Parmenides claims from digest. |
 | `книги-и-философия-6891965a-57.md` | Books and philosophy | reading/source | `source_only` | Reading/Kant route only; use if a concrete Kant/source-reading task resumes. |
@@ -145,13 +147,22 @@ closure.
 | `теория-без-воды-69e13654-f3.md` | Theory without fluff | `02_SYNTAX/` + output/interface residue | `partially_recorded` | Cluster 2 closure records it as format/output-constraint residue, not R-core; avoid canon overwrite. |
 | `теория-рекурсивного-выбора-и-символического-разрыва-69233882-c0.md` | Recursive Choice and Symbolic Rupture Theory | `01_R_THEORY/` | `source_recorded` | Existing source note covers main route; cluster 2 closure preserves decoherence as analogy/provenance, not physics evidence. |
 | `тест-новой-модели-69a9d35b-2c.md` | New model test | model testing / agent-ops | `source_only` | Model test prompt; no theory artifact. |
-| `удиви-меня-6962b2f5-5e.md` | Surprise me | `01_R_THEORY/` + `02_SYNTAX/` | `partially_recorded` | Weak source lead around play as safe learning and boredom/friction; no import. |
+| `удиви-меня-6962b2f5-5e.md` | Surprise me | `01_R_THEORY/` + `02_SYNTAX/` | `source_recorded` | Raw second-pass preserved the R2 future-choice vs R3 irreversibility boundary distinction; see `01_R_THEORY/SOURCES/2026-05-31_r2_future_choice_r3_irreversibility_source_note.md`. |
 | `цели-в-архитектуре-диалогов-69ac79a9-bf.md` | Goals in dialogue architecture | `02_SYNTAX/` + `03_CULTURE_AS_INSTRUCTIONS/` | `partially_recorded` | Goal Module provenance recorded; ritual/religion residue routed to the culture/religion cluster. |
 | `что-почитать-6936c01c-d0.md` | What to read? | reading/source | `source_only` | Reading/profile route only; no current theory artifact. |
 | `что-такое-openclaw-69fc16c7-8f.md` | What is OpenClaw | agent/product route | `routed_elsewhere` | Route outside Theory Archive unless it became SynTax operator evidence. |
 | `что-такое-кяриз-693bc422-9a.md` | What is kyariz | factual/reference | `source_only` | No theory import by default. |
 | `что-такое-стресс-69446ec8-4f.md` | What is stress | `01_R_THEORY/` + `05_PNA/` | `source_recorded` | Covered by `01_R_THEORY/EVIDENCE/stress_metabolic_mismatch.md` and cluster 2 closure; future work is evidence/source verification, not chat import. |
 | `что-я-умею-67dbe92c-63.md` | What I can do | reading/philosophy | `source_only` | Plato/philosophy reading lead; no current artifact. |
+
+## Raw Whole-Corpus Addendum
+
+These rows came from the raw 260-conversation manifest rather than the 68-note
+digest ledger.
+
+| Conversation ID | Title | Manifest Route | Status | Next Action |
+|---|---|---|---|---|
+| `693a9f27-9810-8333-9791-4fe0863cd1dc` | `История культуры. Теория культурного дрейфа` | `artifact` | `source_recorded` | Major missed Culture source imported as `03_CULTURE_AS_INSTRUCTIONS/SOURCES/2026-05-31_cultural_drift_chat_export_source_note.md` and `03_CULTURE_AS_INSTRUCTIONS/HYPOTHESES/2026-05-31_cultural_drift_distributed_network.md`; needs external source verification. |
 
 ## Cluster Queue
 
@@ -190,8 +201,20 @@ Tail cleanup for cluster 4/5 and remaining OpenAI rows is recorded in:
 - `00_META/SOURCE_CLOSURE_TAIL_CLEANUP_2026-05-31.md`
 
 The OpenAI export digest ledger is now closed at tracker level. Continue with
-Theory Drive inventory/source-family closure when a fresh inventory or
-repeatable connector pass is available.
+the raw second-pass audit as the current theory-residue guarantee:
+
+- `00_META/OPENAI_EXPORT_SECOND_PASS_THEORY_AUDIT_2026-05-31.md`
+
+OpenAI export raw second pass added:
+
+- `03_CULTURE_AS_INSTRUCTIONS/SOURCES/2026-05-31_cultural_drift_chat_export_source_note.md`
+- `03_CULTURE_AS_INSTRUCTIONS/HYPOTHESES/2026-05-31_cultural_drift_distributed_network.md`
+- `03_CULTURE_AS_INSTRUCTIONS/SOURCES/2026-05-31_idea_half_life_chat_export_source_note.md`
+- `01_R_THEORY/SOURCES/2026-05-31_r2_future_choice_r3_irreversibility_source_note.md`
+- `90_CROSS_LINKS/2026-05-31_openai_second_pass_theory_cross_links.md`
+
+Continue with Theory Drive inventory/source-family closure when a fresh
+inventory or repeatable connector pass is available.
 
 Before changing canon or module pages, check each row against:
 

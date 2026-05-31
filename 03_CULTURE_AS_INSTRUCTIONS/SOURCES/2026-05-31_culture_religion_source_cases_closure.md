@@ -30,7 +30,7 @@ Reviewed as Culture / religion / source cases:
 | `онтология-мысли-692f3d2b-4d.md` | `692f3d2b-4d24-8333-81c6-a2811265cb4a` | Partially recorded as Egyptian Ka/Maat conceptual-structure source lead; no factual claims accepted. |
 | `жизнь-как-набор-инструкций-694943ff-4b.md` | `694943ff-4b1c-832b-bef9-1bf6cc3e603d` | Partially recorded as Culture/R Theory bridge and falsifiable-prediction source lead. |
 | `книга-койре-обзор-693b19c7-fd.md` | `693b19c7-fd20-832a-ab34-24c5c97e731a` | Source-only external-reading lead; do not import Cusanus/Parmenides claims from digest. |
-| `как-измерить-период-полураспада-идей-69ed62d8-45.md` | `69ed62d8-454c-8328-b64a-92b394041ea9` | Source-only for this pass; digest shows repo search/provenance, not a usable measurement artifact. |
+| `как-измерить-период-полураспада-идей-69ed62d8-45.md` | `69ed62d8-454c-8328-b64a-92b394041ea9` | Superseded by raw second pass: now source-recorded as CID provenance in `2026-05-31_idea_half_life_chat_export_source_note.md`. |
 | `википедия-68aa1003-0b.md` | `68aa1003-0bec-8325-88b9-0d21b97c2f57` | Source-only religious/source-lead mix; keep only if a future source-card pass needs Joachim/Cathar/icon leads. |
 | `госпожа-бовари-epub-67627fe9-28.md` | `67627fe9-280c-8013-8e7b-cd6ce4709ac9` | Source-only; ebook/search utility, no current theory import. |
 | `книги-и-философия-6891965a-57.md` | `6891965a-57ac-832f-ac33-91fc68a80877` | Source-only reading route; use only if Kant/source-reading work resumes. |
@@ -92,3 +92,14 @@ Continue source closure with:
 
 Drive closure remains blocked until there is a fresh Drive inventory or a
 repeatable connector pass.
+
+## Raw Second-Pass Update 2026-05-31
+
+The later raw-corpus audit supersedes the digest-level verdict for the idea
+half-life row and adds one raw-only Culture source that was not in this note:
+
+- `03_CULTURE_AS_INSTRUCTIONS/SOURCES/2026-05-31_idea_half_life_chat_export_source_note.md`
+- `03_CULTURE_AS_INSTRUCTIONS/SOURCES/2026-05-31_cultural_drift_chat_export_source_note.md`
+- `03_CULTURE_AS_INSTRUCTIONS/HYPOTHESES/2026-05-31_cultural_drift_distributed_network.md`
+
+This does not change Culture canon.

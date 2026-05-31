@@ -244,7 +244,46 @@ SOURCES/social_memory_sources.md
 
 ---
 
-## 10. Current status
+## 10. Cultural drift verification
+
+CSP event: `projects/syntax/events/2026-05-31-codex-openai-export-second-pass-theory-audit.md`
+
+Related files:
+
+- `SOURCES/2026-05-31_cultural_drift_chat_export_source_note.md`
+- `HYPOTHESES/2026-05-31_cultural_drift_distributed_network.md`
+- `../90_CROSS_LINKS/2026-05-31_openai_second_pass_theory_cross_links.md`
+
+Claims to verify:
+
+- ideas can be modeled as variant clouds rather than pure points;
+- artifacts bias future cultural variant distributions;
+- negation, attraction, synthesis, mutation, and decay can be treated as
+  interaction modes inside a distributed cultural network;
+- art, religion, law, ritual, and identity symbols can sometimes function as
+  cohesion artifacts without reducing them to that function;
+- sedentism and large-group stability require resource, storage, demographic,
+  and cohesion variables rather than a single symbolic cause.
+
+Needed source groups:
+
+- cultural evolution and cultural transmission;
+- dual inheritance / gene-culture coevolution;
+- cultural attractor theory;
+- distributed cognition / extended mind;
+- material culture and artifact agency;
+- network diffusion and stabilization;
+- anthropology of sedentism, storage, demography, ritual, and group cohesion.
+
+Status:
+
+```text
+active_hypothesis / needs source verification / not canon
+```
+
+---
+
+## 11. Current status
 
 ```text
 source verification plan created / sources not yet collected

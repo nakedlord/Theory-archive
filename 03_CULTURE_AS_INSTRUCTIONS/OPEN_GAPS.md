@@ -287,3 +287,32 @@ Open:
 - test instruction packet/runtime on a concrete Culture case;
 - compare against meme/symbol/concept/ritual distinction maps;
 - add external sources before canon review.
+
+---
+
+## 10. Cultural drift raw-export source
+
+CSP event: `projects/syntax/events/2026-05-31-codex-openai-export-second-pass-theory-audit.md`
+
+Status:
+
+```text
+active_hypothesis_created / raw_second_pass / non_canon / needs_source_verification
+```
+
+Artifacts:
+
+- `SOURCES/2026-05-31_cultural_drift_chat_export_source_note.md`
+- `HYPOTHESES/2026-05-31_cultural_drift_distributed_network.md`
+- `../90_CROSS_LINKS/2026-05-31_openai_second_pass_theory_cross_links.md`
+
+Open:
+
+- compare against `HYPOTHESES/2026-05-27_operator_dynamics_space.md`;
+- decide whether cultural drift is a Culture patch, a long-lived hypothesis, or
+  a separate module;
+- source-check against cultural evolution, cultural attractor theory,
+  distributed cognition, material culture, dual inheritance, network science,
+  and sedentism/storage anthropology;
+- keep PNA-like conscious-window residue routed to PNA rather than importing it
+  into Culture by default.

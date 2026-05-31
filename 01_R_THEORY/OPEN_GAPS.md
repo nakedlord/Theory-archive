@@ -529,3 +529,27 @@ Still open:
 - motivational field needs PNA source verification;
 - GYMKiDs / Fly Zone applied trainer methodology needs a separate KB import if
   pursued.
+
+### 11.8 R2 future choice vs R3 irreversibility source note
+
+CSP event: `projects/syntax/events/2026-05-31-codex-openai-export-second-pass-theory-audit.md`
+
+Status:
+
+```text
+source_note_created / boundary_distinction / non_canon
+```
+
+Artifact:
+
+- `SOURCES/2026-05-31_r2_future_choice_r3_irreversibility_source_note.md`
+
+Open:
+
+- compare the distinction against current R3-A/B/C canon;
+- test cases where future simulation remains R2 because it only selects a local
+  trajectory;
+- test cases where irreversible choice rewrites the rule-space and may count as
+  R3;
+- avoid treating regret, responsibility, or existential language as sufficient
+  proof of R3.
