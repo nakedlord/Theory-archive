@@ -55,7 +55,7 @@ For closure, there should be no `needs_triage` rows left.
 
 | Family | Location / Source | Count / Scope | Current Status | Next Action |
 |---|---|---:|---|---|
-| OpenAI export notes 2026-05-11 | `imports/openai-export/2026-05-11/notes/` | 68 note files | enumerated / mixed status | Process by clusters and close every row. |
+| OpenAI export notes 2026-05-11 | `imports/openai-export/2026-05-11/notes/` | 68 note files | digest-level closure complete / no `needs_triage` rows | Use raw transcripts only for explicit source verification or targeted artifact work. |
 | Existing source registry | `00_META/SOURCE_REGISTRY.md` | active registry | active | Reconcile rows below against registry before new imports. |
 | Existing ingest log | `00_META/INGEST_LOG.md` | active log | active | Append only when source closure creates or changes durable artifacts. |
 | Theory Drive / source audit | `00_META/COVERAGE_AUDIT_2026-04-25.md` and Drive references | partial, old audit | blocked / inventory missing | Create a Drive source ledger when a fresh inventory or connector pass is available. |
@@ -89,7 +89,7 @@ closure.
 | `02-cases-6943fa34-d4.md` | 02_CASES | `02_SYNTAX/` | `source_recorded` | Early case-format provenance recorded in the 2026-05-31 SynTax closure note. |
 | `ai-инструменты-для-личного-знания-и-syntax-os-69f16123-7f.md` | AI tools for personal knowledge and SynTax OS | `02_SYNTAX/` + `agent-playbook` | `partially_recorded` | PKM critique and agent/tooling split recorded in the 2026-05-31 SynTax closure note; route product/process residue outside Theory Archive. |
 | `ec-os-v-2-0-693d68bc-91.md` | EC-OS v.2.0 | `02_SYNTAX/` | `partially_recorded` | EC-OS preserved as predecessor/provenance in the 2026-05-31 SynTax closure note; not promoted to standalone canon. |
-| `how-are-you-67437789-55.md` | How are you | none / personal | `needs_triage` | Review for durable idea delta; otherwise mark skipped. |
+| `how-are-you-67437789-55.md` | How are you | none / personal | `source_only` | Audio/Mountcastle/general neuroscience lead; no current artifact after tail cleanup. |
 | `m5-theory-6910571f-8d.md` | M5 Theory | `06_BOUNDARY_SATURATION/` | `source_recorded` | Use existing M5 source note and verification plan; no further import unless new residue is found. |
 | `meat-pna-mccr-693da148-49.md` | MEAT, PNA, MCCR | `04_MEAT/` + `05_PNA/` | `source_recorded` | Next work is MCCR review/classification, not source discovery. |
 | `r-theory-3-1-canon-69e4b2dc-86.md` | R-theory 3.1 Canon | `01_R_THEORY/` | `source_recorded` | Old v3.1/v3.3 provenance recorded in `01_R_THEORY/SOURCES/2026-05-31_rtheory_thought_archaeology_source_closure.md`; no canon rewrite. |
@@ -101,22 +101,22 @@ closure.
 | `агентность-иисуса-христа-69d5429f-ad.md` | Agency of Jesus Christ | `03_CULTURE_AS_INSTRUCTIONS/` + `07_SOTERIOLOGICAL_RITUAL_ACCUMULATION/` | `partially_recorded` | Jesus-agency/New Testament source provenance recorded in `03_CULTURE_AS_INSTRUCTIONS/SOURCES/2026-05-31_culture_religion_source_cases_closure.md`; textual verification still required. |
 | `активировать-syntax-69eaf9d5-49.md` | Activate SynTax | `03_CULTURE_AS_INSTRUCTIONS/` + `07_SOTERIOLOGICAL_RITUAL_ACCUMULATION/` | `partially_recorded` | Misleading title closed as Jesus-agency/New Testament source provenance, not SynTax activation. |
 | `активировка-синтакс-режима-69e12d63-f9.md` | SynTax mode activation | `02_SYNTAX/` + `agent-playbook` | `partially_recorded` | SynTax activation and agent-harness split recorded in the 2026-05-31 closure note; do not reconstruct hidden prompts. |
-| `анализ-творчества-691ff022-99.md` | Creativity analysis | `02_SYNTAX/` + possible culture/case | `needs_triage` | Decide whether it contains an operator/case or only casual analysis. |
-| `архетип-и-достижения-пользователя-69417ea3-81.md` | User archetype and achievements | `02_SYNTAX/` / personal profile | `needs_triage` | Use only if it updates identity/continuity operators; otherwise source-only. |
+| `анализ-творчества-691ff022-99.md` | Creativity analysis | personal/profile | `source_only` | Personal creative/profile material; no theory import without explicit identity/creative-analysis task. |
+| `архетип-и-достижения-пользователя-69417ea3-81.md` | User archetype and achievements | personal/profile + visual attempt | `source_only` | Year-summary/image-generation attempt; no durable theory artifact. |
 | `архитектура-syntax-69ad0e69-8d.md` | SynTax architecture | `02_SYNTAX/` | `partially_recorded` | Validation Layer is covered; Execution Trace residue remains review-only in the 2026-05-31 SynTax closure note. |
 | `аудит-памяти-chatgpt-69fecf0b-f9.md` | ChatGPT memory audit | `agent-playbook` + CSP provenance | `routed_elsewhere` | Mainly GitHub/CSP tool-call and memory-audit process provenance; no theory import in this pass. |
 | `болталка-2-0-692604cd-83.md` | Boltalka 2.0 | `02_SYNTAX/` | `source_only` | Broad early self-analysis/provenance; no clean missing SynTax delta from the digest after closure review. |
 | `болталка-3-0-идеи-6933051b-95.md` | Boltalka 3.0 ideas | `02_SYNTAX/` | `source_recorded` | Existing source note covers main route; check only for residue. |
 | `болталка-3-1-693484aa-b5.md` | Boltalka 3.1 | `02_SYNTAX/` | `source_recorded` | Existing source note covers main route; process cross-route queue if needed. |
-| `болталка-6943fe5d-54.md` | Boltalka | `02_SYNTAX/` | `needs_triage` | Review for distinct idea/operator delta. |
-| `болталка-и-поиск-инфы-6891c1ad-50.md` | Boltalka and information search | `02_SYNTAX/` + source workflow | `needs_triage` | Decide whether it belongs to SynTax, agent-playbook, or source-only. |
+| `болталка-6943fe5d-54.md` | Boltalka | `02_SYNTAX/` | `source_only` | Poetry/free-chat/AI-system speculation residue; no clean missing operator from digest. |
+| `болталка-и-поиск-инфы-6891c1ad-50.md` | Boltalka and information search | source workflow / reading | `source_only` | Reading/search/travel/model-news mix; no current theory artifact. |
 | `взаимодействие-памяти-и-гаджетов-69eef777-3d.md` | Memory and gadgets interaction | `02_SYNTAX/` + memory architecture | `source_only` | Digest appears noisy/misrouted; keep as provenance unless a raw-transcript pass finds a durable memory-architecture delta. |
 | `википедия-68aa1003-0b.md` | Wikipedia | source/reference | `source_only` | Broad religious/source-lead mix; keep only if a future source-card pass needs Joachim/Cathar/icon leads. |
 | `выбор-подержанного-авто-680cc303-72.md` | Used car choice | outside Theory Archive | `source_only` | No theory import unless a surprising operator is found. |
-| `гиперболизация-человеческих-инстинктов-687ca471-69.md` | Hyperbolization of human instincts | `09_REPRODUCTIVE_STRATEGY/` + culture | `candidate_import` | Check against reproductive-strategy module and avoid folk-biological overclaims. |
+| `гиперболизация-человеческих-инстинктов-687ca471-69.md` | Hyperbolization of human instincts | humanizer / text rewrite | `source_only` | Title over-routes a humanizer/text-rewrite chat; no reproductive-strategy import. |
 | `госпожа-бовари-epub-67627fe9-28.md` | Madame Bovary epub | reading/source | `source_only` | Ebook/search utility; no current theory import. |
 | `жизнь-как-набор-инструкций-694943ff-4b.md` | Life as a set of instructions | `03_CULTURE_AS_INSTRUCTIONS/` + `01_R_THEORY/` | `partially_recorded` | Culture/R Theory bridge and falsifiable-prediction source lead recorded in cluster 3 closure; no canon import. |
-| `занудная-болталка-6943dd99-de.md` | Tedious Boltalka | `02_SYNTAX/` | `needs_triage` | Review for distinct source value; likely source-only if repetitive. |
+| `занудная-болталка-6943dd99-de.md` | Tedious Boltalka | free chat / utility | `source_only` | Free chat and API-key utility content; no theory artifact. |
 | `использование-github-в-памяти-69fcd5ad-ba.md` | Using GitHub in memory | `agent-playbook` + CSP provenance | `routed_elsewhere` | Mainly operational GitHub/CSP memory workflow; no raw tool-call import into Theory Archive. |
 | `история-артефактов-до-верхнего-палеолита-693c17f5-60.md` | Artifact history before Upper Paleolithic | `01_R_THEORY/` | `partially_recorded` | Existing archaeology source cards/comparison table cover the safer route; keep only source leads or raw-transcript residue, no duplicate claims. |
 | `как-измерить-период-полураспада-идей-69ed62d8-45.md` | How to measure idea half-life | `03_CULTURE_AS_INSTRUCTIONS/` | `source_only` | Digest shows repo search/provenance, not a usable measurement artifact; revisit only with raw transcript or active measurement task. |
@@ -127,14 +127,14 @@ closure.
 | `математика-для-чайников-6921f3da-39.md` | Math for beginners | personal learning/source | `source_only` | No theory import by default. |
 | `методика-обучения-паркуру-67f91a0d-6a.md` | Parkour teaching methodology | `GYMKIDS` route | `routed_elsewhere` | Route to `gymkids-kb-fill` unless explicitly used as theory/pedagogy case. |
 | `новости-и-обновления-6725b41f-8d.md` | News and updates | none / temporal | `source_only` | Do not import unless tied to a durable source route. |
-| `о-чем-ты-подумал-6955483e-e2.md` | What did you think about | `02_SYNTAX/` | `needs_triage` | Review for self-reflection/operator delta. |
+| `о-чем-ты-подумал-6955483e-e2.md` | What did you think about | `03_CULTURE_AS_INSTRUCTIONS/` + source reasoning | `partially_recorded` | Weak source lead for non-central textual detail / rhetorical-diagnostic reasoning; no import. |
 | `обсуждение-книги-латура-688a4700-14.md` | Latour book discussion | `03_CULTURE_AS_INSTRUCTIONS/` + source theory | `partially_recorded` | Latour/source-theory provenance recorded in cluster 3 closure; needs external reading/source cards before stronger use. |
-| `объективность-и-субъектность-69fce53f-ed.md` | Objectivity and subjectivity | `08_KANT_NVC_PREDICATION_HYGIENE/` + `02_SYNTAX/` | `candidate_import` | Compare with Kant/NVC predication hygiene before new artifact. |
+| `объективность-и-субъектность-69fce53f-ed.md` | Objectivity and subjectivity | `08_KANT_NVC_PREDICATION_HYGIENE/` + `02_SYNTAX/` | `source_recorded` | Covered by existing Kant/NVC predication hygiene source route; no new artifact. |
 | `онтология-мысли-692f3d2b-4d.md` | Ontology of thought | `03_CULTURE_AS_INSTRUCTIONS/` + source cases | `partially_recorded` | Egyptian Ka/Maat conceptual-structure source lead recorded; no Egyptology claim accepted from digest. |
-| `ответ-на-вопросик-6943a96f-ef.md` | Answer to a small question | unknown | `needs_triage` | Review title/content; likely source-only unless theory delta exists. |
+| `ответ-на-вопросик-6943a96f-ef.md` | Answer to a small question | source/reference | `source_only` | Savant/prime-number skepticism lead; no current module route. |
 | `переворот-интуиции-69961ffb-28.md` | Intuition reversal | `01_R_THEORY/` + `02_SYNTAX/` | `partially_recorded` | Operation-type exhaustion / explanation-limit motif recorded in cluster 2 closure; no formal operator imported. |
 | `попытки-вывести-r4-провалено-693ea03b-a3.md` | Attempts to derive R4 failed | `01_R_THEORY/` | `source_recorded` | Recorded as negative/boundary source for R4; keep the existing R3-mode guardrail and do not introduce R4 by default. |
-| `приветик-игорь-69a8786d-7b.md` | Hi Igor | personal/mixed | `needs_triage` | Review for durable content; otherwise skipped. |
+| `приветик-игорь-69a8786d-7b.md` | Hi Igor | personal/mixed | `source_only` | Language/world and model-environment analogy lead; no current import. |
 | `приложения-для-себя-69fecb94-ad.md` | Apps for myself | product / agent-ops | `routed_elsewhere` | Route to product/agent-playbook only if revived. |
 | `разговор-о-мыслях-688afac4-81.md` | Conversation about thoughts | `03_CULTURE_AS_INSTRUCTIONS/` + reading/source theory | `partially_recorded` | Latour/Dawkins/idea-realism reading provenance recorded in cluster 3 closure. |
 | `роза-мира-андреева-69f58504-37.md` | Andreev's Rose of the World | `03_CULTURE_AS_INSTRUCTIONS/` + `07_SOTERIOLOGICAL_RITUAL_ACCUMULATION/` | `source_recorded` | SRA/Russian religious-literary provenance recorded; preserve existing representation-risk guardrails. |
@@ -144,14 +144,14 @@ closure.
 | `структурирование-памяти-ии-6939385d-95.md` | Structuring AI memory | `02_SYNTAX/` | `source_recorded` | Existing AI memory structure source note covers main route; check residue later. |
 | `теория-без-воды-69e13654-f3.md` | Theory without fluff | `02_SYNTAX/` + output/interface residue | `partially_recorded` | Cluster 2 closure records it as format/output-constraint residue, not R-core; avoid canon overwrite. |
 | `теория-рекурсивного-выбора-и-символического-разрыва-69233882-c0.md` | Recursive Choice and Symbolic Rupture Theory | `01_R_THEORY/` | `source_recorded` | Existing source note covers main route; cluster 2 closure preserves decoherence as analogy/provenance, not physics evidence. |
-| `тест-новой-модели-69a9d35b-2c.md` | New model test | `02_SYNTAX/` / model testing | `needs_triage` | Review for operator/test result; otherwise source-only. |
-| `удиви-меня-6962b2f5-5e.md` | Surprise me | unknown | `needs_triage` | Review for durable theory delta; otherwise skipped. |
+| `тест-новой-модели-69a9d35b-2c.md` | New model test | model testing / agent-ops | `source_only` | Model test prompt; no theory artifact. |
+| `удиви-меня-6962b2f5-5e.md` | Surprise me | `01_R_THEORY/` + `02_SYNTAX/` | `partially_recorded` | Weak source lead around play as safe learning and boredom/friction; no import. |
 | `цели-в-архитектуре-диалогов-69ac79a9-bf.md` | Goals in dialogue architecture | `02_SYNTAX/` + `03_CULTURE_AS_INSTRUCTIONS/` | `partially_recorded` | Goal Module provenance recorded; ritual/religion residue routed to the culture/religion cluster. |
 | `что-почитать-6936c01c-d0.md` | What to read? | reading/source | `source_only` | Reading/profile route only; no current theory artifact. |
 | `что-такое-openclaw-69fc16c7-8f.md` | What is OpenClaw | agent/product route | `routed_elsewhere` | Route outside Theory Archive unless it became SynTax operator evidence. |
 | `что-такое-кяриз-693bc422-9a.md` | What is kyariz | factual/reference | `source_only` | No theory import by default. |
 | `что-такое-стресс-69446ec8-4f.md` | What is stress | `01_R_THEORY/` + `05_PNA/` | `source_recorded` | Covered by `01_R_THEORY/EVIDENCE/stress_metabolic_mismatch.md` and cluster 2 closure; future work is evidence/source verification, not chat import. |
-| `что-я-умею-67dbe92c-63.md` | What I can do | personal/profile | `needs_triage` | Use only if it changes active identity/continuity operators; otherwise skipped. |
+| `что-я-умею-67dbe92c-63.md` | What I can do | reading/philosophy | `source_only` | Plato/philosophy reading lead; no current artifact. |
 
 ## Cluster Queue
 
@@ -185,8 +185,13 @@ Cluster 3 now has a digest-level closure note:
 
 - `03_CULTURE_AS_INSTRUCTIONS/SOURCES/2026-05-31_culture_religion_source_cases_closure.md`
 
-Continue with cluster 4 (`MEAT / PNA / reproductive strategy`) unless a fresh
-Drive inventory becomes available first.
+Tail cleanup for cluster 4/5 and remaining OpenAI rows is recorded in:
+
+- `00_META/SOURCE_CLOSURE_TAIL_CLEANUP_2026-05-31.md`
+
+The OpenAI export digest ledger is now closed at tracker level. Continue with
+Theory Drive inventory/source-family closure when a fresh inventory or
+repeatable connector pass is available.
 
 Before changing canon or module pages, check each row against:
 
