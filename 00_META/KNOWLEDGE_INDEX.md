@@ -19,6 +19,7 @@ Layer without promoting drafts into canon.
 - `00_META/MAP_OF_THEORIES.md` - module map.
 - `00_META/SOURCE_REGISTRY.md` - source classes and source IDs.
 - `00_META/INGEST_LOG.md` - append-friendly ingest/update log.
+- `00_META/SOURCE_CLOSURE_TRACKER.md` - closure ledger for OpenAI export notes, Drive/source families, and route-out decisions.
 
 ## Module Routes
 
@@ -43,6 +44,9 @@ For any durable theory import or wiki update:
 ```text
 source -> source record -> theory draft/evidence/idea card -> this index if needed -> INGEST_LOG -> CSP event
 ```
+
+For source-closure work, use `SOURCE_CLOSURE_TRACKER.md` before processing
+individual old chats or Drive/source families.
 
 Theory drafts, analogies, speculative models, cases, and evidence are not canon
 unless the target module explicitly marks them as canon or canon candidates and
