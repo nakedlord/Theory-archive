@@ -221,6 +221,14 @@ Ariadne residual scan added:
 - `00_META/OPENAI_EXPORT_ARIADNE_RESIDUAL_THEORY_SCAN_2026-05-31.md`
 - `02_SYNTAX/SOURCES/2026-05-31_language_evaluation_layer_chat_export_source_note.md`
 - `03_CULTURE_AS_INSTRUCTIONS/SOURCES/2026-05-31_immortality_skill_drift_chat_export_source_note.md`
+- `00_META/OPENAI_EXPORT_ARIADNE_SOURCE_ONLY_LEADS_2026-05-31.md`
+
+The source-only Ariadne ledger captures the remaining interesting residual
+leads and route-outs as `source_only` / `routed_elsewhere` rows, including
+Latour/source-theory, information structural realism, physics/operator pressure,
+reading navigation, xianxia/cultivation taxonomy, Ariadne naming motif,
+persistent-memory route-out to `agent-playbook`, and GYMKiDs/product/health
+false positives. It is not a canon or evidence import.
 
 Continue with Theory Drive inventory/source-family closure when a fresh
 inventory or repeatable connector pass is available.

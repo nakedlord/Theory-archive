@@ -56,6 +56,12 @@ accepted as evidence.
 These rows looked interesting during the scan but did not justify new Theory
 Archive artifacts in this pass.
 
+Follow-up capture: all rows in this section and the route-outs below are now
+preserved as a source-only route ledger in
+`00_META/OPENAI_EXPORT_ARIADNE_SOURCE_ONLY_LEADS_2026-05-31.md`. That ledger
+does not promote any row into canon or evidence; it only prevents loss and
+duplicate rediscovery.
+
 | Conversation ID | Title | Verdict |
 |---|---|---|
 | `69f39478-3fdc-832f-981b-9b6bb5a930af` | `Persistent Memory for AI` | Operationally useful for agent memory / task graph evaluation, but it routes to `agent-playbook` or CSP/codex-ops method work rather than Theory Archive. It may inform Ariadne/CSP later, but is not a theory import here. |
