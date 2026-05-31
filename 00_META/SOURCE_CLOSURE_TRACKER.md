@@ -58,6 +58,7 @@ For closure, there should be no `needs_triage` rows left.
 |---|---|---:|---|---|
 | OpenAI export notes 2026-05-11 | `imports/openai-export/2026-05-11/notes/` | 68 note files | digest-level closure complete / no `needs_triage` rows / superseded by raw second-pass audit for theory residue | Use raw transcripts only for explicit source verification or targeted artifact work; start from `00_META/OPENAI_EXPORT_SECOND_PASS_THEORY_AUDIT_2026-05-31.md`. |
 | OpenAI export raw corpus second-pass audit | `C:/Users/imnak/Downloads/OpenAI-export.zip` + 260-conversation manifest | 260 conversations | raw second-pass theory audit complete / 3 durable artifacts added / not canon | Future passes should be targeted: source verification, Drive inventory, or module-specific residue checks. |
+| OpenAI export Ariadne residual scan | `C:/Users/imnak/Downloads/OpenAI-export.zip` + 260-conversation manifest | targeted residual pass | complete / 2 source notes added / not canon | Use `00_META/OPENAI_EXPORT_ARIADNE_RESIDUAL_THEORY_SCAN_2026-05-31.md` as an addendum, not a replacement for the second-pass baseline. |
 | Existing source registry | `00_META/SOURCE_REGISTRY.md` | active registry | active | Reconcile rows below against registry before new imports. |
 | Existing ingest log | `00_META/INGEST_LOG.md` | active log | active | Append only when source closure creates or changes durable artifacts. |
 | Theory Drive / source audit | `00_META/COVERAGE_AUDIT_2026-04-25.md` and Drive references | partial, old audit | blocked / inventory missing | Create a Drive source ledger when a fresh inventory or connector pass is available. |
@@ -163,6 +164,8 @@ digest ledger.
 | Conversation ID | Title | Manifest Route | Status | Next Action |
 |---|---|---|---|---|
 | `693a9f27-9810-8333-9791-4fe0863cd1dc` | `История культуры. Теория культурного дрейфа` | `artifact` | `source_recorded` | Major missed Culture source imported as `03_CULTURE_AS_INSTRUCTIONS/SOURCES/2026-05-31_cultural_drift_chat_export_source_note.md` and `03_CULTURE_AS_INSTRUCTIONS/HYPOTHESES/2026-05-31_cultural_drift_distributed_network.md`; needs external source verification. |
+| `69328718-7ecc-832e-b310-016095f93ddd` | `Болтать по пути` | `unclassified` | `source_recorded` | Ariadne residual scan preserved language as evaluation/framing layer in `02_SYNTAX/SOURCES/2026-05-31_language_evaluation_layer_chat_export_source_note.md`; needs source-backed linguistics/translation tests before any stronger use. |
+| `67a79da2-eb9c-8013-b966-6abb8d975a07` | `Легенда о бессмертии` | `unclassified` | `source_recorded` | Ariadne residual scan preserved immortality/no-reproduction as a speculative skill-drift and role-turnover stress case in `03_CULTURE_AS_INSTRUCTIONS/SOURCES/2026-05-31_immortality_skill_drift_chat_export_source_note.md`; not evidence about real immortality. |
 
 ## Cluster Queue
 
@@ -212,6 +215,12 @@ OpenAI export raw second pass added:
 - `03_CULTURE_AS_INSTRUCTIONS/SOURCES/2026-05-31_idea_half_life_chat_export_source_note.md`
 - `01_R_THEORY/SOURCES/2026-05-31_r2_future_choice_r3_irreversibility_source_note.md`
 - `90_CROSS_LINKS/2026-05-31_openai_second_pass_theory_cross_links.md`
+
+Ariadne residual scan added:
+
+- `00_META/OPENAI_EXPORT_ARIADNE_RESIDUAL_THEORY_SCAN_2026-05-31.md`
+- `02_SYNTAX/SOURCES/2026-05-31_language_evaluation_layer_chat_export_source_note.md`
+- `03_CULTURE_AS_INSTRUCTIONS/SOURCES/2026-05-31_immortality_skill_drift_chat_export_source_note.md`
 
 Continue with Theory Drive inventory/source-family closure when a fresh
 inventory or repeatable connector pass is available.

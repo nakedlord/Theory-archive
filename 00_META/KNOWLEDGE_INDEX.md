@@ -21,6 +21,7 @@ Layer without promoting drafts into canon.
 - `00_META/INGEST_LOG.md` - append-friendly ingest/update log.
 - `00_META/SOURCE_CLOSURE_TRACKER.md` - closure ledger for OpenAI export notes, Drive/source families, and route-out decisions.
 - `00_META/OPENAI_EXPORT_SECOND_PASS_THEORY_AUDIT_2026-05-31.md` - raw second-pass audit over the local OpenAI export; records recovered theory residue and non-import decisions without committing raw transcript text.
+- `00_META/OPENAI_EXPORT_ARIADNE_RESIDUAL_THEORY_SCAN_2026-05-31.md` - Ariadne residual addendum over the local OpenAI export; records two smaller source notes plus interesting non-imports and false positives.
 
 ## Module Routes
 
