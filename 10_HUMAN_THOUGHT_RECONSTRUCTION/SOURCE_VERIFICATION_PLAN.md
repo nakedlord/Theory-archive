@@ -5,7 +5,7 @@ module: 10_HUMAN_THOUGHT_RECONSTRUCTION
 status: active_source_verification_plan
 created: 2026-06-01
 updated: 2026-06-01
-csp_event: projects/syntax/events/2026-06-01-codex-human-thought-reconstruction-module.md
+csp_event: projects/syntax/events/2026-06-01-codex-human-thought-reconstruction-artifact-ladder-case.md
 ```
 
 ## Purpose
@@ -118,9 +118,25 @@ individual mind?
 
 ## First Verification Priorities
 
-1. Source-check the action-first abstraction chain.
+1. Source-check the action-first abstraction chain. Partial first-pass anchor:
+   `SOURCES/2026-06-01_artifact_ladder_external_sources.md`.
 2. Source-check cultural drift against cultural evolution and material culture.
 3. Build one table that separates artifact class, operation, carrier, inferred
    distinction, transmission setting, and confidence.
+   First pass completed in:
+   `CASES/2026-06-01_artifact_trace_ladder_case.md`.
 4. Test the method on one early artifact class and one late symbolic/formal
-   artifact class.
+   artifact class. First pass completed, but deeper source cards are still
+   needed for each lane.
+
+## First Verification Result
+
+The first source-anchored case supports a weaker and safer formulation:
+
+```text
+The total artifact record is not a complete history of human thought.
+It is a biased record of operations and distinctions that humans externalized,
+stabilized, transmitted, and recombined.
+```
+
+Next verification should deepen one lane rather than widening the claim.

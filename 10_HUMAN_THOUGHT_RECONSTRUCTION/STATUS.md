@@ -34,6 +34,11 @@ Those theories become lenses inside this research program.
 
 - `HYPOTHESES/2026-06-01_total_artifact_record_research_program.md`
 
+## Current Case Tests
+
+- `CASES/2026-06-01_artifact_trace_ladder_case.md` - first source-anchored
+  comparison across stone tools, writing/notation, and software/interface.
+
 ## Module Files
 
 - `CANON.md` - canon boundary; no canon accepted yet.
@@ -41,8 +46,12 @@ Those theories become lenses inside this research program.
 - `SOURCE_VERIFICATION_PLAN.md` - external source verification plan.
 - `WORKSPACE.md` - working names, formula, and immediate workbench.
 - `SOURCES/2026-06-01_user_clarification_source_note.md` - user clarification source note.
+- `SOURCES/2026-06-01_artifact_ladder_external_sources.md` - first external
+  anchors for the artifact-ladder comparison.
 - `HYPOTHESES/2026-06-01_total_artifact_record_research_program.md` - main active research program.
 - `CASES/CASE_INDEX.md` - seed case ladder.
+- `CASES/2026-06-01_artifact_trace_ladder_case.md` - first comparative case
+  test.
 - `../90_CROSS_LINKS/2026-06-01_human_thought_reconstruction_cross_links.md` - cross-theory route map.
 
 ## Core Distinction
