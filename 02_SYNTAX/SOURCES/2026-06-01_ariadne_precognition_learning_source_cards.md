@@ -49,6 +49,13 @@ Supports:
 source is first probed for what it can do for the user's system
 ```
 
+Pilot result:
+
+```text
+learning packet should include value map, attention-depth decision, ignored
+material, and verification needs before proposing behavior change
+```
+
 Does not support:
 
 - treating AI output as verified source truth;
@@ -108,6 +115,13 @@ Boundary for Ariadne:
 
 ```text
 reflection becomes a reviewed learning packet, not hidden memory authority
+```
+
+Pilot result:
+
+```text
+learning packet should include bounded reflection memory with replay and
+expiry/revision gates
 ```
 
 ## Source Card 4: Self-Refine

@@ -101,6 +101,17 @@ learning_packet:
     name:
     formula:
     why_it_matters:
+  precognitive_attention:
+    value_map:
+    attention_depth:
+    what_to_ignore:
+    verification_needed:
+  reflection_memory:
+    feedback_signal:
+    reflection:
+    replay_condition:
+    expiry_or_revision_gate:
+    anti_overfit_check:
   self_application:
     target_surface:
     proposed_behavior_delta:
@@ -367,3 +378,94 @@ For each, record:
 - proposed behavior delta;
 - safe trial;
 - evaluation verdict.
+
+## Pilot Results 2026-06-01
+
+Three source classes have now been tested in bounded form. This keeps the
+operator as a candidate/pilot; it does not promote it to canon or approve
+autonomous mutation.
+
+### Recent Agent Failure / CSP Event
+
+Source:
+
+- CSP event `2026-06-01-codex-ariadne-learning-pilot-intent-routing`.
+
+Extracted operator:
+
+```text
+self-referential operator-learning request
+-> couple intent detection to scope and mode
+-> csp-system build route
+-> regression check against unrelated project intents
+```
+
+Result:
+
+- `csp_status.py --operator-entry` now routes Ariadne/precognition/self-learning
+  intents to `csp-system` build mode.
+- GYMKIDS and explicit consolidation regressions remained stable.
+- Verdict: pass.
+
+### External AI-Agent Research: Reflexion
+
+Source:
+
+- Noah Shinn et al., "Reflexion: Language Agents with Verbal Reinforcement
+  Learning", arXiv:2303.11366.
+
+Extracted operator:
+
+```text
+task attempt / outcome
+-> feedback signal
+-> verbal reflection
+-> bounded episodic memory
+-> future attempt gets a behavior-shaping hint
+```
+
+Self-application:
+
+- Add `reflection_memory` to learning packets.
+- A reflection must include replay and expiry/revision conditions so it remains
+  a bounded hint, not hidden global prompt mutation.
+
+Result:
+
+- Agent Playbook workflow and CSP learning-packet scaffold now include
+  `reflection_memory`.
+- Verdict: pass.
+
+### User Theory: AI-Assisted Precognition
+
+Source:
+
+- `02_SYNTAX/HYPOTHESES/2026-05-23_ai_assisted_precognition.md`.
+
+Extracted operator:
+
+```text
+source signal
+-> AI probe
+-> value map
+-> attention-depth decision
+-> selective transfer/application
+```
+
+Self-application:
+
+- Add `precognitive_attention` to learning packets.
+- Each packet should state value map, attention depth, ignored material, and
+  verification needs before proposing behavior change.
+
+Result:
+
+- Agent Playbook workflow and CSP learning-packet scaffold now include
+  `precognitive_attention`.
+- Verdict: pass.
+
+## Next Gate
+
+Run one or two more ordinary uses. If the new fields reduce summary trap,
+restart cost, or unsafe overgeneralization without too much ceremony, promote
+the workflow to active trial. If the fields become noise, revise or split them.
