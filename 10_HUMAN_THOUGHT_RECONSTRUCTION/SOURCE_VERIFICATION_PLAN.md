@@ -5,7 +5,7 @@ module: 10_HUMAN_THOUGHT_RECONSTRUCTION
 status: active_source_verification_plan
 created: 2026-06-01
 updated: 2026-06-01
-csp_event: projects/syntax/events/2026-06-01-codex-htr-stone-tool-action-ladder.md
+csp_event: projects/syntax/events/2026-06-01-codex-htr-writing-notation-lane.md
 ```
 
 ## Purpose
@@ -98,6 +98,11 @@ When does a human-created mark become not only a record, but a new thinking
 surface that changes possible thought?
 ```
 
+First writing/notation lane:
+
+- `SOURCES/2026-06-01_writing_notation_lane_source_cards.md`
+- `CASES/2026-06-01_writing_notation_lane_case.md`
+
 ### 5. Institutions as thought stabilizers
 
 Source groups:
@@ -142,8 +147,8 @@ It is a biased record of operations and distinctions that humans externalized,
 stabilized, transmitted, and recombined.
 ```
 
-Next verification should deepen the writing/notation lane rather than widening
-the claim.
+Writing/notation lane has now been added. Next verification should deepen the
+software/interface lane rather than widening the claim.
 
 ## Stone-Tool Lane Result
 
@@ -165,3 +170,24 @@ current material state
 This is source-anchored but non-canon. It is strongest for platform preparation
 inside the Stout et al. action-grammar method, and weaker when generalized
 across archaeological traces.
+
+## Writing / Notation Lane Result
+
+The writing/notation lane extracted a bounded operator:
+
+```text
+deferred-operation surface
+```
+
+Definition:
+
+```text
+current quantity/event/obligation
+-> external proxy arrangement
+-> durable visible state
+-> future recall / audit / calculation / authorization
+```
+
+This is source-anchored but contested/non-canon because the token-to-writing
+origin path is debated. It is strongest for administrative/numerical record
+keeping and weaker for broad claims about language, cognition, or all writing.

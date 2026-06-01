@@ -40,6 +40,8 @@ Those theories become lenses inside this research program.
   comparison across stone tools, writing/notation, and software/interface.
 - `CASES/2026-06-01_stone_tool_action_ladder_case.md` - deeper source-anchored
   stone-tool lane from Oldowan to Acheulean/platform preparation/action grammar.
+- `CASES/2026-06-01_writing_notation_lane_case.md` - source-anchored
+  writing/notation lane from token to envelope/impression/tablet/numeral/sign.
 
 ## Module Files
 
@@ -52,11 +54,15 @@ Those theories become lenses inside this research program.
   anchors for the artifact-ladder comparison.
 - `SOURCES/2026-06-01_stone_tool_action_ladder_source_cards.md` - source cards
   for Oldowan, Acheulean, prepared core, and action-grammar anchors.
+- `SOURCES/2026-06-01_writing_notation_lane_source_cards.md` - source cards
+  for token/writing models, archaic bookkeeping, historical epistemology, and
+  token-origin criticism.
 - `HYPOTHESES/2026-06-01_total_artifact_record_research_program.md` - main active research program.
 - `CASES/CASE_INDEX.md` - seed case ladder.
 - `CASES/2026-06-01_artifact_trace_ladder_case.md` - first comparative case
   test.
 - `CASES/2026-06-01_stone_tool_action_ladder_case.md` - first deep lane test.
+- `CASES/2026-06-01_writing_notation_lane_case.md` - second deep lane test.
 - `../90_CROSS_LINKS/2026-06-01_human_thought_reconstruction_cross_links.md` - cross-theory route map.
 
 ## Core Distinction
