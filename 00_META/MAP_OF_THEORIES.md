@@ -1,8 +1,20 @@
 # Карта теорий
 
+CSP event: `projects/syntax/events/2026-06-01-codex-human-thought-reconstruction-module.md`
+
 Этот файл описывает не отдельные темы, а систему связей между теориями.
 
 ## Центральный узел
+
+### Human Thought Reconstruction
+
+Human Thought Reconstruction описывает верхнюю исследовательскую программу:
+восстановление развития человеческой мысли по совокупности того, что люди
+когда-либо создали, стабилизировали, передали и оставили как след. Она
+использует R-теорию, Culture as Instructions, MEAT, CID, PNA и археологию как
+линзы, но не сводится к одной из них.
+
+Статус: active_research_program / non-canon.
 
 ### R-теория
 

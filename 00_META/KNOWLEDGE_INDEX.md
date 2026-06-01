@@ -37,6 +37,7 @@ Layer without promoting drafts into canon.
 | `07_SOTERIOLOGICAL_RITUAL_ACCUMULATION/` | Soteriological Ritual Accumulation, salvation-oriented ritual accumulation under opaque causality. |
 | `08_KANT_NVC_PREDICATION_HYGIENE/` | Kant / NVC predication hygiene: separation of object/event properties from subjective relation, interpretation, feeling, need, and request. |
 | `09_REPRODUCTIVE_STRATEGY/` | Reproductive Strategy: mate scanning, offspring bet-hedging, mate switching, paternity uncertainty, resource/protection evaluation, and reproductive risk diversification. |
+| `10_HUMAN_THOUGHT_RECONSTRUCTION/` | Human Thought Reconstruction: research program for reconstructing the development of human thought from the total record of human-created artifacts, traces, media, institutions, and formal systems. |
 | `90_CROSS_LINKS/` | Cross-theory links. |
 | `99_ARCHIVE/` | Archived or inactive material. |
 
