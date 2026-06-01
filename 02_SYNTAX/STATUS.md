@@ -50,3 +50,24 @@ New non-canon operator candidate:
 This artifact receives Q-R3 tension preservation, question generation, and
 answer suppression material from the R Theory export split. It does not promote
 Q-R3 into SynTax canon or the operator registry.
+
+## Route update 2026-06-01
+
+CSP event:
+`projects/csp-system/events/2026-06-01-codex-ariadne-precognition-learning-loop.md`
+
+New non-canon operator candidate:
+
+- `OPERATORS/ariadne_precognition_learning_loop.md`
+- `SOURCES/2026-06-01_ariadne_precognition_learning_source_cards.md`
+
+This artifact defines a bounded Ariadne self-learning loop:
+
+```text
+source/theory signal -> precognitive probe -> operator extraction
+-> self-application hypothesis -> bounded trial -> outcome evaluation
+-> reviewed promotion/demotion
+```
+
+It does not approve hidden self-modification, autonomous mutation, or direct
+shared CSP projection edits.
