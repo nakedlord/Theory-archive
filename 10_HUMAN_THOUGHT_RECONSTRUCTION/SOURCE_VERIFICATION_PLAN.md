@@ -5,7 +5,7 @@ module: 10_HUMAN_THOUGHT_RECONSTRUCTION
 status: active_source_verification_plan
 created: 2026-06-01
 updated: 2026-06-01
-csp_event: projects/syntax/events/2026-06-01-codex-human-thought-reconstruction-artifact-ladder-case.md
+csp_event: projects/syntax/events/2026-06-01-codex-htr-stone-tool-action-ladder.md
 ```
 
 ## Purpose
@@ -119,7 +119,10 @@ individual mind?
 ## First Verification Priorities
 
 1. Source-check the action-first abstraction chain. Partial first-pass anchor:
-   `SOURCES/2026-06-01_artifact_ladder_external_sources.md`.
+   `SOURCES/2026-06-01_artifact_ladder_external_sources.md`. Deeper stone-tool
+   lane completed in:
+   `SOURCES/2026-06-01_stone_tool_action_ladder_source_cards.md` and
+   `CASES/2026-06-01_stone_tool_action_ladder_case.md`.
 2. Source-check cultural drift against cultural evolution and material culture.
 3. Build one table that separates artifact class, operation, carrier, inferred
    distinction, transmission setting, and confidence.
@@ -139,4 +142,26 @@ It is a biased record of operations and distinctions that humans externalized,
 stabilized, transmitted, and recombined.
 ```
 
-Next verification should deepen one lane rather than widening the claim.
+Next verification should deepen the writing/notation lane rather than widening
+the claim.
+
+## Stone-Tool Lane Result
+
+The stone-tool lane extracted a bounded operator:
+
+```text
+future-operation preparation
+```
+
+Definition:
+
+```text
+current material state
+-> local modification
+-> changed probability/quality of later action
+-> more constrained future output
+```
+
+This is source-anchored but non-canon. It is strongest for platform preparation
+inside the Stout et al. action-grammar method, and weaker when generalized
+across archaeological traces.

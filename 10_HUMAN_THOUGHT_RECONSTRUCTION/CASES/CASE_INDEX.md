@@ -5,7 +5,7 @@ module: 10_HUMAN_THOUGHT_RECONSTRUCTION
 status: case_index / seed
 created: 2026-06-01
 updated: 2026-06-01
-csp_event: projects/syntax/events/2026-06-01-codex-human-thought-reconstruction-artifact-ladder-case.md
+csp_event: projects/syntax/events/2026-06-01-codex-htr-stone-tool-action-ladder.md
 ```
 
 ## Purpose
@@ -19,6 +19,7 @@ can reconstruct changes in human thought.
 |---|---|---|
 | Early stone tools as stabilized operations | `01_R_THEORY/CASES/2026-05-26_action_symbol_archaeology_check.md` | existing non-canon case anchor |
 | Action-first abstraction comparison table | `01_R_THEORY/CASES/2026-05-27_action_symbol_archaeology_comparison_table.md` | existing candidate support |
+| Oldowan -> Acheulean -> platform preparation/action grammar | `10_HUMAN_THOUGHT_RECONSTRUCTION/CASES/2026-06-01_stone_tool_action_ladder_case.md` | first deep HTR lane |
 | Child motor learning as non-archaeological analogue | `01_R_THEORY/CASES/2026-05-27_child_motor_learning_action_abstraction_case.md` | existing candidate support |
 | Cultural drift across artifact networks | `03_CULTURE_AS_INSTRUCTIONS/HYPOTHESES/2026-05-31_cultural_drift_distributed_network.md` | hypothesis, needs cases |
 | Stone tools vs writing/notation vs software/interface | `10_HUMAN_THOUGHT_RECONSTRUCTION/CASES/2026-06-01_artifact_trace_ladder_case.md` | first comparative case test |
@@ -46,14 +47,12 @@ treated as a linear progress ladder.
 
 ## Next Case Needed
 
-Deepen one lane with full source cards:
-
-```text
-Oldowan -> Acheulean -> platform preparation -> action grammar
-```
-
-or:
+Build the writing/notation lane:
 
 ```text
 token -> envelope/impression -> tablet -> abstract numeral / phonetic sign
 ```
+
+Then compare whether the operator extracted from the stone-tool lane,
+`future-operation preparation`, has a bounded analogue in notation and
+software/interface.
