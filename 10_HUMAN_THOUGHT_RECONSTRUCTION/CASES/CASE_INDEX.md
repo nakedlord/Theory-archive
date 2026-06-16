@@ -4,8 +4,8 @@
 module: 10_HUMAN_THOUGHT_RECONSTRUCTION
 status: case_index / seed
 created: 2026-06-01
-updated: 2026-06-01
-csp_event: projects/syntax/events/2026-06-01-codex-htr-writing-notation-lane.md
+updated: 2026-06-16
+csp_event: projects/syntax/events/2026-06-16-codex-software-interface-case-drafted.md
 ```
 
 ## Purpose
@@ -24,8 +24,8 @@ can reconstruct changes in human thought.
 | Cultural drift across artifact networks | `03_CULTURE_AS_INSTRUCTIONS/HYPOTHESES/2026-05-31_cultural_drift_distributed_network.md` | hypothesis, needs cases |
 | Stone tools vs writing/notation vs software/interface | `10_HUMAN_THOUGHT_RECONSTRUCTION/CASES/2026-06-01_artifact_trace_ladder_case.md` | first comparative case test |
 | Writing/notation as thinking surface | `10_HUMAN_THOUGHT_RECONSTRUCTION/CASES/2026-06-01_writing_notation_lane_case.md` | second deep HTR lane |
+| Software/interface as executable thought scaffold | `10_HUMAN_THOUGHT_RECONSTRUCTION/CASES/2026-06-16_software_interface_lane_case.md` | third deep HTR lane |
 | Mathematics/formal systems as operation externalization | none yet | missing |
-| Software/interface as executable thought scaffold | `10_HUMAN_THOUGHT_RECONSTRUCTION/CASES/2026-06-01_artifact_trace_ladder_case.md` | partial in comparative case; deeper subcase needed |
 
 ## First New Case Completed
 
@@ -62,16 +62,41 @@ case extracts `deferred-operation surface` as a non-canon operator candidate.
 
 ## Next Case Needed
 
-Build the software/interface lane:
+Build the cross-lane operator comparison:
 
 ```text
-Engelbart/NLS -> hypertext/editable symbol structures -> modern AI chat workspace
+future-operation preparation
+deferred-operation surface
+executable action menu / live operation grammar
 ```
 
-Then compare:
+## Third New Case Completed
+
+Software/interface lane:
+
+- `2026-06-16_software_interface_lane_case.md`
+
+It compares:
 
 ```text
-stone tool: future-operation preparation
-notation: deferred-operation surface
-interface: executable action menu / live operation surface
+Engelbart NLS
+-> Nelson/Xanadu and HyperCard-style editable symbol structures
+-> World Wide Web page
+-> modern AI chat workspace
+```
+
+The result is source-bounded and non-canon. The case extracts
+`executable action menu / live operation grammar` as a provisional operator
+candidate and compares it against the previous stone-tool and notation
+operators.
+
+## Next Comparison Needed
+
+Decide whether HTR needs an operator index:
+
+```text
+artifact-derived operators:
+- future-operation preparation
+- deferred-operation surface
+- executable action menu / live operation grammar
 ```

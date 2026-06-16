@@ -4,8 +4,8 @@
 module: 10_HUMAN_THOUGHT_RECONSTRUCTION
 status: active_source_verification_plan
 created: 2026-06-01
-updated: 2026-06-01
-csp_event: projects/syntax/events/2026-06-01-codex-htr-writing-notation-lane.md
+updated: 2026-06-16
+csp_event: projects/syntax/events/2026-06-16-codex-software-interface-case-drafted.md
 ```
 
 ## Purpose
@@ -147,8 +147,9 @@ It is a biased record of operations and distinctions that humans externalized,
 stabilized, transmitted, and recombined.
 ```
 
-Writing/notation lane has now been added. Next verification should deepen the
-software/interface lane rather than widening the claim.
+Writing/notation and software/interface lanes have now been added. Next
+verification should compare the three extracted operators rather than widening
+the claim.
 
 ## Stone-Tool Lane Result
 
@@ -191,3 +192,43 @@ current quantity/event/obligation
 This is source-anchored but contested/non-canon because the token-to-writing
 origin path is debated. It is strongest for administrative/numerical record
 keeping and weaker for broad claims about language, cognition, or all writing.
+
+## Software / Interface Lane Result
+
+The software/interface lane extracted a bounded operator:
+
+```text
+executable action menu / live operation grammar
+```
+
+Definition:
+
+```text
+current symbolic workspace
+-> visible or conversational action options
+-> selected command / link / script / prompt / tool
+-> immediate state change or external action
+-> updated action field
+```
+
+This is source-anchored but non-canon. It is strongest for NLS, HyperCard, Web,
+and AI chat workspace artifacts where commands, links, scripts, prompts, tools,
+or session-state files make the operation grammar visible. It is weaker when
+generalized to all software or treated as proof of a new cognitive stage.
+
+## Next Verification Priority
+
+Compare the three HTR operator candidates:
+
+```text
+future-operation preparation
+deferred-operation surface
+executable action menu / live operation grammar
+```
+
+Decision to defer:
+
+```text
+Do not create a standalone HTR operator index until this cross-lane comparison
+decides whether the three names are stable enough.
+```
