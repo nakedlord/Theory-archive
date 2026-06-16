@@ -34,6 +34,8 @@ The index is not a transcript. It is a re-entry map: it tells future agents whic
 | kant-nvc-predication-hygiene | Kant / NVC Predication Hygiene | active_hypothesis / non-canon | Kant/NVC Predication Hygiene, SynTax, R Theory | `08_KANT_NVC_PREDICATION_HYGIENE/HYPOTHESES/2026-05-28_kant_nvc_predication_hygiene.md` | high | Verify Kant and NVC textual anchors, then test three conflict-language cases against generic politeness. |
 | postpartum-mating-strategy-bet-hedging | Postpartum Mating Strategy / Offspring Bet-Hedging | active_hypothesis / needs_source | Reproductive Strategy | `09_REPRODUCTIVE_STRATEGY/HYPOTHESES/2026-05-28_postpartum_mating_strategy_bet_hedging.md` | medium | Build an evidence map across animal strategy, cross-cultural human evidence, and modern behavioral evidence; distinguish genetic diversification, mate switching, resource acquisition, paternity confusion, postpartum fertility timing, parental-care cue attractiveness, and observer/salience alternatives. |
 
+| genius-axis-disambiguation | Genius Axis Disambiguation (Gᴀ / Gᴛ) | active_patch / non-canon / partial_recovery | SynTax | `02_SYNTAX/PATCHES/v5.2_genius_axis_disambiguation.md` | high | When asked "is this genius?" — answer on both axes separately. Gᴀ = impact/resonance/depth, Gᴛ = truth/rigor/falsifiability. They are orthogonal. Source chat 691ff022 unprocessed. |
+
 ## Use Rule
 
 Before working on a new theory idea, a future agent should:

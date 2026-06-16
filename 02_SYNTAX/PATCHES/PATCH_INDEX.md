@@ -271,6 +271,32 @@ Operator explosion и неявное дублирование операторо
 
 ---
 
+## 12. v5.2 — Genius Axis Disambiguation (Gᴀ / Gᴛ)
+
+### Файл
+
+- `v5.2_genius_axis_disambiguation.md`
+
+### Статус
+
+```text
+active evaluation patch / source: chat recovery 2025-11-21 / non-canon
+```
+
+### Суть
+
+Вводит две независимые оси оценки идеи:
+- **Gᴀ** — genius-impact: резонанс, удар, красота, продуктивность как толчок
+- **Gᴛ** — genius-truth: строгость, фальсифицируемость, объяснительная сила
+
+Оси ортогональны. Ответ на «это гениально?» обязан разворачиваться по обеим.
+
+### Что закрывает
+
+Потерю измерения при одноосевой оценке идеи.
+
+---
+
 ## 12. Patch-line summary
 
 | Patch | Status | Function |
@@ -286,6 +312,7 @@ Operator explosion и неявное дублирование операторо
 | v4.3 | active | drift detection |
 | v4.6 | active | complexity governance |
 | v4.9 | active | operator registry |
+| v5.2 | active / non-canon | genius axis disambiguation (Gᴀ / Gᴛ) |
 
 ---
 
