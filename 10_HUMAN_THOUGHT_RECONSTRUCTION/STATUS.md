@@ -5,7 +5,7 @@ module: 10_HUMAN_THOUGHT_RECONSTRUCTION
 status: active_research_program / non-canon
 created: 2026-06-01
 updated: 2026-06-16
-source_status: user_clarification + prior_chat_export_sources
+source_status: user_clarification + prior_chat_export_sources + cross_lane_synthesis
 canon_status: no_canon_yet
 csp_event: projects/syntax/events/2026-06-01-codex-human-thought-reconstruction-module.md
 ```
@@ -45,6 +45,8 @@ Those theories become lenses inside this research program.
 - `CASES/2026-06-16_software_interface_lane_case.md` - source-anchored
   software/interface lane from Engelbart NLS through hypertext/editable symbol
   structures, the Web page, and modern AI chat workspaces.
+- `CASES/2026-06-16_cross_lane_operator_comparison.md` - cross-lane synthesis
+  reading the three operators as one non-canon schema separated by four axes.
 
 ## Module Files
 
@@ -69,6 +71,7 @@ Those theories become lenses inside this research program.
 - `CASES/2026-06-01_stone_tool_action_ladder_case.md` - first deep lane test.
 - `CASES/2026-06-01_writing_notation_lane_case.md` - second deep lane test.
 - `CASES/2026-06-16_software_interface_lane_case.md` - third deep lane test.
+- `CASES/2026-06-16_cross_lane_operator_comparison.md` - cross-lane synthesis and operator-registry recommendation.
 - `../90_CROSS_LINKS/2026-06-01_human_thought_reconstruction_cross_links.md` - cross-theory route map.
 
 ## Core Distinction

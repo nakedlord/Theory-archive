@@ -5,7 +5,7 @@ module: 10_HUMAN_THOUGHT_RECONSTRUCTION
 status: case_index / seed
 created: 2026-06-01
 updated: 2026-06-16
-csp_event: projects/syntax/events/2026-06-16-codex-software-interface-case-drafted.md
+csp_event: projects/syntax/events/2026-06-16-claude-cross-lane-operator-comparison.md
 ```
 
 ## Purpose
@@ -25,7 +25,8 @@ can reconstruct changes in human thought.
 | Stone tools vs writing/notation vs software/interface | `10_HUMAN_THOUGHT_RECONSTRUCTION/CASES/2026-06-01_artifact_trace_ladder_case.md` | first comparative case test |
 | Writing/notation as thinking surface | `10_HUMAN_THOUGHT_RECONSTRUCTION/CASES/2026-06-01_writing_notation_lane_case.md` | second deep HTR lane |
 | Software/interface as executable thought scaffold | `10_HUMAN_THOUGHT_RECONSTRUCTION/CASES/2026-06-16_software_interface_lane_case.md` | third deep HTR lane |
-| Mathematics/formal systems as operation externalization | none yet | missing |
+| Cross-lane operator comparison (schema + four axes) | `10_HUMAN_THOUGHT_RECONSTRUCTION/CASES/2026-06-16_cross_lane_operator_comparison.md` | cross-lane synthesis |
+| Mathematics/formal systems as operation externalization | none yet | missing (queued as first instrument-independent fourth lane) |
 
 ## First New Case Completed
 
@@ -90,12 +91,29 @@ The result is source-bounded and non-canon. The case extracts
 candidate and compares it against the previous stone-tool and notation
 operators.
 
+## Cross-Lane Comparison Completed
+
+Cross-lane operator comparison:
+
+- `2026-06-16_cross_lane_operator_comparison.md`
+
+Result (non-canon): the three operators are read as three settings of one schema
+(`carrier-conditioned operation shaping`) separated by four axes - temporal gap,
+agentive locus, externalized layer, and executability. Two candidate findings:
+the temporal gap is non-monotonic (stone short -> notation long -> interface
+near-zero), and carrier self-execution is first-in-kind at the interface lane.
+Both findings currently depend on a self-referential lane and an unrun collapse
+test, so the schema stays non-canon.
+
 ## Next Comparison Needed
 
-Decide whether HTR needs an operator index:
+Recommendation accepted in the comparison case but not yet built: create a
+non-canon operator registry, then gate any canon promotion behind a fourth
+instrument-independent lane (mathematics/diagrammatic) and a collapse test
+against niche construction + affordance theory + the extended mind.
 
 ```text
-artifact-derived operators:
+artifact-derived operators (non-canon, one schema):
 - future-operation preparation
 - deferred-operation surface
 - executable action menu / live operation grammar
