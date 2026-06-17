@@ -54,6 +54,7 @@ Those theories become lenses inside this research program.
 - `OPEN_GAPS.md` - current gaps and method risks.
 - `SOURCE_VERIFICATION_PLAN.md` - external source verification plan.
 - `WORKSPACE.md` - working names, formula, and immediate workbench.
+- `OPERATOR_REGISTRY.md` - non-canon operator registry and axes matrix.
 - `SOURCES/2026-06-01_user_clarification_source_note.md` - user clarification source note.
 - `SOURCES/2026-06-01_artifact_ladder_external_sources.md` - first external
   anchors for the artifact-ladder comparison.
