@@ -1,6 +1,10 @@
 # SynTax Mechanism Error Log
 
 ```text
+layer: runtime  (как думает агент; спека v5.0 — ОТДЕЛЬНАЯ нумерация)
+```
+
+```text
 status: active error log / empirics migrated from v5.0 changelog
 entered: 2026-07-07 by owner instruction
 csp_event: projects/syntax/events/2026-07-07-claude-syntax-mechanism-error-log-candidate.md

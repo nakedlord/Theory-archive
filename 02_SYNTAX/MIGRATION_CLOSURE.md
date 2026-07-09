@@ -1,5 +1,9 @@
 # SynTax Migration Closure
 
+```text
+layer: governance  (как ведётся архив; нумерация v1.9..v5.x)
+```
+
 Статус: migration closure / source verification still required
 Дата: 2026-04-25
 

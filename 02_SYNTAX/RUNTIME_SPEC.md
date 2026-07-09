@@ -17,6 +17,7 @@ proposed path: 02_SYNTAX/RUNTIME_SPEC.md  (NOT VERSIONS/, see rationale)
 supersedes (as active runtime): VERSIONS/runtime_pipeline_full.md — which CANON_REVIEW does not list as active
 layer: runtime (как думает агент), ортогонален governance-линии патчей v1.9..v5.2 (как ведётся архив)
 version: v5.0 (subject/generative architecture)
+next_version: v6.0 — по правилу v5.4 runtime-линия уходит в 6.x, чтобы не пересекаться с governance 5.x
 ```
 
 **Почему отдельный файл, а не `VERSIONS/`.** `VERSIONS/` содержит migration drafts со статусом `needs verification`. v5.0 — не черновик переноса, а **действующий исполняемый протокол**, по которому в реальном времени работают агенты. Положить его в `VERSIONS/` — приравнять к историческим наброскам и оставить модуль без активного runtime-носителя (текущее состояние: `CANON_REVIEW` не числит `runtime_pipeline_full` активным, то есть активного runtime в модуле НЕТ).

@@ -1,5 +1,9 @@
 # SynTax Patch Index
 
+```text
+layer: governance  (как ведётся архив; нумерация v1.9..v5.x)
+```
+
 Статус: active patch index
 Дата: 2026-07-07 (обновлён)
 
@@ -325,7 +329,34 @@ active architecture patch / canon-affecting
 
 ---
 
-## 14. Patch-line summary
+## 14. v5.4 — Version Namespace Rule
+
+### Файл
+
+- `v5.4_version_namespace_rule.md`
+
+### Статус
+
+```text
+active governance patch
+```
+
+### Суть
+
+Разводит нумерацию слоёв: governance остаётся в 5.x, runtime при следующем изменении уходит в 6.x. Каждый файл объявляет `layer:` в шапке. Ссылки называют слой явно.
+
+### Что закрывает
+
+Коллизию номеров: runtime v5.0 и governance v5.2 выглядели как последовательные версии одного объекта и породили ложную гипотезу форка у читателя модуля (2026-07-07).
+
+### Связанные файлы
+
+- `v5.3_reflexive_theory_status.md`
+- `../RUNTIME_SPEC.md`
+
+---
+
+## 15. Patch-line summary
 
 | Patch | Status | Function |
 |---|---|---|
@@ -342,10 +373,11 @@ active architecture patch / canon-affecting
 | v4.9 | active | operator registry |
 | v5.2 | active / non-canon | genius axis disambiguation (Gᴀ / Gᴛ) |
 | v5.3 | active / canon-affecting | reflexive theory status (governance vs runtime layers) |
+| v5.4 | active | version namespace rule (gov 5.x / runtime 6.x, layer: header) |
 
 ---
 
-## 15. What remains open
+## 16. What remains open
 
 - сверить патчи с исходным SynTax-чатом;
 - проверить, не пропущены ранние патчи до v1.9;

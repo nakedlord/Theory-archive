@@ -1,5 +1,9 @@
 # Analogical Operator Protocol
 
+```text
+layer: governance  (как ведётся архив; нумерация v1.9..v5.x)
+```
+
 Status: active working protocol / needs consolidation
 Date: 2026-05-11
 Source: ChatGPT session with user

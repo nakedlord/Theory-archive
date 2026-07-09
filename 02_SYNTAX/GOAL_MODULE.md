@@ -1,5 +1,9 @@
 # Goal Module v0.1 — Migration Draft
 
+```text
+layer: governance  (как ведётся архив; нумерация v1.9..v5.x)
+```
+
 Статус: migrated from memory / active architecture component
 
 ## Назначение

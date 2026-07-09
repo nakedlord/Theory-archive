@@ -1,5 +1,9 @@
 # Sync Log — SynTax
 
+```text
+layer: governance  (как ведётся архив; нумерация v1.9..v5.x)
+```
+
 ## 2026-04-25
 
 Создан проектный модуль SynTax.

@@ -1,5 +1,9 @@
 # SynTax Open Gaps
 
+```text
+layer: governance + runtime (граничный файл)
+```
+
 Статус: active gap list
 Дата: 2026-04-25
 

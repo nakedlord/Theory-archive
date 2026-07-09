@@ -1,5 +1,9 @@
 # Workspace — SynTax
 
+```text
+layer: governance  (как ведётся архив; нумерация v1.9..v5.x)
+```
+
 ## Рабочая структура
 
 ```text

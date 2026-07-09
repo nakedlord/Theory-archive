@@ -1,5 +1,9 @@
 # SynTax Coverage
 
+```text
+layer: governance  (как ведётся архив; нумерация v1.9..v5.x)
+```
+
 Статус: migration coverage map
 Дата: 2026-04-25
 
