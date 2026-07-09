@@ -1,8 +1,10 @@
 # Статус SynTax
 
-Статус: active infrastructure.
+Статус: two-layer — active governance infrastructure + reflexive runtime theory (патч v5.3).
 
-Текущая версия перенесённых патчей: v4.9.
+Governance-патчи: v1.9..v5.3. Runtime-спека: `RUNTIME_SPEC.md` v5.0. Error log: `ERROR_LOG.md`.
+
+Внимание: governance-нумерация (v1.9..v5.3) и runtime-нумерация (v5.0) — **разные слои со случайно похожими номерами**, не последовательные версии одного объекта.
 
 ## Роль в архиве
 

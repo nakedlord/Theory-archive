@@ -1,7 +1,7 @@
 # SynTax Patch Index
 
 Статус: active patch index
-Дата: 2026-04-25
+Дата: 2026-07-07 (обновлён)
 
 ## Назначение
 
@@ -297,7 +297,35 @@ active evaluation patch / source: chat recovery 2025-11-21 / non-canon
 
 ---
 
-## 12. Patch-line summary
+## 13. v5.3 — Reflexive Theory Status
+
+### Файл
+
+- `v5.3_reflexive_theory_status.md`
+
+### Статус
+
+```text
+active architecture patch / canon-affecting
+```
+
+### Суть
+
+Разделяет SynTax на два слоя: governance (инфраструктура) и runtime (рефлексивная теория мышления). Генеративное ядро производит содержание, следовательно runtime не инфраструктурен.
+
+### Что закрывает
+
+Противоречие самоописания: канон утверждал «не содержательная теория», имея генеративное ядро. Иммунитет SynTax от собственных требований (фальсификация, error log).
+
+### Связанные файлы
+
+- `../RUNTIME_SPEC.md`
+- `../ERROR_LOG.md`
+- `v5.2_genius_axis_disambiguation.md`
+
+---
+
+## 14. Patch-line summary
 
 | Patch | Status | Function |
 |---|---|---|
@@ -313,10 +341,11 @@ active evaluation patch / source: chat recovery 2025-11-21 / non-canon
 | v4.6 | active | complexity governance |
 | v4.9 | active | operator registry |
 | v5.2 | active / non-canon | genius axis disambiguation (Gᴀ / Gᴛ) |
+| v5.3 | active / canon-affecting | reflexive theory status (governance vs runtime layers) |
 
 ---
 
-## 13. What remains open
+## 15. What remains open
 
 - сверить патчи с исходным SynTax-чатом;
 - проверить, не пропущены ранние патчи до v1.9;
