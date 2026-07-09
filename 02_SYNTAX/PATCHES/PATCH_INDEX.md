@@ -356,7 +356,36 @@ active governance patch
 
 ---
 
-## 15. Patch-line summary
+## 15. v5.5 — Phase Separation and Differential Evaluation
+
+### Файл
+
+- `v5.5_phase_separation_and_differential_evaluation.md`
+
+### Статус
+
+```text
+active governance patch
+```
+
+### Суть
+
+Правило 1: работа над спекой ведётся под замороженным runtime (`PHASE: design / runtime: frozen`). Правило 2: патч оценивается только по расхождению выходов v_n и v_{n+1} на общей задаче, никогда абсолютно.
+
+### Что закрывает
+
+Циркулярность разработки рефлексивной теории: патч оценивался мышлением, которое сам произвёл.
+
+### Связанные файлы
+
+- `v5.3_reflexive_theory_status.md`
+- `v3.0_progress_delta_check.md`
+- `../ERROR_LOG.md`
+- `../ANCHOR_CASES/`
+
+---
+
+## 16. Patch-line summary
 
 | Patch | Status | Function |
 |---|---|---|
@@ -374,10 +403,11 @@ active governance patch
 | v5.2 | active / non-canon | genius axis disambiguation (Gᴀ / Gᴛ) |
 | v5.3 | active / canon-affecting | reflexive theory status (governance vs runtime layers) |
 | v5.4 | active | version namespace rule (gov 5.x / runtime 6.x, layer: header) |
+| v5.5 | active | phase separation (frozen runtime during design) + differential patch evaluation |
 
 ---
 
-## 16. What remains open
+## 17. What remains open
 
 - сверить патчи с исходным SynTax-чатом;
 - проверить, не пропущены ранние патчи до v1.9;

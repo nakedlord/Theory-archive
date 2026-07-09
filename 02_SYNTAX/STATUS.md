@@ -6,7 +6,7 @@ layer: governance + runtime (граничный файл)
 
 Статус: two-layer — active governance infrastructure + reflexive runtime theory (патч v5.3).
 
-Governance-патчи: v1.9..v5.3. Runtime-спека: `RUNTIME_SPEC.md` v5.0. Error log: `ERROR_LOG.md`.
+Governance-патчи: v1.9..v5.5. Runtime-спека: `RUNTIME_SPEC.md` v5.0. Error log: `ERROR_LOG.md`. Внешние якоря: `ANCHOR_CASES/` (сбор начат, 1 слабый кейс).
 
 Внимание: governance-нумерация и runtime-нумерация — **разные слои**, не последовательные версии одного объекта.
 
