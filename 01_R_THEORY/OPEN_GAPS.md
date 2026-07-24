@@ -553,3 +553,40 @@ Open:
   R3;
 - avoid treating regret, responsibility, or existential language as sufficient
   proof of R3.
+
+## 2026-07-24: R3 mode rule — revision request from a blind classifier test
+
+The dream mutation `codify-r3-mode-boundaries-error-replay` (idea
+`r3-modes-canon-compression-packet`, patch
+`2026-05-28_r3_modes_canon_compression_packet`) was run through its own
+`next_test`: two independent blind reviewers classified 14 neutral episodes
+using only the E_t/R_t rule. Full report:
+CSP `projects/codex-ops/dreams/2026-07-24-r3-mode-classifier-test.md`.
+
+Status:
+
+```text
+separability_proven / coverage_failed / needs_revision / owner_endorsed
+```
+
+Result: inter-reviewer agreement 0.938 (threshold 0.8 passed; no mode switch
+without a signal change) — the three modes are NOT narrative labels where the
+rule applies. But on 4/14 episodes BOTH reviewers independently required a
+category the rule lacks.
+
+Open (revision targets for the next dreaming pass on this card):
+
+- the rule formalizes the ENTRY into R3-C (sustained high E_t after repair
+  attempts + queued replay) but not R3-C ITSELF: during actual offline replay
+  the outer loop is paused, current E_t is low or undefined, and R_t drains —
+  reviewers either equated this with clean R3-A or refused to classify. Split
+  C into C-entry and C-replay (or define C by queue-drain, not by current
+  E_t), restoring the canon trigger "quieted stream + background pressure";
+- overload state: sustained high E_t with NO repair attempts and NO queueing
+  fits none of A/B/C — decide: fourth state, or explicitly out of R3 scope
+  (breakdown into lower loops);
+- chronic B-series: a session of continuous distinct spikes each locally
+  repaired is literally "B every window" — state whether serial B is still B;
+- falsifier reachability: a queue that is never replayed currently classifies
+  as valid C (rule requires queue existence, not replay execution) — decide
+  whether C requires eventual replay, else the falsifier can fire.
