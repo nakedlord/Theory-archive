@@ -590,3 +590,41 @@ Open (revision targets for the next dreaming pass on this card):
 - falsifier reachability: a queue that is never replayed currently classifies
   as valid C (rule requires queue existence, not replay execution) — decide
   whether C requires eventual replay, else the falsifier can fire.
+
+## 2026-07-27: Q-R3 metrics are named but not measurable (owner-triggered)
+
+`01_R_THEORY/PATCHES/q_r3_system.md` defines the Q-R3 loop (Tension Buffer →
+Question Generator → Bad Question Filter → Answer Suppression Gate → new frame)
+and names three metrics — QSI (Question Strength Index), RDR (Recursive Depth
+Reached), TPC (Tension Preservation Capacity) — but gives NO scale, NO procedure,
+and NO worked example for any of them. "ASG holds until the question creates a
+sufficient progress delta" is therefore unfalsifiable: "sufficient" cannot be
+checked.
+
+Status:
+
+```text
+gap_confirmed / blocks_operationalization / not_canon
+```
+
+Why it surfaced: the nightly mutation `q-r3-tension-to-repair-handoff-rule`
+(2026-07-25, evaluator 30/35, owner-endorsed as candidate) proposes a precise
+threshold — "QSI and TPC must improve across two consecutive windows before any
+answer/repair step" plus an explicit reject when mismatch stays flat. The owner
+asked what it actually means; grounding showed the threshold sits on top of
+undefined quantities. The evaluator credited it for "defined metrics (QSI, TPC)"
+— they are only named. So the real gap is one layer below the mutation.
+
+Open:
+
+- define QSI operationally: what observable distinguishes a question that creates
+  a NEW distinction from one that restates the frame? (candidate: does the
+  question change the set of admissible answers, and is that change checkable by
+  a second reader?);
+- define TPC operationally: what marks tension as "still held" vs "closed"?
+  (candidate: the Tension Buffer entry still forbids at least one previously
+  admissible answer);
+- decide whether RDR is separately needed or is a by-product of the
+  Meta-Question Graph (REFINE / SHIFT / META-SHIFT already encode level change);
+- only after the above: re-test the two-window handoff rule, which is otherwise
+  a precise threshold over unmeasured variables.
