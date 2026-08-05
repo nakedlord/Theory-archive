@@ -38,6 +38,12 @@ The index is not a transcript. It is a re-entry map: it tells future agents whic
 | creativity-analysis-self-model-deltas | Creativity Analysis Self-Model Deltas | active_hypothesis / non-canon | SynTax | `02_SYNTAX/HYPOTHESES/2026-06-17_creativity_analysis_self_model_deltas.md` | high | Test the chronochauvinism, masterpiece-on-demand conflict, and digital ghost self-model parameters. |
 | poetic-evolution-r-modes | Poetic Evolution and R-Modes | active_hypothesis / non-canon | R Theory, SynTax | `01_R_THEORY/HYPOTHESES/2026-06-17_poetic_evolution_r_modes.md` | high | Audit chronological R-mode poetics evolution (2011-2024) and model realized impotence as Decoherence Gate (DG) closure. |
 | exceptional-experience-attractiveness | Exceptional Experience Attractiveness Hypothesis | active_hypothesis / non-canon | Reproductive Strategy | `09_REPRODUCTIVE_STRATEGY/HYPOTHESES/2026-06-17_exceptional_experience_hypothesis.md` | high | Run behavioral choice survey to test whether unique/extreme experiences act as a proxy for genetic adaptability. |
+| entanglement-relational-carrier-2026-05-11 | Entanglement Relational Carrier Hypothesis | active_hypothesis | Meta | `00_META/IDEAS/2026-05-11_entanglement_relational_carrier.md` | high | — |
+| quantum-vacuum-memory-interference-2026-05-11 | Quantum Vacuum Memory / Contextual Space Hypothesis | active_hypothesis | Meta | `00_META/IDEAS/2026-05-11_quantum_vacuum_memory_interference.md` | high | — |
+| 2026-05-17-mathematical-ontological-inversion | Mathematical Ontological Inversion | active_hypothesis / operator_candidate | Meta | `00_META/IDEAS/2026-05-17_mathematical_ontological_inversion.md` | medium | — |
+| 2026-05-17-operator-hilbert-foundation-test | Operator Hilbert Foundation Test | conceptual_screen / needs_formalization | Meta | `00_META/IDEAS/2026-05-17_operator_hilbert_foundation_test.md` | medium | — |
+| 2026-05-17-symmetry-foundation-test | Symmetry Foundation Test | conceptual_screen / needs_formalization | Meta | `00_META/IDEAS/2026-05-17_symmetry_foundation_test.md` | medium | — |
+| m5-ze-entanglement-test-2026-05-28 | M5 / Z_e Entanglement Test | active_hypothesis | Meta | `00_META/IDEAS/2026-05-28_m5_ze_entanglement_test.md` | high | — |
 
 ## Use Rule
 
