@@ -116,3 +116,9 @@ source-YYYY-MM-DD-short-topic
 Every durable theory source should get a source ID before it updates a theory
 page. If an idea is speculative, mark it as draft, hypothesis, evidence, or
 candidate rather than canon.
+
+## Захват идеи — 2026-10-17
+
+| Source ID | Class | Source record | Status |
+|---|---|---|---|
+| syntax-2026-10-17-reason-linked-agent-continuity | human_note | [Голосовой разговор 17.10.2026](../02_SYNTAX/SOURCES/2026-10-17_reason_linked_agent_continuity_source_note.md) | FACT: Слова автора захвачены; гипотеза и её эффективность не проверены. |

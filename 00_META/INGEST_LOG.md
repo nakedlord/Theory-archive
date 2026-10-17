@@ -77,3 +77,9 @@ idea card, or canon-candidate change.
 
 This log records what changed. It does not make a theory canonical. Canon status
 must be stated in the target module and supported by the relevant review process.
+
+## 2026-10-17
+
+| Date | Source ID | Target Paths | Status | Agent | CSP Event | Notes |
+|---|---|---|---|---|---|---|
+| 2026-10-17 | syntax-2026-10-17-reason-linked-agent-continuity | `02_SYNTAX/SOURCES/2026-10-17_reason_linked_agent_continuity_source_note.md`; `02_SYNTAX/HYPOTHESES/2026-10-17_reason_linked_agent_continuity.md`; 00_META/KNOWLEDGE_INDEX.md; 00_META/SOURCE_REGISTRY.md | hypothesis / untested / not_canon | chatgpt | projects/syntax/events/2026-10-17-chatgpt-reason-linked-agent-continuity.md | FACT: Авторское уточнение сохранено: объяснение ПОСЛЕ каждого хода передаётся следующему ходу; MET: оценка задержки требует измерения, внедрения и испытания не выполнялись. |

@@ -60,3 +60,7 @@ the relevant review process is recorded.
 
 This bootstrap does not rewrite existing modules. It only adds a common entry
 point for future source-backed updates and lint reports.
+
+## Новый кандидат — 2026-10-17
+
+- [Непрерывность агента через основания каждого хода](../02_SYNTAX/HYPOTHESES/2026-10-17_reason_linked_agent_continuity.md) — HYP, не проверено; автор Игорь. После каждого хода передавать следующему шагу объяснение его основания. [Источник](../02_SYNTAX/SOURCES/2026-10-17_reason_linked_agent_continuity_source_note.md). Координация: syntax / syntax-theory-continuation; потенциальное испытание: syntax-agents.
